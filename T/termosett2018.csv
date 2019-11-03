@@ -1,0 +1,5191 @@
+Stazioni;Data;T-MIN;T-MAX
+Abbadia S.Salvatore;2018-09-01;11,5;21,5
+Abbadia S.Salvatore;2018-09-02;10,9;19,2
+Abbadia S.Salvatore;2018-09-03;11;21
+Abbadia S.Salvatore;2018-09-04;12,9;22,8
+Abbadia S.Salvatore;2018-09-05;12,2;23,6
+Abbadia S.Salvatore;2018-09-06;13,7;24,8
+Abbadia S.Salvatore;2018-09-07;14,7;22,6
+Abbadia S.Salvatore;2018-09-08;15,2;22,5
+Abbadia S.Salvatore;2018-09-09;15,4;24,6
+Abbadia S.Salvatore;2018-09-10;16,7;26
+Abbadia S.Salvatore;2018-09-11;17,8;27,1
+Abbadia S.Salvatore;2018-09-12;18;26,8
+Abbadia S.Salvatore;2018-09-13;16,6;21,1
+Abbadia S.Salvatore;2018-09-14;15,4;23,9
+Abbadia S.Salvatore;2018-09-15;14,6;26,2
+Abbadia S.Salvatore;2018-09-16;16,5;25,4
+Abbadia S.Salvatore;2018-09-17;15,5;24,4
+Abbadia S.Salvatore;2018-09-18;15;21,6
+Abbadia S.Salvatore;2018-09-19;14,9;23,7
+Abbadia S.Salvatore;2018-09-20;15,1;22,8
+Abbadia S.Salvatore;2018-09-21;14,6;26,4
+Abbadia S.Salvatore;2018-09-22;14,2;25,1
+Abbadia S.Salvatore;2018-09-23;13,8;24,1
+Abbadia S.Salvatore;2018-09-24;11,6;24,3
+Abbadia S.Salvatore;2018-09-25;7,9;15,3
+Abbadia S.Salvatore;2018-09-26;6,8;13,8
+Abbadia S.Salvatore;2018-09-27;10,4;19,9
+Abbadia S.Salvatore;2018-09-28;12,1;22
+Abbadia S.Salvatore;2018-09-29;13,3;22,2
+Abbadia S.Salvatore;2018-09-30;11,5;20,6
+Abbazia Trisulti;2018-09-01;14;22,8
+Abbazia Trisulti;2018-09-02;13,1;22,2
+Abbazia Trisulti;2018-09-03;12,6;21,5
+Abbazia Trisulti;2018-09-04;13,3;23,4
+Abbazia Trisulti;2018-09-05;13,5;24,5
+Abbazia Trisulti;2018-09-06;15;26,4
+Abbazia Trisulti;2018-09-07;14,4;25,3
+Abbazia Trisulti;2018-09-08;14,2;25,9
+Abbazia Trisulti;2018-09-09;16,4;25,9
+Abbazia Trisulti;2018-09-10;16,6;26,9
+Abbazia Trisulti;2018-09-11;16,7;27,6
+Abbazia Trisulti;2018-09-12;17,7;27,6
+Abbazia Trisulti;2018-09-13;16,6;24,1
+Abbazia Trisulti;2018-09-14;15,9;25,7
+Abbazia Trisulti;2018-09-15;15,8;26,2
+Abbazia Trisulti;2018-09-16;15,7;26,1
+Abbazia Trisulti;2018-09-17;15,9;25,7
+Abbazia Trisulti;2018-09-18;15,8;26
+Abbazia Trisulti;2018-09-19;16,3;22,8
+Abbazia Trisulti;2018-09-20;15,6;23,8
+Abbazia Trisulti;2018-09-21;15,3;24
+Abbazia Trisulti;2018-09-22;16,3;26,1
+Abbazia Trisulti;2018-09-23;16,1;25,8
+Abbazia Trisulti;2018-09-24;13,8;25,9
+Abbazia Trisulti;2018-09-25;10,2;16,7
+Abbazia Trisulti;2018-09-26;8,2;15,3
+Abbazia Trisulti;2018-09-27;9;20,6
+Abbazia Trisulti;2018-09-28;12,6;22,1
+Abbazia Trisulti;2018-09-29;11,5;23,7
+Abbazia Trisulti;2018-09-30;10,9;20,1
+Acquapendente;2018-09-01;15,2;26,1
+Acquapendente;2018-09-02;12,8;23,9
+Acquapendente;2018-09-03;12,3;29,8
+Acquapendente;2018-09-04;14,3;28,5
+Acquapendente;2018-09-05;11;32,6
+Acquapendente;2018-09-06;12,2;31,5
+Acquapendente;2018-09-07;17,2;28,8
+Acquapendente;2018-09-08;14,1;32,3
+Acquapendente;2018-09-09;13;34,8
+Acquapendente;2018-09-10;13,9;36,6
+Acquapendente;2018-09-11;12,4;37,9
+Acquapendente;2018-09-12;11,7;38,5
+Acquapendente;2018-09-13;15,5;26,4
+Acquapendente;2018-09-14;14,4;34,5
+Acquapendente;2018-09-15;14,6;34,2
+Acquapendente;2018-09-16;15;30,3
+Acquapendente;2018-09-17;14,8;30
+Acquapendente;2018-09-18;17,8;29,4
+Acquapendente;2018-09-19;16,7;32,1
+Acquapendente;2018-09-20;17,8;30,8
+Acquapendente;2018-09-21;14,6;32,4
+Acquapendente;2018-09-22;13,5;31,1
+Acquapendente;2018-09-23;15,3;28,2
+Acquapendente;2018-09-24;16,4;33,2
+Acquapendente;2018-09-25;13,1;23,9
+Acquapendente;2018-09-26;10,9;22,2
+Acquapendente;2018-09-27;3,7;29,5
+Acquapendente;2018-09-28;7,2;33,3
+Acquapendente;2018-09-29;7,3;32,4
+Acquapendente;2018-09-30;11,1;32,4
+Allumiere;2018-09-01;16,8;22,9
+Allumiere;2018-09-02;15,3;22,9
+Allumiere;2018-09-03;14,6;22,9
+Allumiere;2018-09-04;17;24,9
+Allumiere;2018-09-05;15,1;26,1
+Allumiere;2018-09-06;16,7;27,4
+Allumiere;2018-09-07;15,6;25,8
+Allumiere;2018-09-08;16,1;26,3
+Allumiere;2018-09-09;18,3;26,9
+Allumiere;2018-09-10;19;28,4
+Allumiere;2018-09-11;18,4;29,9
+Allumiere;2018-09-12;20,9;30,9
+Allumiere;2018-09-13;17,7;24,8
+Allumiere;2018-09-14;15,8;26,7
+Allumiere;2018-09-15;17,8;27,1
+Allumiere;2018-09-16;17,7;26,5
+Allumiere;2018-09-17;17,7;27
+Allumiere;2018-09-18;17,1;26,8
+Allumiere;2018-09-19;16,9;24,9
+Allumiere;2018-09-20;17,7;23,6
+Allumiere;2018-09-21;17,9;26,3
+Allumiere;2018-09-22;17,1;26,2
+Allumiere;2018-09-23;17,8;25,1
+Allumiere;2018-09-24;15,9;27,8
+Allumiere;2018-09-25;10,9;20,5
+Allumiere;2018-09-26;9,8;19,7
+Allumiere;2018-09-27;10;24
+Allumiere;2018-09-28;13,7;25,9
+Allumiere;2018-09-29;13,8;27,1
+Allumiere;2018-09-30;14,6;24,5
+Amatrice;2018-09-01;10,9;24,3
+Amatrice;2018-09-02;8,4;25,1
+Amatrice;2018-09-03;7,9;24,9
+Amatrice;2018-09-04;9,5;23,8
+Amatrice;2018-09-05;8,6;26,1
+Amatrice;2018-09-06;8,1;28
+Amatrice;2018-09-07;11,6;27
+Amatrice;2018-09-08;9,6;24,7
+Amatrice;2018-09-09;10;26,6
+Amatrice;2018-09-10;9,7;26,6
+Amatrice;2018-09-11;6,8;27,8
+Amatrice;2018-09-12;7;29,2
+Amatrice;2018-09-13;10,1;26,5
+Amatrice;2018-09-14;10,9;26,2
+Amatrice;2018-09-15;10,3;26,5
+Amatrice;2018-09-16;10;28
+Amatrice;2018-09-17;10,8;26
+Amatrice;2018-09-18;10,7;25,6
+Amatrice;2018-09-19;11,2;23,5
+Amatrice;2018-09-20;13,8;22
+Amatrice;2018-09-21;11,5;24,7
+Amatrice;2018-09-22;9,8;27
+Amatrice;2018-09-23;9,3;26,9
+Amatrice;2018-09-24;9,4;25,2
+Amatrice;2018-09-25;3,2;16,9
+Amatrice;2018-09-26;-0,1;14,9
+Amatrice;2018-09-27;-2,2;20,7
+Amatrice;2018-09-28;0,1;23,2
+Amatrice;2018-09-29;2,4;21,5
+Amatrice;2018-09-30;2,2;21
+Anzio;2018-09-01;19,6;26,2
+Anzio;2018-09-02;19,9;25,4
+Anzio;2018-09-03;18,5;25,6
+Anzio;2018-09-04;20,1;26,8
+Anzio;2018-09-05;20,2;26,7
+Anzio;2018-09-06;19,1;26,1
+Anzio;2018-09-07;17,6;26,2
+Anzio;2018-09-08;20;26,6
+Anzio;2018-09-09;20,5;27,2
+Anzio;2018-09-10;20,5;27,1
+Anzio;2018-09-11;20,5;27,4
+Anzio;2018-09-12;20,7;27,8
+Anzio;2018-09-13;21,9;26,1
+Anzio;2018-09-14;20,9;26,1
+Anzio;2018-09-15;21;26,8
+Anzio;2018-09-16;20,2;26
+Anzio;2018-09-17;20,1;26,4
+Anzio;2018-09-18;21,1;26,3
+Anzio;2018-09-19;20,4;24
+Anzio;2018-09-20;19,1;25,7
+Anzio;2018-09-21;20,4;25,3
+Anzio;2018-09-22;20,3;26,5
+Anzio;2018-09-23;21,5;26
+Anzio;2018-09-24;21,2;27
+Anzio;2018-09-25;17,4;23,4
+Anzio;2018-09-26;14;21,6
+Anzio;2018-09-27;14;22,8
+Anzio;2018-09-28;16,2;23,4
+Anzio;2018-09-29;16,1;24,3
+Anzio;2018-09-30;16,4;23,2
+Aprilia;2018-09-01;19,3;26,9
+Aprilia;2018-09-02;19,7;26,1
+Aprilia;2018-09-03;18,4;26
+Aprilia;2018-09-04;18,7;26,7
+Aprilia;2018-09-05;19,6;29,1
+Aprilia;2018-09-06;18,1;27,9
+Aprilia;2018-09-07;18,9;26,9
+Aprilia;2018-09-08;19,1;27,7
+Aprilia;2018-09-09;20,2;29,9
+Aprilia;2018-09-10;20,2;29,5
+Aprilia;2018-09-11;20,6;29,6
+Aprilia;2018-09-12;19,4;30,2
+Aprilia;2018-09-13;20,8;27,1
+Aprilia;2018-09-14;19,5;28,4
+Aprilia;2018-09-15;20,6;27,4
+Aprilia;2018-09-16;19,9;27,4
+Aprilia;2018-09-17;20,1;27,7
+Aprilia;2018-09-18;20,6;28
+Aprilia;2018-09-19;20,8;25,3
+Aprilia;2018-09-20;19,7;28,2
+Aprilia;2018-09-21;20,2;27,3
+Aprilia;2018-09-22;19,7;29,1
+Aprilia;2018-09-23;19,4;27,8
+Aprilia;2018-09-24;20,6;27,8
+Aprilia;2018-09-25;16,8;25,9
+Aprilia;2018-09-26;14,5;24,3
+Aprilia;2018-09-27;13,3;25,6
+Aprilia;2018-09-28;15,3;24,7
+Aprilia;2018-09-29;14,4;26,2
+Aprilia;2018-09-30;16,3;24,1
+Ardea;2018-09-01;19,5;30,1
+Ardea;2018-09-02;17,2;29,8
+Ardea;2018-09-03;16,5;29,8
+Ardea;2018-09-04;14,3;29,9
+Ardea;2018-09-05;15,5;31,5
+Ardea;2018-09-06;13,7;31,1
+Ardea;2018-09-07;17,1;30,4
+Ardea;2018-09-08;17;30,9
+Ardea;2018-09-09;16,8;31,6
+Ardea;2018-09-10;17,2;31,7
+Ardea;2018-09-11;15,6;32,1
+Ardea;2018-09-12;15,1;33,1
+Ardea;2018-09-13;17,8;28,7
+Ardea;2018-09-14;17,4;29,9
+Ardea;2018-09-15;15,5;30,9
+Ardea;2018-09-16;15,9;30,7
+Ardea;2018-09-17;16,1;30,4
+Ardea;2018-09-18;20,1;30,7
+Ardea;2018-09-19;20,5;27,1
+Ardea;2018-09-20;19;30,9
+Ardea;2018-09-21;18,6;29,7
+Ardea;2018-09-22;16,1;31,8
+Ardea;2018-09-23;15,1;30,3
+Ardea;2018-09-24;20,3;31,6
+Ardea;2018-09-25;12,7;27,9
+Ardea;2018-09-26;8,7;26,8
+Ardea;2018-09-27;7,7;25,5
+Ardea;2018-09-28;9,3;26,6
+Ardea;2018-09-29;9,1;28,5
+Ardea;2018-09-30;9,2;26,7
+Arsoli;2018-09-01;14,4;25,3
+Arsoli;2018-09-02;12,5;26,4
+Arsoli;2018-09-03;12,5;26,8
+Arsoli;2018-09-04;12,3;28,1
+Arsoli;2018-09-05;12,3;30
+Arsoli;2018-09-06;11,8;30,5
+Arsoli;2018-09-07;13,9;28,4
+Arsoli;2018-09-08;12,2;30,2
+Arsoli;2018-09-09;14,6;31,1
+Arsoli;2018-09-10;13,8;31,4
+Arsoli;2018-09-11;13,1;31,5
+Arsoli;2018-09-12;13,8;32,3
+Arsoli;2018-09-13;14,5;23,9
+Arsoli;2018-09-14;15;30,4
+Arsoli;2018-09-15;13;30,6
+Arsoli;2018-09-16;13,7;30,2
+Arsoli;2018-09-17;14,4;29,7
+Arsoli;2018-09-18;15,8;29,4
+Arsoli;2018-09-19;16,3;25,9
+Arsoli;2018-09-20;16,7;26
+Arsoli;2018-09-21;15,4;27,6
+Arsoli;2018-09-22;14,9;30,3
+Arsoli;2018-09-23;13,7;30,2
+Arsoli;2018-09-24;13,7;31,5
+Arsoli;2018-09-25;12,3;25,5
+Arsoli;2018-09-26;6,4;23,3
+Arsoli;2018-09-27;1,2;28
+Arsoli;2018-09-28;3;27,6
+Arsoli;2018-09-29;5,9;29,4
+Arsoli;2018-09-30;7,4;26,1
+Baccano;2018-09-01;15,5;25,8
+Baccano;2018-09-02;13,7;26,6
+Baccano;2018-09-03;12,9;28,9
+Baccano;2018-09-04;12,2;30,5
+Baccano;2018-09-05;13;32,8
+Baccano;2018-09-06;12,6;31,9
+Baccano;2018-09-07;16,2;32,9
+Baccano;2018-09-08;14,6;33,3
+Baccano;2018-09-09;14,7;33,1
+Baccano;2018-09-10;15,7;35,3
+Baccano;2018-09-11;14,6;35,1
+Baccano;2018-09-12;13;36
+Baccano;2018-09-13;14,6;28,2
+Baccano;2018-09-14;14,9;32,9
+Baccano;2018-09-15;11,6;32,2
+Baccano;2018-09-16;14,8;29,7
+Baccano;2018-09-17;13,5;30,8
+Baccano;2018-09-18;16,2;29,4
+Baccano;2018-09-19;17,3;30,2
+Baccano;2018-09-20;16,8;27,6
+Baccano;2018-09-21;16,1;28,8
+Baccano;2018-09-22;14,6;33,6
+Baccano;2018-09-23;12,5;28,5
+Baccano;2018-09-24;15,8;30
+Baccano;2018-09-25;10,5;28,1
+Baccano;2018-09-26;9,4;26,9
+Baccano;2018-09-27;9;31,1
+Baccano;2018-09-28;5,3;31,4
+Baccano;2018-09-29;7,4;31,6
+Baccano;2018-09-30;11,3;27,7
+Bagnoregio;2018-09-01;15,6;23,9
+Bagnoregio;2018-09-02;13,7;22,1
+Bagnoregio;2018-09-03;14,1;24,7
+Bagnoregio;2018-09-04;15,2;25,9
+Bagnoregio;2018-09-05;15,2;28,1
+Bagnoregio;2018-09-06;15,8;28,7
+Bagnoregio;2018-09-07;16,5;25,8
+Bagnoregio;2018-09-08;16,3;27,6
+Bagnoregio;2018-09-09;17,9;28,5
+Bagnoregio;2018-09-10;18,3;29,8
+Bagnoregio;2018-09-11;18,4;30,6
+Bagnoregio;2018-09-12;18,8;32
+Bagnoregio;2018-09-13;19;24
+Bagnoregio;2018-09-14;17,9;29,4
+Bagnoregio;2018-09-15;15,9;28,7
+Bagnoregio;2018-09-16;17,3;27,5
+Bagnoregio;2018-09-17;16,9;26,7
+Bagnoregio;2018-09-18;17,7;27,3
+Bagnoregio;2018-09-19;17,2;26,7
+Bagnoregio;2018-09-20;17,3;26,2
+Bagnoregio;2018-09-21;17,2;27,5
+Bagnoregio;2018-09-22;17;27,6
+Bagnoregio;2018-09-23;16,4;26,3
+Bagnoregio;2018-09-24;13,9;27
+Bagnoregio;2018-09-25;11,2;21,1
+Bagnoregio;2018-09-26;8,5;19,2
+Bagnoregio;2018-09-27;8,4;25,2
+Bagnoregio;2018-09-28;13,8;27,3
+Bagnoregio;2018-09-29;13,1;27,9
+Bagnoregio;2018-09-30;12,4;26
+Barbarano;2018-09-01;17,7;24,4
+Barbarano;2018-09-02;15,6;24,4
+Barbarano;2018-09-03;15,3;24,8
+Barbarano;2018-09-04;16,4;26,4
+Barbarano;2018-09-05;15,5;28,3
+Barbarano;2018-09-06;16;28,4
+Barbarano;2018-09-07;17;27,6
+Barbarano;2018-09-08;16,2;27,1
+Barbarano;2018-09-09;17,4;28,2
+Barbarano;2018-09-10;17,9;29,1
+Barbarano;2018-09-11;16,4;30,5
+Barbarano;2018-09-12;17;30,3
+Barbarano;2018-09-13;18,3;25,2
+Barbarano;2018-09-14;17,8;27,6
+Barbarano;2018-09-15;16,8;27,2
+Barbarano;2018-09-16;17,6;27,4
+Barbarano;2018-09-17;16,9;27,6
+Barbarano;2018-09-18;17,6;27,9
+Barbarano;2018-09-19;18,8;25,1
+Barbarano;2018-09-20;18,7;25,9
+Barbarano;2018-09-21;17,9;27,3
+Barbarano;2018-09-22;16,9;27,2
+Barbarano;2018-09-23;17,4;26,1
+Barbarano;2018-09-24;17,7;29,2
+Barbarano;2018-09-25;11,3;22
+Barbarano;2018-09-26;9,6;21
+Barbarano;2018-09-27;6,5;25,1
+Barbarano;2018-09-28;10,9;26,1
+Barbarano;2018-09-29;13;27,6
+Barbarano;2018-09-30;10,7;25
+Bolsena;2018-09-01;17,3;26
+Bolsena;2018-09-02;15,2;26,3
+Bolsena;2018-09-03;14,8;25,5
+Bolsena;2018-09-04;16,4;26,8
+Bolsena;2018-09-05;15,2;28,2
+Bolsena;2018-09-06;15,4;28,4
+Bolsena;2018-09-07;16,5;26,5
+Bolsena;2018-09-08;16;27,5
+Bolsena;2018-09-09;17,8;28,7
+Bolsena;2018-09-10;17;29,7
+Bolsena;2018-09-11;17,4;30,2
+Bolsena;2018-09-12;16,5;31,4
+Bolsena;2018-09-13;17,9;24,9
+Bolsena;2018-09-14;17,7;29,4
+Bolsena;2018-09-15;16,6;28,6
+Bolsena;2018-09-16;17,4;29
+Bolsena;2018-09-17;17,2;28,6
+Bolsena;2018-09-18;19;27,9
+Bolsena;2018-09-19;18,4;28,5
+Bolsena;2018-09-20;19,5;25,8
+Bolsena;2018-09-21;17,4;28,5
+Bolsena;2018-09-22;-;-
+Bolsena;2018-09-23;-;-
+Bolsena;2018-09-24;-;-
+Bolsena;2018-09-25;-;-
+Bolsena;2018-09-26;-;-
+Bolsena;2018-09-27;8,5;25,3
+Bolsena;2018-09-28;14,1;27,1
+Bolsena;2018-09-29;12,3;27,4
+Bolsena;2018-09-30;13,7;25,5
+Borgo Montello;2018-09-01;18,4;29,7
+Borgo Montello;2018-09-02;16,8;29
+Borgo Montello;2018-09-03;15,9;30,4
+Borgo Montello;2018-09-04;14,3;30,1
+Borgo Montello;2018-09-05;15,5;32,8
+Borgo Montello;2018-09-06;14,8;32,3
+Borgo Montello;2018-09-07;16,4;31,6
+Borgo Montello;2018-09-08;16,3;31
+Borgo Montello;2018-09-09;17,1;32,7
+Borgo Montello;2018-09-10;17;32,8
+Borgo Montello;2018-09-11;16,2;33,6
+Borgo Montello;2018-09-12;15,5;33,4
+Borgo Montello;2018-09-13;17,3;28,3
+Borgo Montello;2018-09-14;18;31,8
+Borgo Montello;2018-09-15;15;31,7
+Borgo Montello;2018-09-16;16,3;32,1
+Borgo Montello;2018-09-17;16,5;31,7
+Borgo Montello;2018-09-18;19,7;31,3
+Borgo Montello;2018-09-19;20;27,7
+Borgo Montello;2018-09-20;18,9;32
+Borgo Montello;2018-09-21;18,4;29,7
+Borgo Montello;2018-09-22;16,6;31,9
+Borgo Montello;2018-09-23;15,6;30,8
+Borgo Montello;2018-09-24;17,6;32
+Borgo Montello;2018-09-25;13,2;29,6
+Borgo Montello;2018-09-26;8;25,5
+Borgo Montello;2018-09-27;9;27,6
+Borgo Montello;2018-09-28;9,8;27,9
+Borgo Montello;2018-09-29;9,9;29,1
+Borgo Montello;2018-09-30;10,6;26,9
+Borgorose;2018-09-01;12;22
+Borgorose;2018-09-02;10,2;22,2
+Borgorose;2018-09-03;9,2;21,3
+Borgorose;2018-09-04;9,8;21,7
+Borgorose;2018-09-05;10,7;24,6
+Borgorose;2018-09-06;10,1;26
+Borgorose;2018-09-07;13;24,3
+Borgorose;2018-09-08;10,9;24,5
+Borgorose;2018-09-09;10,5;25,2
+Borgorose;2018-09-10;12,2;26,2
+Borgorose;2018-09-11;10,1;28,3
+Borgorose;2018-09-12;10,4;28,7
+Borgorose;2018-09-13;12,3;22,6
+Borgorose;2018-09-14;10,9;25,7
+Borgorose;2018-09-15;11,5;26,3
+Borgorose;2018-09-16;11,9;26,5
+Borgorose;2018-09-17;12,8;26,3
+Borgorose;2018-09-18;14,8;24,9
+Borgorose;2018-09-19;12,7;24,2
+Borgorose;2018-09-20;14,9;22,9
+Borgorose;2018-09-21;13,7;24,3
+Borgorose;2018-09-22;11,1;26
+Borgorose;2018-09-23;10,8;25,8
+Borgorose;2018-09-24;12,2;25,5
+Borgorose;2018-09-25;4,9;17,4
+Borgorose;2018-09-26;4,3;15,9
+Borgorose;2018-09-27;1,5;21,5
+Borgorose;2018-09-28;2,8;25,1
+Borgorose;2018-09-29;4,2;22,9
+Borgorose;2018-09-30;5,8;21
+Bracciano;2018-09-01;18,1;25,2
+Bracciano;2018-09-02;16,9;25,6
+Bracciano;2018-09-03;17,2;26,7
+Bracciano;2018-09-04;17,4;28
+Bracciano;2018-09-05;18,1;30,9
+Bracciano;2018-09-06;17,7;29,7
+Bracciano;2018-09-07;18,5;28,2
+Bracciano;2018-09-08;18,4;30
+Bracciano;2018-09-09;19,7;31,1
+Bracciano;2018-09-10;19,9;31,9
+Bracciano;2018-09-11;18,7;32,6
+Bracciano;2018-09-12;18,6;33,6
+Bracciano;2018-09-13;20,1;26,7
+Bracciano;2018-09-14;19,8;30,1
+Bracciano;2018-09-15;18,5;28,3
+Bracciano;2018-09-16;19,1;29,4
+Bracciano;2018-09-17;18,6;29,6
+Bracciano;2018-09-18;19,6;28,7
+Bracciano;2018-09-19;20;25,8
+Bracciano;2018-09-20;19,7;27,1
+Bracciano;2018-09-21;19,1;28,8
+Bracciano;2018-09-22;18,8;30,1
+Bracciano;2018-09-23;19,2;27,9
+Bracciano;2018-09-24;19,3;30,7
+Bracciano;2018-09-25;14,3;25,2
+Bracciano;2018-09-26;12,5;23,6
+Bracciano;2018-09-27;12;27
+Bracciano;2018-09-28;14,5;28,5
+Bracciano;2018-09-29;14,3;28,9
+Bracciano;2018-09-30;16,5;25,3
+Brusciano;2018-09-01;10,7;18,9
+Brusciano;2018-09-02;9,4;19,1
+Brusciano;2018-09-03;9,7;19,2
+Brusciano;2018-09-04;10;18,3
+Brusciano;2018-09-05;9,7;21,1
+Brusciano;2018-09-06;11,4;22,7
+Brusciano;2018-09-07;12,1;21,3
+Brusciano;2018-09-08;10,6;20,6
+Brusciano;2018-09-09;11,4;21,6
+Brusciano;2018-09-10;12,8;22,4
+Brusciano;2018-09-11;11,6;24,2
+Brusciano;2018-09-12;13,5;25,1
+Brusciano;2018-09-13;13,3;20,4
+Brusciano;2018-09-14;12,4;22,2
+Brusciano;2018-09-15;12,6;22,9
+Brusciano;2018-09-16;12,8;24,1
+Brusciano;2018-09-17;12,9;22,6
+Brusciano;2018-09-18;12,6;21,2
+Brusciano;2018-09-19;12,4;21
+Brusciano;2018-09-20;13;19,5
+Brusciano;2018-09-21;12,2;20,7
+Brusciano;2018-09-22;11,7;22,3
+Brusciano;2018-09-23;12,4;21,9
+Brusciano;2018-09-24;7,1;21,2
+Brusciano;2018-09-25;4,1;11,6
+Brusciano;2018-09-26;2,3;11,1
+Brusciano;2018-09-27;5,6;15,1
+Brusciano;2018-09-28;7,8;18,4
+Brusciano;2018-09-29;9,7;18,8
+Brusciano;2018-09-30;7,4;16,9
+Campaegli;2018-09-01;9,9;15
+Campaegli;2018-09-02;7,6;15,8
+Campaegli;2018-09-03;7,9;16,4
+Campaegli;2018-09-04;7,8;18,8
+Campaegli;2018-09-05;9,9;19,3
+Campaegli;2018-09-06;8,3;20,5
+Campaegli;2018-09-07;9,7;17,7
+Campaegli;2018-09-08;8;19
+Campaegli;2018-09-09;9,8;20,2
+Campaegli;2018-09-10;10,3;21,2
+Campaegli;2018-09-11;8;21,3
+Campaegli;2018-09-12;9,5;22,7
+Campaegli;2018-09-13;11,4;19,4
+Campaegli;2018-09-14;9,6;20,4
+Campaegli;2018-09-15;10,1;20,8
+Campaegli;2018-09-16;9,7;20,7
+Campaegli;2018-09-17;9,9;20,2
+Campaegli;2018-09-18;11,8;20,4
+Campaegli;2018-09-19;12;19
+Campaegli;2018-09-20;12,4;18,8
+Campaegli;2018-09-21;11;19,2
+Campaegli;2018-09-22;9,8;20,9
+Campaegli;2018-09-23;9,7;19,8
+Campaegli;2018-09-24;9,5;20,9
+Campaegli;2018-09-25;4,7;12,2
+Campaegli;2018-09-26;2,4;10,9
+Campaegli;2018-09-27;8,8;14,8
+Campaegli;2018-09-28;8;17,8
+Campaegli;2018-09-29;4,2;18,6
+Campaegli;2018-09-30;6;17,2
+Campo di Carne;2018-09-01;18,2;27,7
+Campo di Carne;2018-09-02;16,7;26,6
+Campo di Carne;2018-09-03;16,4;29
+Campo di Carne;2018-09-04;16;27,3
+Campo di Carne;2018-09-05;16,4;29
+Campo di Carne;2018-09-06;14,8;29,6
+Campo di Carne;2018-09-07;16,9;29,3
+Campo di Carne;2018-09-08;16,6;29,4
+Campo di Carne;2018-09-09;17,6;30,7
+Campo di Carne;2018-09-10;17,4;30,4
+Campo di Carne;2018-09-11;16,2;30,3
+Campo di Carne;2018-09-12;16,1;31
+Campo di Carne;2018-09-13;18,5;27,9
+Campo di Carne;2018-09-14;18,7;28,5
+Campo di Carne;2018-09-15;17,7;28,4
+Campo di Carne;2018-09-16;16,2;29
+Campo di Carne;2018-09-17;16,5;28,7
+Campo di Carne;2018-09-18;19,7;29,1
+Campo di Carne;2018-09-19;20;26,6
+Campo di Carne;2018-09-20;18,9;28,8
+Campo di Carne;2018-09-21;18,6;27,5
+Campo di Carne;2018-09-22;16,5;29,3
+Campo di Carne;2018-09-23;15,7;28,9
+Campo di Carne;2018-09-24;18;29,2
+Campo di Carne;2018-09-25;13,7;26,4
+Campo di Carne;2018-09-26;9;23,8
+Campo di Carne;2018-09-27;8,5;24,9
+Campo di Carne;2018-09-28;10,1;25
+Campo di Carne;2018-09-29;9,3;26,5
+Campo di Carne;2018-09-30;10,3;25,1
+Campodimele;2018-09-01;16,7;23,6
+Campodimele;2018-09-02;15,8;23,1
+Campodimele;2018-09-03;15,4;22,1
+Campodimele;2018-09-04;15,1;24,3
+Campodimele;2018-09-05;16;25
+Campodimele;2018-09-06;17,1;26,2
+Campodimele;2018-09-07;17,2;23,8
+Campodimele;2018-09-08;16,9;25,2
+Campodimele;2018-09-09;17,7;26,6
+Campodimele;2018-09-10;18,9;26,2
+Campodimele;2018-09-11;18,4;29
+Campodimele;2018-09-12;19,4;28
+Campodimele;2018-09-13;18,7;24,6
+Campodimele;2018-09-14;17,6;26,2
+Campodimele;2018-09-15;17,4;27,2
+Campodimele;2018-09-16;17,5;26,4
+Campodimele;2018-09-17;17,9;25,6
+Campodimele;2018-09-18;17,4;24,8
+Campodimele;2018-09-19;17,3;21,8
+Campodimele;2018-09-20;17;24,9
+Campodimele;2018-09-21;17,5;22,8
+Campodimele;2018-09-22;17,8;26,6
+Campodimele;2018-09-23;17,6;26
+Campodimele;2018-09-24;15,4;25,5
+Campodimele;2018-09-25;10,4;18,7
+Campodimele;2018-09-26;8,2;17,3
+Campodimele;2018-09-27;10,6;21,8
+Campodimele;2018-09-28;12,4;23,1
+Campodimele;2018-09-29;14,3;24,5
+Campodimele;2018-09-30;14,1;21,8
+Campoli Appennino;2018-09-01;14,9;24,2
+Campoli Appennino;2018-09-02;16;24,5
+Campoli Appennino;2018-09-03;14,8;23,8
+Campoli Appennino;2018-09-04;14,8;24,8
+Campoli Appennino;2018-09-05;15,4;26,6
+Campoli Appennino;2018-09-06;16,7;27,3
+Campoli Appennino;2018-09-07;16,9;25,4
+Campoli Appennino;2018-09-08;16;26,3
+Campoli Appennino;2018-09-09;17,8;26,8
+Campoli Appennino;2018-09-10;17,9;27,4
+Campoli Appennino;2018-09-11;18,2;28,5
+Campoli Appennino;2018-09-12;18,6;29,2
+Campoli Appennino;2018-09-13;18,7;25,1
+Campoli Appennino;2018-09-14;17,4;27
+Campoli Appennino;2018-09-15;17,5;27,8
+Campoli Appennino;2018-09-16;17,7;27,5
+Campoli Appennino;2018-09-17;17,9;27,4
+Campoli Appennino;2018-09-18;18,2;26,3
+Campoli Appennino;2018-09-19;17,7;23,3
+Campoli Appennino;2018-09-20;17,4;25,3
+Campoli Appennino;2018-09-21;17,4;25,8
+Campoli Appennino;2018-09-22;17,9;27,3
+Campoli Appennino;2018-09-23;17,4;26,8
+Campoli Appennino;2018-09-24;15,6;27,2
+Campoli Appennino;2018-09-25;11,7;18,6
+Campoli Appennino;2018-09-26;10,4;15,3
+Campoli Appennino;2018-09-27;9,4;21,4
+Campoli Appennino;2018-09-28;12,6;23,2
+Campoli Appennino;2018-09-29;14,2;23,7
+Campoli Appennino;2018-09-30;12,2;22,7
+Canino rlazio;2018-09-01;18,3;27
+Canino rlazio;2018-09-02;15,1;27
+Canino rlazio;2018-09-03;15;27,9
+Canino rlazio;2018-09-04;16,2;28,9
+Canino rlazio;2018-09-05;15;31,7
+Canino rlazio;2018-09-06;15,3;30,9
+Canino rlazio;2018-09-07;17,4;29,1
+Canino rlazio;2018-09-08;17,4;29,6
+Canino rlazio;2018-09-09;16,9;31,4
+Canino rlazio;2018-09-10;17,8;32,3
+Canino rlazio;2018-09-11;16,7;33,4
+Canino rlazio;2018-09-12;16,8;34
+Canino rlazio;2018-09-13;18,1;27,1
+Canino rlazio;2018-09-14;17,6;30,8
+Canino rlazio;2018-09-15;16,6;30,4
+Canino rlazio;2018-09-16;18,1;29,4
+Canino rlazio;2018-09-17;16,8;29,1
+Canino rlazio;2018-09-18;18,4;29,6
+Canino rlazio;2018-09-19;18,8;28,4
+Canino rlazio;2018-09-20;20,5;29,5
+Canino rlazio;2018-09-21;18,1;30
+Canino rlazio;2018-09-22;16,5;29,4
+Canino rlazio;2018-09-23;18,7;27,3
+Canino rlazio;2018-09-24;18,4;30,4
+Canino rlazio;2018-09-25;14,6;22,4
+Canino rlazio;2018-09-26;12,9;20,7
+Canino rlazio;2018-09-27;10,1;26,7
+Canino rlazio;2018-09-28;11,9;30,2
+Canino rlazio;2018-09-29;13,8;29,4
+Canino rlazio;2018-09-30;12,9;27,4
+Carpineto Romano;2018-09-01;15,8;24,7
+Carpineto Romano;2018-09-02;14,6;24,1
+Carpineto Romano;2018-09-03;14,8;23,1
+Carpineto Romano;2018-09-04;14;25,1
+Carpineto Romano;2018-09-05;14,3;26,6
+Carpineto Romano;2018-09-06;15,6;28
+Carpineto Romano;2018-09-07;16,1;26,2
+Carpineto Romano;2018-09-08;15,6;25,9
+Carpineto Romano;2018-09-09;16,7;27,1
+Carpineto Romano;2018-09-10;17,1;27,3
+Carpineto Romano;2018-09-11;16,9;28,2
+Carpineto Romano;2018-09-12;17,4;28,7
+Carpineto Romano;2018-09-13;17,2;23,1
+Carpineto Romano;2018-09-14;15,9;26,9
+Carpineto Romano;2018-09-15;16,3;26,6
+Carpineto Romano;2018-09-16;15,8;27,8
+Carpineto Romano;2018-09-17;16,3;27,6
+Carpineto Romano;2018-09-18;16,4;25,7
+Carpineto Romano;2018-09-19;16,7;22,2
+Carpineto Romano;2018-09-20;16,3;25,2
+Carpineto Romano;2018-09-21;16;27
+Carpineto Romano;2018-09-22;16,3;28,2
+Carpineto Romano;2018-09-23;16,1;26,8
+Carpineto Romano;2018-09-24;16,1;27,9
+Carpineto Romano;2018-09-25;10,2;22,5
+Carpineto Romano;2018-09-26;7,9;21,5
+Carpineto Romano;2018-09-27;8,2;24,3
+Carpineto Romano;2018-09-28;10,4;23,6
+Carpineto Romano;2018-09-29;12;24,8
+Carpineto Romano;2018-09-30;12,3;22,9
+Castello Vici;2018-09-01;15,4;22,8
+Castello Vici;2018-09-02;15,1;22,8
+Castello Vici;2018-09-03;14,4;23,6
+Castello Vici;2018-09-04;14,3;24,6
+Castello Vici;2018-09-05;16,3;26,8
+Castello Vici;2018-09-06;16,2;25,8
+Castello Vici;2018-09-07;15,8;24,9
+Castello Vici;2018-09-08;15,8;25,8
+Castello Vici;2018-09-09;18,2;27,5
+Castello Vici;2018-09-10;17,6;27,1
+Castello Vici;2018-09-11;17,8;27,9
+Castello Vici;2018-09-12;18,9;29,2
+Castello Vici;2018-09-13;18,9;24,4
+Castello Vici;2018-09-14;18,1;27,5
+Castello Vici;2018-09-15;14,9;25,6
+Castello Vici;2018-09-16;16,4;25,2
+Castello Vici;2018-09-17;15,6;25,7
+Castello Vici;2018-09-18;18,2;25,7
+Castello Vici;2018-09-19;17;23,5
+Castello Vici;2018-09-20;17,5;25,4
+Castello Vici;2018-09-21;16,9;25,8
+Castello Vici;2018-09-22;18,1;26,5
+Castello Vici;2018-09-23;15,4;25
+Castello Vici;2018-09-24;17,8;27
+Castello Vici;2018-09-25;12,8;23,9
+Castello Vici;2018-09-26;11,1;22,1
+Castello Vici;2018-09-27;10,1;25,4
+Castello Vici;2018-09-28;13,2;24,2
+Castello Vici;2018-09-29;13,1;24,8
+Castello Vici;2018-09-30;14,1;23,2
+Ceccano rlazio;2018-09-01;16,7;29,9
+Ceccano rlazio;2018-09-02;14,2;27,9
+Ceccano rlazio;2018-09-03;13,8;26,4
+Ceccano rlazio;2018-09-04;12,9;29,6
+Ceccano rlazio;2018-09-05;13,6;30,3
+Ceccano rlazio;2018-09-06;13,1;31,3
+Ceccano rlazio;2018-09-07;15,4;30,2
+Ceccano rlazio;2018-09-08;13,6;31,4
+Ceccano rlazio;2018-09-09;15,4;32,1
+Ceccano rlazio;2018-09-10;16;32,2
+Ceccano rlazio;2018-09-11;14,4;33,5
+Ceccano rlazio;2018-09-12;13,7;34,1
+Ceccano rlazio;2018-09-13;16,1;26,9
+Ceccano rlazio;2018-09-14;16,1;31,5
+Ceccano rlazio;2018-09-15;14,6;31,8
+Ceccano rlazio;2018-09-16;15;31,5
+Ceccano rlazio;2018-09-17;15,3;31,3
+Ceccano rlazio;2018-09-18;17,8;30,9
+Ceccano rlazio;2018-09-19;18,4;26
+Ceccano rlazio;2018-09-20;17,6;28,7
+Ceccano rlazio;2018-09-21;16,6;29,3
+Ceccano rlazio;2018-09-22;14,8;31,9
+Ceccano rlazio;2018-09-23;14,6;30,9
+Ceccano rlazio;2018-09-24;15;31
+Ceccano rlazio;2018-09-25;8,2;26,8
+Ceccano rlazio;2018-09-26;4,7;23,7
+Ceccano rlazio;2018-09-27;2,6;27
+Ceccano rlazio;2018-09-28;4,2;27,8
+Ceccano rlazio;2018-09-29;5,7;29,2
+Ceccano rlazio;2018-09-30;7,5;26,3
+Cecchina;2018-09-01;18,8;26,3
+Cecchina;2018-09-02;18,1;25,4
+Cecchina;2018-09-03;17,9;26,3
+Cecchina;2018-09-04;17,4;27
+Cecchina;2018-09-05;18,1;28,8
+Cecchina;2018-09-06;18,5;28,1
+Cecchina;2018-09-07;17,6;28,2
+Cecchina;2018-09-08;18,8;28
+Cecchina;2018-09-09;20;29,3
+Cecchina;2018-09-10;20,6;29
+Cecchina;2018-09-11;19,7;29,8
+Cecchina;2018-09-12;20,8;30,8
+Cecchina;2018-09-13;20,3;27,1
+Cecchina;2018-09-14;19,5;28,9
+Cecchina;2018-09-15;20;27,7
+Cecchina;2018-09-16;19;28,1
+Cecchina;2018-09-17;19,2;27,9
+Cecchina;2018-09-18;19,8;28,2
+Cecchina;2018-09-19;19,6;24,7
+Cecchina;2018-09-20;18,6;28,2
+Cecchina;2018-09-21;19,6;27,3
+Cecchina;2018-09-22;19,9;28,8
+Cecchina;2018-09-23;19,4;27,9
+Cecchina;2018-09-24;19,2;27,9
+Cecchina;2018-09-25;15,6;25
+Cecchina;2018-09-26;13,4;23,9
+Cecchina;2018-09-27;13,6;24,8
+Cecchina;2018-09-28;14,9;25,3
+Cecchina;2018-09-29;15,4;26,1
+Cecchina;2018-09-30;16,4;24,7
+Cervaro;2018-09-01;17,8;26,3
+Cervaro;2018-09-02;16,8;26,1
+Cervaro;2018-09-03;15,1;26,6
+Cervaro;2018-09-04;15;27,3
+Cervaro;2018-09-05;16,6;28,9
+Cervaro;2018-09-06;16,7;29,4
+Cervaro;2018-09-07;17,1;28,2
+Cervaro;2018-09-08;15,8;28,6
+Cervaro;2018-09-09;17,5;29,9
+Cervaro;2018-09-10;18,4;30,2
+Cervaro;2018-09-11;16,8;31,8
+Cervaro;2018-09-12;18,3;31,9
+Cervaro;2018-09-13;18,7;27,9
+Cervaro;2018-09-14;18,7;29,9
+Cervaro;2018-09-15;17,3;30,2
+Cervaro;2018-09-16;17,7;29,5
+Cervaro;2018-09-17;17,6;29,4
+Cervaro;2018-09-18;18,5;28,9
+Cervaro;2018-09-19;19,2;26
+Cervaro;2018-09-20;18;28,3
+Cervaro;2018-09-21;17,4;27,6
+Cervaro;2018-09-22;17,2;30,1
+Cervaro;2018-09-23;17,7;29,6
+Cervaro;2018-09-24;17,6;29,4
+Cervaro;2018-09-25;14,6;20,7
+Cervaro;2018-09-26;9,4;20,3
+Cervaro;2018-09-27;8,3;24,5
+Cervaro;2018-09-28;11,5;26,4
+Cervaro;2018-09-29;11,9;27,6
+Cervaro;2018-09-30;12,6;25
+Cimino;2018-09-01;14,4;21,5
+Cimino;2018-09-02;12,9;22,5
+Cimino;2018-09-03;12;23,5
+Cimino;2018-09-04;13,3;23,1
+Cimino;2018-09-05;13,1;25,1
+Cimino;2018-09-06;14,6;25
+Cimino;2018-09-07;14,6;25,2
+Cimino;2018-09-08;14,3;25
+Cimino;2018-09-09;15,4;26,4
+Cimino;2018-09-10;16,6;26,6
+Cimino;2018-09-11;15,3;27,7
+Cimino;2018-09-12;18,5;27,8
+Cimino;2018-09-13;15,9;22,9
+Cimino;2018-09-14;14,9;25,8
+Cimino;2018-09-15;14,2;24,7
+Cimino;2018-09-16;15,3;25
+Cimino;2018-09-17;15,4;25,8
+Cimino;2018-09-18;14,7;24,2
+Cimino;2018-09-19;14,2;24,7
+Cimino;2018-09-20;15,4;22,7
+Cimino;2018-09-21;14,7;23,8
+Cimino;2018-09-22;15,1;23,9
+Cimino;2018-09-23;14,7;23,7
+Cimino;2018-09-24;11,8;25,2
+Cimino;2018-09-25;7,4;17,2
+Cimino;2018-09-26;6;15,7
+Cimino;2018-09-27;6,8;19,7
+Cimino;2018-09-28;10,3;21,3
+Cimino;2018-09-29;11,3;22,4
+Cimino;2018-09-30;10,6;19,7
+Cisterna di Latina;2018-09-01;18;26,7
+Cisterna di Latina;2018-09-02;17,9;25,9
+Cisterna di Latina;2018-09-03;17,3;25,5
+Cisterna di Latina;2018-09-04;16,7;27,9
+Cisterna di Latina;2018-09-05;17,6;30,2
+Cisterna di Latina;2018-09-06;17,7;28,7
+Cisterna di Latina;2018-09-07;17,8;28,4
+Cisterna di Latina;2018-09-08;17,7;28,4
+Cisterna di Latina;2018-09-09;19;29,3
+Cisterna di Latina;2018-09-10;19,2;29,4
+Cisterna di Latina;2018-09-11;18,8;30,6
+Cisterna di Latina;2018-09-12;18,7;31,3
+Cisterna di Latina;2018-09-13;19,4;27
+Cisterna di Latina;2018-09-14;19,1;29,7
+Cisterna di Latina;2018-09-15;17,4;28,5
+Cisterna di Latina;2018-09-16;18,4;28,4
+Cisterna di Latina;2018-09-17;19;28,3
+Cisterna di Latina;2018-09-18;19,9;28,6
+Cisterna di Latina;2018-09-19;19,9;25,5
+Cisterna di Latina;2018-09-20;18,9;28,6
+Cisterna di Latina;2018-09-21;19;27,3
+Cisterna di Latina;2018-09-22;18,6;29,7
+Cisterna di Latina;2018-09-23;18;28,9
+Cisterna di Latina;2018-09-24;19;28,2
+Cisterna di Latina;2018-09-25;15;26,2
+Cisterna di Latina;2018-09-26;12,3;24,7
+Cisterna di Latina;2018-09-27;11;26,1
+Cisterna di Latina;2018-09-28;12,4;25,6
+Cisterna di Latina;2018-09-29;13;26,3
+Cisterna di Latina;2018-09-30;13,7;24,6
+Cittaducale;2018-09-01;15,1;26,2
+Cittaducale;2018-09-02;13,2;26,5
+Cittaducale;2018-09-03;12,2;24,6
+Cittaducale;2018-09-04;13,2;26,1
+Cittaducale;2018-09-05;12,9;29,6
+Cittaducale;2018-09-06;12,9;30,2
+Cittaducale;2018-09-07;14,7;29,1
+Cittaducale;2018-09-08;13;27,6
+Cittaducale;2018-09-09;13,4;30,1
+Cittaducale;2018-09-10;14,1;31,1
+Cittaducale;2018-09-11;12,5;32,6
+Cittaducale;2018-09-12;11,8;32,6
+Cittaducale;2018-09-13;15,1;24,1
+Cittaducale;2018-09-14;13;30,8
+Cittaducale;2018-09-15;14,1;31,2
+Cittaducale;2018-09-16;14;30,6
+Cittaducale;2018-09-17;14,8;30,9
+Cittaducale;2018-09-18;16;27,5
+Cittaducale;2018-09-19;14,8;26,5
+Cittaducale;2018-09-20;16,2;24,2
+Cittaducale;2018-09-21;15,2;29,1
+Cittaducale;2018-09-22;13,7;30,7
+Cittaducale;2018-09-23;13;30,4
+Cittaducale;2018-09-24;15,9;29,8
+Cittaducale;2018-09-25;12,4;21,3
+Cittaducale;2018-09-26;8,9;20,8
+Cittaducale;2018-09-27;6,3;26
+Cittaducale;2018-09-28;5,9;29,2
+Cittaducale;2018-09-29;7,1;27
+Cittaducale;2018-09-30;8,5;26,7
+Cittareale;2018-09-01;11,8;23
+Cittareale;2018-09-02;9;23,4
+Cittareale;2018-09-03;8;22,6
+Cittareale;2018-09-04;9;22,5
+Cittareale;2018-09-05;10,1;26,5
+Cittareale;2018-09-06;8;26,4
+Cittareale;2018-09-07;11,1;25
+Cittareale;2018-09-08;8,9;23,8
+Cittareale;2018-09-09;9,9;28,3
+Cittareale;2018-09-10;8,4;27,7
+Cittareale;2018-09-11;6,8;29,5
+Cittareale;2018-09-12;6,1;31,4
+Cittareale;2018-09-13;9,4;24,2
+Cittareale;2018-09-14;10,9;27,1
+Cittareale;2018-09-15;9,1;27,4
+Cittareale;2018-09-16;9,1;28,1
+Cittareale;2018-09-17;11,5;26,5
+Cittareale;2018-09-18;11,2;25,4
+Cittareale;2018-09-19;13;24,2
+Cittareale;2018-09-20;13,7;23,7
+Cittareale;2018-09-21;11,4;26,8
+Cittareale;2018-09-22;11,7;27,5
+Cittareale;2018-09-23;9,8;26,1
+Cittareale;2018-09-24;9,2;26,6
+Cittareale;2018-09-25;4,9;15,9
+Cittareale;2018-09-26;-0,5;14,8
+Cittareale;2018-09-27;-2,8;21,5
+Cittareale;2018-09-28;-0,9;24,5
+Cittareale;2018-09-29;1,7;21,6
+Cittareale;2018-09-30;1;22,5
+Civitavecchia;2018-09-01;22,3;26,6
+Civitavecchia;2018-09-02;21,1;26,4
+Civitavecchia;2018-09-03;20;26
+Civitavecchia;2018-09-04;20,3;27,6
+Civitavecchia;2018-09-05;19,5;27,1
+Civitavecchia;2018-09-06;20,5;27,7
+Civitavecchia;2018-09-07;17,9;27,4
+Civitavecchia;2018-09-08;20,3;28
+Civitavecchia;2018-09-09;21,2;28,5
+Civitavecchia;2018-09-10;21,2;27,6
+Civitavecchia;2018-09-11;20,7;28,9
+Civitavecchia;2018-09-12;20,8;28,9
+Civitavecchia;2018-09-13;22;26,8
+Civitavecchia;2018-09-14;21,2;27,5
+Civitavecchia;2018-09-15;21,5;28,3
+Civitavecchia;2018-09-16;20,9;28,6
+Civitavecchia;2018-09-17;21,3;28
+Civitavecchia;2018-09-18;22,1;28,4
+Civitavecchia;2018-09-19;22;26,7
+Civitavecchia;2018-09-20;21,1;28,9
+Civitavecchia;2018-09-21;21,2;28,1
+Civitavecchia;2018-09-22;20,4;28,1
+Civitavecchia;2018-09-23;22,1;27,5
+Civitavecchia;2018-09-24;21,5;28,5
+Civitavecchia;2018-09-25;16,8;25,4
+Civitavecchia;2018-09-26;14,8;23,5
+Civitavecchia;2018-09-27;11,2;26,3
+Civitavecchia;2018-09-28;16,1;25,3
+Civitavecchia;2018-09-29;17,1;25,6
+Civitavecchia;2018-09-30;16,5;25,5
+Civitella Cesi;2018-09-01;17;26,5
+Civitella Cesi;2018-09-02;15,5;25,3
+Civitella Cesi;2018-09-03;14,9;27,5
+Civitella Cesi;2018-09-04;16,1;29,3
+Civitella Cesi;2018-09-05;15,3;30,9
+Civitella Cesi;2018-09-06;15;30,8
+Civitella Cesi;2018-09-07;17,3;29,1
+Civitella Cesi;2018-09-08;16,3;30
+Civitella Cesi;2018-09-09;17,1;30,9
+Civitella Cesi;2018-09-10;17,2;31
+Civitella Cesi;2018-09-11;15,5;32,9
+Civitella Cesi;2018-09-12;15,7;32,7
+Civitella Cesi;2018-09-13;17,6;26,4
+Civitella Cesi;2018-09-14;16,8;30,1
+Civitella Cesi;2018-09-15;16,8;29,9
+Civitella Cesi;2018-09-16;17,2;30,1
+Civitella Cesi;2018-09-17;16,4;30,2
+Civitella Cesi;2018-09-18;17;29,1
+Civitella Cesi;2018-09-19;19;26,1
+Civitella Cesi;2018-09-20;18,8;27,2
+Civitella Cesi;2018-09-21;16,9;29,8
+Civitella Cesi;2018-09-22;15,8;30,2
+Civitella Cesi;2018-09-23;16,8;29,7
+Civitella Cesi;2018-09-24;18;31,3
+Civitella Cesi;2018-09-25;8,7;25,3
+Civitella Cesi;2018-09-26;8,7;24,3
+Civitella Cesi;2018-09-27;4,9;27,4
+Civitella Cesi;2018-09-28;9,7;29,3
+Civitella Cesi;2018-09-29;11,3;30,1
+Civitella Cesi;2018-09-30;9,7;28,2
+Collalto Sabino;2018-09-01;12,3;18,2
+Collalto Sabino;2018-09-02;10,8;19,8
+Collalto Sabino;2018-09-03;11,3;19,7
+Collalto Sabino;2018-09-04;12;19,9
+Collalto Sabino;2018-09-05;12,3;23,6
+Collalto Sabino;2018-09-06;13,5;23,7
+Collalto Sabino;2018-09-07;13,5;21,3
+Collalto Sabino;2018-09-08;12,9;21,7
+Collalto Sabino;2018-09-09;14,5;23,6
+Collalto Sabino;2018-09-10;15,2;24,2
+Collalto Sabino;2018-09-11;14,2;24,5
+Collalto Sabino;2018-09-12;15,9;26,4
+Collalto Sabino;2018-09-13;14,2;19,9
+Collalto Sabino;2018-09-14;13,8;23,4
+Collalto Sabino;2018-09-15;14,7;24
+Collalto Sabino;2018-09-16;14,8;23,7
+Collalto Sabino;2018-09-17;15,1;23,5
+Collalto Sabino;2018-09-18;14,3;21,6
+Collalto Sabino;2018-09-19;14;20,7
+Collalto Sabino;2018-09-20;14;19,2
+Collalto Sabino;2018-09-21;14,3;21,3
+Collalto Sabino;2018-09-22;14,5;23,7
+Collalto Sabino;2018-09-23;14,7;23,1
+Collalto Sabino;2018-09-24;10,5;22,2
+Collalto Sabino;2018-09-25;6,4;13,3
+Collalto Sabino;2018-09-26;4,4;12,1
+Collalto Sabino;2018-09-27;6,3;16,2
+Collalto Sabino;2018-09-28;8,9;20,2
+Collalto Sabino;2018-09-29;10,9;18,8
+Collalto Sabino;2018-09-30;9,7;18,7
+Colle San Magno;2018-09-01;15,1;25,8
+Colle San Magno;2018-09-02;13,6;25,2
+Colle San Magno;2018-09-03;13,3;24,5
+Colle San Magno;2018-09-04;12,6;26,2
+Colle San Magno;2018-09-05;13,1;27,3
+Colle San Magno;2018-09-06;14,2;28,9
+Colle San Magno;2018-09-07;14,6;26,7
+Colle San Magno;2018-09-08;14;27,7
+Colle San Magno;2018-09-09;15,2;28,3
+Colle San Magno;2018-09-10;15,7;29,3
+Colle San Magno;2018-09-11;14,5;29,3
+Colle San Magno;2018-09-12;15,1;30,1
+Colle San Magno;2018-09-13;16,5;26
+Colle San Magno;2018-09-14;16,4;29,3
+Colle San Magno;2018-09-15;15,1;28,9
+Colle San Magno;2018-09-16;15;28,3
+Colle San Magno;2018-09-17;15,2;28,5
+Colle San Magno;2018-09-18;15,9;27,7
+Colle San Magno;2018-09-19;17,3;24,6
+Colle San Magno;2018-09-20;16,2;25
+Colle San Magno;2018-09-21;15,3;25,4
+Colle San Magno;2018-09-22;14,5;28,8
+Colle San Magno;2018-09-23;15,3;27,8
+Colle San Magno;2018-09-24;14,7;28,3
+Colle San Magno;2018-09-25;7,9;22,8
+Colle San Magno;2018-09-26;5,5;19,1
+Colle San Magno;2018-09-27;4,3;23,6
+Colle San Magno;2018-09-28;6,3;24,3
+Colle San Magno;2018-09-29;9,5;26
+Colle San Magno;2018-09-30;9,9;23,2
+Colle la Croce;2018-09-01;12,8;20,2
+Colle la Croce;2018-09-02;10,2;21,1
+Colle la Croce;2018-09-03;9,5;20
+Colle la Croce;2018-09-04;11,1;19,9
+Colle la Croce;2018-09-05;11;22
+Colle la Croce;2018-09-06;12,2;23,3
+Colle la Croce;2018-09-07;12,9;22,2
+Colle la Croce;2018-09-08;12,3;21,8
+Colle la Croce;2018-09-09;13,2;23,9
+Colle la Croce;2018-09-10;13;24,3
+Colle la Croce;2018-09-11;11,7;25,8
+Colle la Croce;2018-09-12;13,2;26,5
+Colle la Croce;2018-09-13;13,5;21,8
+Colle la Croce;2018-09-14;13,1;24,1
+Colle la Croce;2018-09-15;13,5;24,3
+Colle la Croce;2018-09-16;13,6;25,6
+Colle la Croce;2018-09-17;12,4;22,9
+Colle la Croce;2018-09-18;12,6;22,7
+Colle la Croce;2018-09-19;13,5;24,4
+Colle la Croce;2018-09-20;14,1;22,2
+Colle la Croce;2018-09-21;13,4;23,5
+Colle la Croce;2018-09-22;13,6;23,2
+Colle la Croce;2018-09-23;13,3;23,6
+Colle la Croce;2018-09-24;9,1;23,2
+Colle la Croce;2018-09-25;5,6;14,3
+Colle la Croce;2018-09-26;3,5;14
+Colle la Croce;2018-09-27;5;20,6
+Colle la Croce;2018-09-28;7,9;23
+Colle la Croce;2018-09-29;9,5;21,3
+Colle la Croce;2018-09-30;6,8;19,7
+Collegio Romano;2018-09-01;19,5;28,3
+Collegio Romano;2018-09-02;19,8;28,9
+Collegio Romano;2018-09-03;18,1;30,8
+Collegio Romano;2018-09-04;18,5;31,3
+Collegio Romano;2018-09-05;19,1;33,1
+Collegio Romano;2018-09-06;19,6;32,6
+Collegio Romano;2018-09-07;20,1;31,6
+Collegio Romano;2018-09-08;19;33,1
+Collegio Romano;2018-09-09;20,7;34,3
+Collegio Romano;2018-09-10;20,7;33,9
+Collegio Romano;2018-09-11;20;34,3
+Collegio Romano;2018-09-12;20,1;36
+Collegio Romano;2018-09-13;21,2;28,7
+Collegio Romano;2018-09-14;21,1;33,1
+Collegio Romano;2018-09-15;19,7;31,9
+Collegio Romano;2018-09-16;21,5;31,6
+Collegio Romano;2018-09-17;20,3;31,6
+Collegio Romano;2018-09-18;21,9;31,2
+Collegio Romano;2018-09-19;21;26,9
+Collegio Romano;2018-09-20;21;28,6
+Collegio Romano;2018-09-21;20,2;31,9
+Collegio Romano;2018-09-22;20,2;32,7
+Collegio Romano;2018-09-23;19;31,3
+Collegio Romano;2018-09-24;22,2;31,9
+Collegio Romano;2018-09-25;17;29,6
+Collegio Romano;2018-09-26;15,3;26,6
+Collegio Romano;2018-09-27;12;29,8
+Collegio Romano;2018-09-28;14,7;28,9
+Collegio Romano;2018-09-29;14,5;30,4
+Collegio Romano;2018-09-30;16,5;28,3
+Colli sul Velino;2018-09-01;15,7;25,6
+Colli sul Velino;2018-09-02;13,2;26,3
+Colli sul Velino;2018-09-03;12,1;27,1
+Colli sul Velino;2018-09-04;13,6;25,8
+Colli sul Velino;2018-09-05;13,4;27,6
+Colli sul Velino;2018-09-06;12,7;29,5
+Colli sul Velino;2018-09-07;15,3;28,1
+Colli sul Velino;2018-09-08;14;28,7
+Colli sul Velino;2018-09-09;13,4;29,1
+Colli sul Velino;2018-09-10;14,3;29,5
+Colli sul Velino;2018-09-11;12,7;31,6
+Colli sul Velino;2018-09-12;12,7;31,3
+Colli sul Velino;2018-09-13;15,2;24,5
+Colli sul Velino;2018-09-14;13,5;29,9
+Colli sul Velino;2018-09-15;14,3;29,9
+Colli sul Velino;2018-09-16;14,9;30,8
+Colli sul Velino;2018-09-17;15;30,7
+Colli sul Velino;2018-09-18;15,8;28,2
+Colli sul Velino;2018-09-19;15,4;29,5
+Colli sul Velino;2018-09-20;17,1;26,6
+Colli sul Velino;2018-09-21;15,8;28,2
+Colli sul Velino;2018-09-22;15,5;27,4
+Colli sul Velino;2018-09-23;13,8;29,5
+Colli sul Velino;2018-09-24;15,5;26,9
+Colli sul Velino;2018-09-25;10,1;23,9
+Colli sul Velino;2018-09-26;7,2;22,3
+Colli sul Velino;2018-09-27;4,7;24,3
+Colli sul Velino;2018-09-28;6,3;26
+Colli sul Velino;2018-09-29;6,8;28,6
+Colli sul Velino;2018-09-30;8,3;24,6
+Configni;2018-09-01;16,3;23,7
+Configni;2018-09-02;15,3;24,1
+Configni;2018-09-03;15,1;23,9
+Configni;2018-09-04;15,5;25,3
+Configni;2018-09-05;14,8;26,3
+Configni;2018-09-06;16,7;27,4
+Configni;2018-09-07;16,9;26,4
+Configni;2018-09-08;16,1;26,2
+Configni;2018-09-09;16,9;28,1
+Configni;2018-09-10;17,3;28,1
+Configni;2018-09-11;15,8;29,7
+Configni;2018-09-12;17,3;30,9
+Configni;2018-09-13;18,8;23,9
+Configni;2018-09-14;16,7;27,8
+Configni;2018-09-15;16,9;27,5
+Configni;2018-09-16;17,5;27,6
+Configni;2018-09-17;17,5;27,1
+Configni;2018-09-18;17,6;27
+Configni;2018-09-19;17,5;25,3
+Configni;2018-09-20;17,6;23,6
+Configni;2018-09-21;17,4;26,5
+Configni;2018-09-22;18,3;28
+Configni;2018-09-23;16,6;26,7
+Configni;2018-09-24;17,7;27,1
+Configni;2018-09-25;12,4;22,3
+Configni;2018-09-26;8,4;19,8
+Configni;2018-09-27;6,4;22,4
+Configni;2018-09-28;11,2;24,3
+Configni;2018-09-29;12,3;25,7
+Configni;2018-09-30;11,3;23,6
+Corchiano;2018-09-01;13,5;26,1
+Corchiano;2018-09-02;12,7;26,3
+Corchiano;2018-09-03;12,4;25,8
+Corchiano;2018-09-04;13,5;26,9
+Corchiano;2018-09-05;12,8;29,8
+Corchiano;2018-09-06;12,4;30
+Corchiano;2018-09-07;15,8;29,5
+Corchiano;2018-09-08;14,9;29,9
+Corchiano;2018-09-09;14,8;30,7
+Corchiano;2018-09-10;16,4;31,5
+Corchiano;2018-09-11;14,4;32,3
+Corchiano;2018-09-12;13;33,8
+Corchiano;2018-09-13;15,6;24,9
+Corchiano;2018-09-14;15,6;31,6
+Corchiano;2018-09-15;13,5;30,6
+Corchiano;2018-09-16;16,3;30
+Corchiano;2018-09-17;15;29,6
+Corchiano;2018-09-18;17,2;28,7
+Corchiano;2018-09-19;16,6;27,8
+Corchiano;2018-09-20;17,4;27,1
+Corchiano;2018-09-21;16,4;29,3
+Corchiano;2018-09-22;14,5;31,1
+Corchiano;2018-09-23;13,2;29,1
+Corchiano;2018-09-24;16,9;30,4
+Corchiano;2018-09-25;9,9;24,6
+Corchiano;2018-09-26;8,6;22,3
+Corchiano;2018-09-27;7,2;26,5
+Corchiano;2018-09-28;7,2;28,2
+Corchiano;2018-09-29;9,1;29,2
+Corchiano;2018-09-30;11,7;27
+Cori;2018-09-01;16,4;23,6
+Cori;2018-09-02;16,6;22,7
+Cori;2018-09-03;16,7;23,4
+Cori;2018-09-04;15,8;23,7
+Cori;2018-09-05;16,1;25,6
+Cori;2018-09-06;17,5;25,3
+Cori;2018-09-07;16,9;24,6
+Cori;2018-09-08;17,4;25,1
+Cori;2018-09-09;18,4;25,9
+Cori;2018-09-10;18,5;25,7
+Cori;2018-09-11;18,5;26,9
+Cori;2018-09-12;19;27,6
+Cori;2018-09-13;17,5;23,6
+Cori;2018-09-14;17,7;25,5
+Cori;2018-09-15;17,3;25,6
+Cori;2018-09-16;17,7;25,2
+Cori;2018-09-17;17,9;24,8
+Cori;2018-09-18;17,8;24,4
+Cori;2018-09-19;18;22,1
+Cori;2018-09-20;17,6;24,8
+Cori;2018-09-21;18,6;24,1
+Cori;2018-09-22;18,3;25,7
+Cori;2018-09-23;17,7;25,2
+Cori;2018-09-24;18;25,2
+Cori;2018-09-25;13,9;22,7
+Cori;2018-09-26;10,9;20,6
+Cori;2018-09-27;12,4;23,8
+Cori;2018-09-28;13;22,6
+Cori;2018-09-29;13,9;22,8
+Cori;2018-09-30;15,1;21,3
+Cosa ad Alatri;2018-09-01;15,3;26,8
+Cosa ad Alatri;2018-09-02;14;27,5
+Cosa ad Alatri;2018-09-03;12,8;27
+Cosa ad Alatri;2018-09-04;12,4;27,7
+Cosa ad Alatri;2018-09-05;12,4;29,3
+Cosa ad Alatri;2018-09-06;12,8;30,1
+Cosa ad Alatri;2018-09-07;14,8;29,4
+Cosa ad Alatri;2018-09-08;13,2;29,6
+Cosa ad Alatri;2018-09-09;14,7;30,4
+Cosa ad Alatri;2018-09-10;15,7;31,2
+Cosa ad Alatri;2018-09-11;13,8;31,6
+Cosa ad Alatri;2018-09-12;13,6;31,8
+Cosa ad Alatri;2018-09-13;16;25,8
+Cosa ad Alatri;2018-09-14;14,8;30
+Cosa ad Alatri;2018-09-15;14,5;30,8
+Cosa ad Alatri;2018-09-16;15,1;30
+Cosa ad Alatri;2018-09-17;14,7;30,4
+Cosa ad Alatri;2018-09-18;16,2;29,1
+Cosa ad Alatri;2018-09-19;17,8;27
+Cosa ad Alatri;2018-09-20;17,3;27,9
+Cosa ad Alatri;2018-09-21;15,9;27,5
+Cosa ad Alatri;2018-09-22;14;30,1
+Cosa ad Alatri;2018-09-23;14,5;29,7
+Cosa ad Alatri;2018-09-24;14,6;29
+Cosa ad Alatri;2018-09-25;10;22,9
+Cosa ad Alatri;2018-09-26;4,7;20,8
+Cosa ad Alatri;2018-09-27;4,5;25,1
+Cosa ad Alatri;2018-09-28;5;25,8
+Cosa ad Alatri;2018-09-29;7,2;27,2
+Cosa ad Alatri;2018-09-30;7,9;25,6
+Esperia;2018-09-01;17,1;27,9
+Esperia;2018-09-02;17;26,6
+Esperia;2018-09-03;16,4;26,3
+Esperia;2018-09-04;16;28
+Esperia;2018-09-05;17,3;28,8
+Esperia;2018-09-06;17,5;29,2
+Esperia;2018-09-07;17,9;27,9
+Esperia;2018-09-08;16,3;27,7
+Esperia;2018-09-09;18,3;29,4
+Esperia;2018-09-10;19,3;29,3
+Esperia;2018-09-11;18,5;30,8
+Esperia;2018-09-12;19,5;31,5
+Esperia;2018-09-13;19,5;26,7
+Esperia;2018-09-14;19,1;29,2
+Esperia;2018-09-15;18,4;28,7
+Esperia;2018-09-16;18,1;28,7
+Esperia;2018-09-17;18,4;29,4
+Esperia;2018-09-18;19,2;27,6
+Esperia;2018-09-19;18,8;23,6
+Esperia;2018-09-20;18;27,7
+Esperia;2018-09-21;17,8;26,1
+Esperia;2018-09-22;18,8;29
+Esperia;2018-09-23;18,8;28,2
+Esperia;2018-09-24;18,2;28,1
+Esperia;2018-09-25;13,9;20,7
+Esperia;2018-09-26;11,9;19,4
+Esperia;2018-09-27;9,5;23,8
+Esperia;2018-09-28;13,2;25,6
+Esperia;2018-09-29;13,6;26,5
+Esperia;2018-09-30;15,7;24,6
+Ferentino;2018-09-01;16,4;25,4
+Ferentino;2018-09-02;15,8;25,9
+Ferentino;2018-09-03;15,7;25,7
+Ferentino;2018-09-04;15;26,1
+Ferentino;2018-09-05;16;28,1
+Ferentino;2018-09-06;17,2;29,8
+Ferentino;2018-09-07;17,1;28,5
+Ferentino;2018-09-08;15,8;29
+Ferentino;2018-09-09;18,3;28,8
+Ferentino;2018-09-10;19;29,7
+Ferentino;2018-09-11;18,2;31,2
+Ferentino;2018-09-12;19,1;30,9
+Ferentino;2018-09-13;18,8;25
+Ferentino;2018-09-14;17,4;29
+Ferentino;2018-09-15;17,6;29,7
+Ferentino;2018-09-16;18,5;29,4
+Ferentino;2018-09-17;18,2;30
+Ferentino;2018-09-18;18,8;27,7
+Ferentino;2018-09-19;18,4;25,4
+Ferentino;2018-09-20;17,6;26,9
+Ferentino;2018-09-21;17,2;27,1
+Ferentino;2018-09-22;17,8;29,5
+Ferentino;2018-09-23;18;28,9
+Ferentino;2018-09-24;17;29,1
+Ferentino;2018-09-25;11,9;24
+Ferentino;2018-09-26;10,3;22,1
+Ferentino;2018-09-27;9,9;25,5
+Ferentino;2018-09-28;11,1;25,1
+Ferentino;2018-09-29;13,4;26,2
+Ferentino;2018-09-30;14;23,5
+Fianello;2018-09-01;18;29,9
+Fianello;2018-09-02;15,8;32
+Fianello;2018-09-03;14,9;28,3
+Fianello;2018-09-04;15,2;30,6
+Fianello;2018-09-05;14,9;32,6
+Fianello;2018-09-06;15,2;32,7
+Fianello;2018-09-07;17,9;33,1
+Fianello;2018-09-08;16,6;33,2
+Fianello;2018-09-09;16,3;34
+Fianello;2018-09-10;16,9;34,3
+Fianello;2018-09-11;14,8;35,8
+Fianello;2018-09-12;14,3;37,2
+Fianello;2018-09-13;17,8;26,7
+Fianello;2018-09-14;16,4;33,6
+Fianello;2018-09-15;16,4;34,2
+Fianello;2018-09-16;17,7;34,5
+Fianello;2018-09-17;17,2;34
+Fianello;2018-09-18;18,4;32
+Fianello;2018-09-19;17,8;32,3
+Fianello;2018-09-20;18,7;28,4
+Fianello;2018-09-21;17,6;33,7
+Fianello;2018-09-22;16,5;33,7
+Fianello;2018-09-23;15,7;35,1
+Fianello;2018-09-24;17,6;34
+Fianello;2018-09-25;11,2;27,2
+Fianello;2018-09-26;8,6;26
+Fianello;2018-09-27;6;27,7
+Fianello;2018-09-28;9,4;31,2
+Fianello;2018-09-29;10,6;32,7
+Fianello;2018-09-30;10,9;28,9
+Fiano Romano;2018-09-01;16,7;26,5
+Fiano Romano;2018-09-02;15,1;26,4
+Fiano Romano;2018-09-03;13,7;27
+Fiano Romano;2018-09-04;14,3;28,1
+Fiano Romano;2018-09-05;13,2;30,3
+Fiano Romano;2018-09-06;13,5;29,8
+Fiano Romano;2018-09-07;16,6;29,3
+Fiano Romano;2018-09-08;15,7;30,2
+Fiano Romano;2018-09-09;15,3;31,6
+Fiano Romano;2018-09-10;15,8;31,8
+Fiano Romano;2018-09-11;13,2;32,1
+Fiano Romano;2018-09-12;12,6;33,5
+Fiano Romano;2018-09-13;16,2;25,9
+Fiano Romano;2018-09-14;16,6;30,4
+Fiano Romano;2018-09-15;13,9;30,1
+Fiano Romano;2018-09-16;15,5;29,5
+Fiano Romano;2018-09-17;15,1;29,4
+Fiano Romano;2018-09-18;18,3;29,1
+Fiano Romano;2018-09-19;16,9;26,7
+Fiano Romano;2018-09-20;18,5;27
+Fiano Romano;2018-09-21;16,5;28,8
+Fiano Romano;2018-09-22;14,7;30,5
+Fiano Romano;2018-09-23;13;29,5
+Fiano Romano;2018-09-24;17,4;29,7
+Fiano Romano;2018-09-25;15,4;25,8
+Fiano Romano;2018-09-26;11,6;23,9
+Fiano Romano;2018-09-27;4,3;27,2
+Fiano Romano;2018-09-28;4,8;27,3
+Fiano Romano;2018-09-29;6,4;28,5
+Fiano Romano;2018-09-30;7,2;26,7
+Filettino;2018-09-01;11,7;19,9
+Filettino;2018-09-02;9,9;20,5
+Filettino;2018-09-03;9,5;20,3
+Filettino;2018-09-04;10,2;20,8
+Filettino;2018-09-05;10,5;23
+Filettino;2018-09-06;12;24,2
+Filettino;2018-09-07;12,2;22,6
+Filettino;2018-09-08;11,3;22,8
+Filettino;2018-09-09;12,9;24,5
+Filettino;2018-09-10;13,5;24,7
+Filettino;2018-09-11;13,2;25,6
+Filettino;2018-09-12;13,4;26,5
+Filettino;2018-09-13;13,8;22,4
+Filettino;2018-09-14;12,2;24
+Filettino;2018-09-15;13;24,5
+Filettino;2018-09-16;12,4;24,2
+Filettino;2018-09-17;13,3;24,1
+Filettino;2018-09-18;13,4;23,3
+Filettino;2018-09-19;13,9;21
+Filettino;2018-09-20;14,2;22,9
+Filettino;2018-09-21;13,1;23,1
+Filettino;2018-09-22;12,7;24,1
+Filettino;2018-09-23;12,5;23,8
+Filettino;2018-09-24;11,2;24,7
+Filettino;2018-09-25;7,9;15
+Filettino;2018-09-26;5,3;13,9
+Filettino;2018-09-27;8;19,1
+Filettino;2018-09-28;8,4;22,3
+Filettino;2018-09-29;7,2;21,2
+Filettino;2018-09-30;8,2;20,4
+Fiora a Montalto di Castro;2018-09-01;21,6;27
+Fiora a Montalto di Castro;2018-09-02;16,9;28,6
+Fiora a Montalto di Castro;2018-09-03;16,1;26,7
+Fiora a Montalto di Castro;2018-09-04;16,4;27,2
+Fiora a Montalto di Castro;2018-09-05;15,8;29,7
+Fiora a Montalto di Castro;2018-09-06;15,2;27,8
+Fiora a Montalto di Castro;2018-09-07;18,2;28
+Fiora a Montalto di Castro;2018-09-08;17,6;28,8
+Fiora a Montalto di Castro;2018-09-09;17,4;29
+Fiora a Montalto di Castro;2018-09-10;18;30,3
+Fiora a Montalto di Castro;2018-09-11;16,4;30,3
+Fiora a Montalto di Castro;2018-09-12;15,4;31,9
+Fiora a Montalto di Castro;2018-09-13;18,2;27,4
+Fiora a Montalto di Castro;2018-09-14;17,9;27,9
+Fiora a Montalto di Castro;2018-09-15;17,1;28,4
+Fiora a Montalto di Castro;2018-09-16;18,3;28,3
+Fiora a Montalto di Castro;2018-09-17;17,7;27,8
+Fiora a Montalto di Castro;2018-09-18;19;27,7
+Fiora a Montalto di Castro;2018-09-19;20;28,6
+Fiora a Montalto di Castro;2018-09-20;20;30,6
+Fiora a Montalto di Castro;2018-09-21;18,6;28,7
+Fiora a Montalto di Castro;2018-09-22;17;28
+Fiora a Montalto di Castro;2018-09-23;18,3;26,9
+Fiora a Montalto di Castro;2018-09-24;20,6;29
+Fiora a Montalto di Castro;2018-09-25;15,4;24,7
+Fiora a Montalto di Castro;2018-09-26;13,4;23,7
+Fiora a Montalto di Castro;2018-09-27;6,2;28,9
+Fiora a Montalto di Castro;2018-09-28;9,1;27,8
+Fiora a Montalto di Castro;2018-09-29;10,8;28,7
+Fiora a Montalto di Castro;2018-09-30;11,6;27,5
+Fiuggi;2018-09-01;14;23
+Fiuggi;2018-09-02;12,7;22,8
+Fiuggi;2018-09-03;12,8;22,8
+Fiuggi;2018-09-04;13,1;23
+Fiuggi;2018-09-05;13,4;24,6
+Fiuggi;2018-09-06;14,1;25,5
+Fiuggi;2018-09-07;13;24,8
+Fiuggi;2018-09-08;13,9;25,5
+Fiuggi;2018-09-09;15,4;25,8
+Fiuggi;2018-09-10;16;26,3
+Fiuggi;2018-09-11;16,2;27,3
+Fiuggi;2018-09-12;16,2;27,5
+Fiuggi;2018-09-13;16,8;23,1
+Fiuggi;2018-09-14;15,1;25,8
+Fiuggi;2018-09-15;15,7;25,8
+Fiuggi;2018-09-16;15,4;26,6
+Fiuggi;2018-09-17;15,4;26,8
+Fiuggi;2018-09-18;15,6;25,4
+Fiuggi;2018-09-19;15,8;24
+Fiuggi;2018-09-20;15,3;25,6
+Fiuggi;2018-09-21;15,2;25
+Fiuggi;2018-09-22;15,5;25,6
+Fiuggi;2018-09-23;15,8;24,7
+Fiuggi;2018-09-24;14,5;25,3
+Fiuggi;2018-09-25;8,8;20,6
+Fiuggi;2018-09-26;6,1;17,3
+Fiuggi;2018-09-27;8,1;21,9
+Fiuggi;2018-09-28;10,1;21,6
+Fiuggi;2018-09-29;11,3;22,6
+Fiuggi;2018-09-30;10,3;20
+Fondi;2018-09-01;19,4;28,7
+Fondi;2018-09-02;19,1;28,6
+Fondi;2018-09-03;19,2;28,6
+Fondi;2018-09-04;17,8;30
+Fondi;2018-09-05;18,7;28,9
+Fondi;2018-09-06;18,9;30,3
+Fondi;2018-09-07;20,1;29,8
+Fondi;2018-09-08;19,1;29,3
+Fondi;2018-09-09;19,9;30,3
+Fondi;2018-09-10;20,9;30,6
+Fondi;2018-09-11;20,4;32,1
+Fondi;2018-09-12;20,4;31,9
+Fondi;2018-09-13;20,7;29
+Fondi;2018-09-14;21,1;30,4
+Fondi;2018-09-15;20;30,4
+Fondi;2018-09-16;19,9;30,6
+Fondi;2018-09-17;19,9;29,1
+Fondi;2018-09-18;20,6;29,9
+Fondi;2018-09-19;21,3;26,1
+Fondi;2018-09-20;19,8;30,7
+Fondi;2018-09-21;20,9;29,9
+Fondi;2018-09-22;19,4;29,8
+Fondi;2018-09-23;19,6;29
+Fondi;2018-09-24;20;30,3
+Fondi;2018-09-25;17,6;26,2
+Fondi;2018-09-26;15,5;23,4
+Fondi;2018-09-27;13,2;25,9
+Fondi;2018-09-28;13,3;28,5
+Fondi;2018-09-29;14,2;27,6
+Fondi;2018-09-30;15,6;25,5
+Fontana Liri Superiore;2018-09-01;17,1;27,2
+Fontana Liri Superiore;2018-09-02;17;25,5
+Fontana Liri Superiore;2018-09-03;16,2;25,2
+Fontana Liri Superiore;2018-09-04;15,8;26,8
+Fontana Liri Superiore;2018-09-05;16,8;28,8
+Fontana Liri Superiore;2018-09-06;17,7;30,1
+Fontana Liri Superiore;2018-09-07;17,7;27,7
+Fontana Liri Superiore;2018-09-08;16,5;29,4
+Fontana Liri Superiore;2018-09-09;18,5;29,2
+Fontana Liri Superiore;2018-09-10;18,5;29,9
+Fontana Liri Superiore;2018-09-11;18,6;31,1
+Fontana Liri Superiore;2018-09-12;19,1;31,1
+Fontana Liri Superiore;2018-09-13;19,8;25,2
+Fontana Liri Superiore;2018-09-14;18,4;29,1
+Fontana Liri Superiore;2018-09-15;18,6;29,1
+Fontana Liri Superiore;2018-09-16;18,5;29,2
+Fontana Liri Superiore;2018-09-17;18,2;29,4
+Fontana Liri Superiore;2018-09-18;19,1;27,7
+Fontana Liri Superiore;2018-09-19;19;24,5
+Fontana Liri Superiore;2018-09-20;18,2;26,6
+Fontana Liri Superiore;2018-09-21;17,7;26,2
+Fontana Liri Superiore;2018-09-22;18,6;29,3
+Fontana Liri Superiore;2018-09-23;19;28,7
+Fontana Liri Superiore;2018-09-24;18,5;28,4
+Fontana Liri Superiore;2018-09-25;12,4;23,4
+Fontana Liri Superiore;2018-09-26;10,2;20,2
+Fontana Liri Superiore;2018-09-27;10,3;24,6
+Fontana Liri Superiore;2018-09-28;11,7;25,6
+Fontana Liri Superiore;2018-09-29;14,2;27,1
+Fontana Liri Superiore;2018-09-30;14,8;24,2
+Formello;2018-09-01;17,1;24,8
+Formello;2018-09-02;17,4;25,3
+Formello;2018-09-03;17,2;26,3
+Formello;2018-09-04;16,5;27,6
+Formello;2018-09-05;16,9;29,7
+Formello;2018-09-06;17,3;29,1
+Formello;2018-09-07;17,6;27,7
+Formello;2018-09-08;17,4;28,8
+Formello;2018-09-09;18,4;30,5
+Formello;2018-09-10;18,6;31,4
+Formello;2018-09-11;18,5;31,9
+Formello;2018-09-12;19,5;32,7
+Formello;2018-09-13;20,1;26,2
+Formello;2018-09-14;18,5;30,5
+Formello;2018-09-15;18;29,1
+Formello;2018-09-16;19,1;27,8
+Formello;2018-09-17;18,6;28,3
+Formello;2018-09-18;19,5;27,7
+Formello;2018-09-19;19;24,9
+Formello;2018-09-20;18,7;26,4
+Formello;2018-09-21;18,4;27,3
+Formello;2018-09-22;19;29,4
+Formello;2018-09-23;18,1;27,8
+Formello;2018-09-24;16,9;28,5
+Formello;2018-09-25;12,3;24
+Formello;2018-09-26;10,6;22,5
+Formello;2018-09-27;9,4;26,9
+Formello;2018-09-28;14,2;27,5
+Formello;2018-09-29;14,3;28,2
+Formello;2018-09-30;14,4;25,8
+Fosso di Pantanello ad Ostia;2018-09-01;18,6;28
+Fosso di Pantanello ad Ostia;2018-09-02;17;27,7
+Fosso di Pantanello ad Ostia;2018-09-03;16;28,3
+Fosso di Pantanello ad Ostia;2018-09-04;14,6;28,2
+Fosso di Pantanello ad Ostia;2018-09-05;15,2;29,9
+Fosso di Pantanello ad Ostia;2018-09-06;14,8;29,2
+Fosso di Pantanello ad Ostia;2018-09-07;17,4;28,1
+Fosso di Pantanello ad Ostia;2018-09-08;17,9;29,4
+Fosso di Pantanello ad Ostia;2018-09-09;17;29,7
+Fosso di Pantanello ad Ostia;2018-09-10;17,4;30,1
+Fosso di Pantanello ad Ostia;2018-09-11;16,5;30,6
+Fosso di Pantanello ad Ostia;2018-09-12;16,1;31,7
+Fosso di Pantanello ad Ostia;2018-09-13;17,9;27,9
+Fosso di Pantanello ad Ostia;2018-09-14;18,2;29,5
+Fosso di Pantanello ad Ostia;2018-09-15;16,1;29,2
+Fosso di Pantanello ad Ostia;2018-09-16;16,8;28,6
+Fosso di Pantanello ad Ostia;2018-09-17;16,5;28,8
+Fosso di Pantanello ad Ostia;2018-09-18;20,3;29
+Fosso di Pantanello ad Ostia;2018-09-19;20,3;25,8
+Fosso di Pantanello ad Ostia;2018-09-20;19,2;27,6
+Fosso di Pantanello ad Ostia;2018-09-21;18,6;28,7
+Fosso di Pantanello ad Ostia;2018-09-22;17,5;30
+Fosso di Pantanello ad Ostia;2018-09-23;16,4;28,2
+Fosso di Pantanello ad Ostia;2018-09-24;20,7;29,5
+Fosso di Pantanello ad Ostia;2018-09-25;15,5;25,9
+Fosso di Pantanello ad Ostia;2018-09-26;13,7;24,6
+Fosso di Pantanello ad Ostia;2018-09-27;10,2;25,3
+Fosso di Pantanello ad Ostia;2018-09-28;11;25,7
+Fosso di Pantanello ad Ostia;2018-09-29;10,8;26,5
+Fosso di Pantanello ad Ostia;2018-09-30;11,3;25,6
+Frascati;2018-09-01;18,2;25,5
+Frascati;2018-09-02;18,5;25,9
+Frascati;2018-09-03;18,8;26,8
+Frascati;2018-09-04;18;29,3
+Frascati;2018-09-05;18,8;30,1
+Frascati;2018-09-06;19,9;29,4
+Frascati;2018-09-07;18,6;29
+Frascati;2018-09-08;19,5;30,1
+Frascati;2018-09-09;20,7;31,1
+Frascati;2018-09-10;21,1;31,3
+Frascati;2018-09-11;20,4;31,4
+Frascati;2018-09-12;22,7;33,3
+Frascati;2018-09-13;20,4;27
+Frascati;2018-09-14;19,9;30,4
+Frascati;2018-09-15;20;30,2
+Frascati;2018-09-16;19,9;29,2
+Frascati;2018-09-17;19,9;28,8
+Frascati;2018-09-18;20,7;28,6
+Frascati;2018-09-19;19,9;25,8
+Frascati;2018-09-20;19,4;27,8
+Frascati;2018-09-21;20,7;28,6
+Frascati;2018-09-22;20,7;30,6
+Frascati;2018-09-23;20,6;29,7
+Frascati;2018-09-24;19,1;29,7
+Frascati;2018-09-25;14,4;25,9
+Frascati;2018-09-26;12;21,9
+Frascati;2018-09-27;11,9;25,3
+Frascati;2018-09-28;14,5;26,9
+Frascati;2018-09-29;16,8;27,7
+Frascati;2018-09-30;15;25,6
+Frosinone;2018-09-01;15,8;28,5
+Frosinone;2018-09-02;13,3;28,4
+Frosinone;2018-09-03;13,3;27,7
+Frosinone;2018-09-04;12;29,7
+Frosinone;2018-09-05;12,7;31
+Frosinone;2018-09-06;12,2;31,9
+Frosinone;2018-09-07;14,4;30,5
+Frosinone;2018-09-08;12,7;31,4
+Frosinone;2018-09-09;14,5;32,5
+Frosinone;2018-09-10;15,2;32,6
+Frosinone;2018-09-11;13,7;34
+Frosinone;2018-09-12;12,5;33,5
+Frosinone;2018-09-13;15,2;26,6
+Frosinone;2018-09-14;15,4;32,3
+Frosinone;2018-09-15;13,6;32,6
+Frosinone;2018-09-16;14,3;31,7
+Frosinone;2018-09-17;14,5;32,3
+Frosinone;2018-09-18;17,2;29,7
+Frosinone;2018-09-19;18,1;27,4
+Frosinone;2018-09-20;17,3;29,4
+Frosinone;2018-09-21;16,4;30,4
+Frosinone;2018-09-22;13,9;32,2
+Frosinone;2018-09-23;13,7;31,9
+Frosinone;2018-09-24;14,1;31,7
+Frosinone;2018-09-25;6,5;26,9
+Frosinone;2018-09-26;3,6;23,9
+Frosinone;2018-09-27;1,8;27,8
+Frosinone;2018-09-28;3,4;28,1
+Frosinone;2018-09-29;4,5;29,8
+Frosinone;2018-09-30;6,5;27,5
+Gaeta;2018-09-01;18;28,4
+Gaeta;2018-09-02;20;27,2
+Gaeta;2018-09-03;19,6;28,5
+Gaeta;2018-09-04;19,4;27,4
+Gaeta;2018-09-05;19,9;27,9
+Gaeta;2018-09-06;20,2;28,1
+Gaeta;2018-09-07;20,6;28,2
+Gaeta;2018-09-08;20;28,4
+Gaeta;2018-09-09;21,3;29,8
+Gaeta;2018-09-10;21,8;29,9
+Gaeta;2018-09-11;20,9;29,9
+Gaeta;2018-09-12;21,9;32,1
+Gaeta;2018-09-13;22;27,6
+Gaeta;2018-09-14;21,5;28,7
+Gaeta;2018-09-15;21,6;28,6
+Gaeta;2018-09-16;20,5;28,2
+Gaeta;2018-09-17;20,9;28,4
+Gaeta;2018-09-18;21,6;28,8
+Gaeta;2018-09-19;21;27,7
+Gaeta;2018-09-20;21,2;29
+Gaeta;2018-09-21;22,2;29
+Gaeta;2018-09-22;20,7;28,5
+Gaeta;2018-09-23;20,8;28,3
+Gaeta;2018-09-24;20,5;29,3
+Gaeta;2018-09-25;18,1;24,2
+Gaeta;2018-09-26;14,6;21,8
+Gaeta;2018-09-27;13,7;24,9
+Gaeta;2018-09-28;15,2;25
+Gaeta;2018-09-29;15,7;26,8
+Gaeta;2018-09-30;17,2;25,6
+Giuliano di Roma;2018-09-01;15,6;25,1
+Giuliano di Roma;2018-09-02;15,9;24,3
+Giuliano di Roma;2018-09-03;15,2;23,1
+Giuliano di Roma;2018-09-04;14,8;25,6
+Giuliano di Roma;2018-09-05;15,3;26,9
+Giuliano di Roma;2018-09-06;16,2;26,4
+Giuliano di Roma;2018-09-07;16,8;25,8
+Giuliano di Roma;2018-09-08;15,5;26,5
+Giuliano di Roma;2018-09-09;17,7;26,8
+Giuliano di Roma;2018-09-10;18;27,3
+Giuliano di Roma;2018-09-11;16,9;29
+Giuliano di Roma;2018-09-12;17,7;28,3
+Giuliano di Roma;2018-09-13;19;23,9
+Giuliano di Roma;2018-09-14;17,2;26,9
+Giuliano di Roma;2018-09-15;17,3;26,8
+Giuliano di Roma;2018-09-16;17,3;26,4
+Giuliano di Roma;2018-09-17;17,2;26,4
+Giuliano di Roma;2018-09-18;18;26,7
+Giuliano di Roma;2018-09-19;17,5;21,7
+Giuliano di Roma;2018-09-20;16,8;25,1
+Giuliano di Roma;2018-09-21;16,3;25,5
+Giuliano di Roma;2018-09-22;16,7;27,7
+Giuliano di Roma;2018-09-23;16,9;26,7
+Giuliano di Roma;2018-09-24;17;25,9
+Giuliano di Roma;2018-09-25;12,9;21,9
+Giuliano di Roma;2018-09-26;10,6;19,6
+Giuliano di Roma;2018-09-27;8,2;23,4
+Giuliano di Roma;2018-09-28;11,3;23,9
+Giuliano di Roma;2018-09-29;11,9;24,4
+Giuliano di Roma;2018-09-30;12,7;21,6
+Graffignano;2018-09-01;15,6;28
+Graffignano;2018-09-02;14,1;27,6
+Graffignano;2018-09-03;13,6;27,6
+Graffignano;2018-09-04;14,6;28,5
+Graffignano;2018-09-05;13,9;30,4
+Graffignano;2018-09-06;14,2;30,6
+Graffignano;2018-09-07;17,3;28,9
+Graffignano;2018-09-08;15,7;30,2
+Graffignano;2018-09-09;14,4;31,8
+Graffignano;2018-09-10;15,5;32,6
+Graffignano;2018-09-11;13,4;33,5
+Graffignano;2018-09-12;12,9;34
+Graffignano;2018-09-13;16,4;26,6
+Graffignano;2018-09-14;17,1;32,1
+Graffignano;2018-09-15;15,3;31,8
+Graffignano;2018-09-16;17,2;31,1
+Graffignano;2018-09-17;16;31,1
+Graffignano;2018-09-18;17,5;31,1
+Graffignano;2018-09-19;16,8;29,6
+Graffignano;2018-09-20;18,2;27,4
+Graffignano;2018-09-21;16,3;30,6
+Graffignano;2018-09-22;14,6;30,5
+Graffignano;2018-09-23;14,9;29,3
+Graffignano;2018-09-24;17,9;31,6
+Graffignano;2018-09-25;14,6;22,4
+Graffignano;2018-09-26;11,3;21,4
+Graffignano;2018-09-27;3,5;26,4
+Graffignano;2018-09-28;7;29,4
+Graffignano;2018-09-29;7,7;30,2
+Graffignano;2018-09-30;13,4;27,8
+Guadamello;2018-09-01;17,1;28
+Guadamello;2018-09-02;15,2;27,9
+Guadamello;2018-09-03;13,8;28,2
+Guadamello;2018-09-04;14,8;29,5
+Guadamello;2018-09-05;13,5;31,5
+Guadamello;2018-09-06;14,1;31,6
+Guadamello;2018-09-07;17;31
+Guadamello;2018-09-08;15,6;32,2
+Guadamello;2018-09-09;14,8;32,7
+Guadamello;2018-09-10;16,1;33,3
+Guadamello;2018-09-11;13,8;34,1
+Guadamello;2018-09-12;13,6;35,3
+Guadamello;2018-09-13;16,5;25,4
+Guadamello;2018-09-14;15;33,1
+Guadamello;2018-09-15;15;32,7
+Guadamello;2018-09-16;16,6;32,2
+Guadamello;2018-09-17;16,4;31,8
+Guadamello;2018-09-18;18;30,5
+Guadamello;2018-09-19;18;31,4
+Guadamello;2018-09-20;18,7;29,5
+Guadamello;2018-09-21;17,2;31,3
+Guadamello;2018-09-22;15,6;32
+Guadamello;2018-09-23;15,3;31
+Guadamello;2018-09-24;19,5;31
+Guadamello;2018-09-25;10,4;25,2
+Guadamello;2018-09-26;7,6;23,1
+Guadamello;2018-09-27;5,3;27,7
+Guadamello;2018-09-28;6,6;29,7
+Guadamello;2018-09-29;8,8;30,7
+Guadamello;2018-09-30;10,1;28,3
+Guidonia;2018-09-01;18,3;26,4
+Guidonia;2018-09-02;17,6;27,4
+Guidonia;2018-09-03;16,9;27,4
+Guidonia;2018-09-04;16,4;28,4
+Guidonia;2018-09-05;16,6;30,5
+Guidonia;2018-09-06;17,2;30
+Guidonia;2018-09-07;18,3;29,3
+Guidonia;2018-09-08;17,7;30,8
+Guidonia;2018-09-09;18,5;31,3
+Guidonia;2018-09-10;19,1;31,7
+Guidonia;2018-09-11;17,5;31,8
+Guidonia;2018-09-12;17,7;32,7
+Guidonia;2018-09-13;19,7;27,6
+Guidonia;2018-09-14;19,3;31,5
+Guidonia;2018-09-15;17,5;30,9
+Guidonia;2018-09-16;19,2;29,6
+Guidonia;2018-09-17;19,3;29,4
+Guidonia;2018-09-18;20,4;29,7
+Guidonia;2018-09-19;19,3;26,5
+Guidonia;2018-09-20;19,6;26,7
+Guidonia;2018-09-21;18,6;28,6
+Guidonia;2018-09-22;18,1;30,5
+Guidonia;2018-09-23;17,6;30,1
+Guidonia;2018-09-24;19,3;30,5
+Guidonia;2018-09-25;14;25,6
+Guidonia;2018-09-26;11,5;23,4
+Guidonia;2018-09-27;8,4;27,5
+Guidonia;2018-09-28;10,4;27,6
+Guidonia;2018-09-29;11,9;27,7
+Guidonia;2018-09-30;12,6;26,5
+Ischia di Castro;2018-09-01;16,1;24,5
+Ischia di Castro;2018-09-02;15,1;23,3
+Ischia di Castro;2018-09-03;15,5;25,9
+Ischia di Castro;2018-09-04;17,1;27,1
+Ischia di Castro;2018-09-05;16,6;28
+Ischia di Castro;2018-09-06;17,9;28,9
+Ischia di Castro;2018-09-07;17,3;27,4
+Ischia di Castro;2018-09-08;17,5;26,8
+Ischia di Castro;2018-09-09;19,4;29
+Ischia di Castro;2018-09-10;19,7;29,6
+Ischia di Castro;2018-09-11;20,5;29,9
+Ischia di Castro;2018-09-12;21,3;30,9
+Ischia di Castro;2018-09-13;18;23,9
+Ischia di Castro;2018-09-14;17,8;29,3
+Ischia di Castro;2018-09-15;17,4;29,7
+Ischia di Castro;2018-09-16;18,6;28,7
+Ischia di Castro;2018-09-17;18,5;27,3
+Ischia di Castro;2018-09-18;18,4;27,6
+Ischia di Castro;2018-09-19;18;27
+Ischia di Castro;2018-09-20;18,4;25,3
+Ischia di Castro;2018-09-21;18,7;28,8
+Ischia di Castro;2018-09-22;18,1;27,1
+Ischia di Castro;2018-09-23;17,7;26
+Ischia di Castro;2018-09-24;15,4;28,4
+Ischia di Castro;2018-09-25;12,1;19,3
+Ischia di Castro;2018-09-26;10,2;17,8
+Ischia di Castro;2018-09-27;10,3;24,1
+Ischia di Castro;2018-09-28;14,5;26,3
+Ischia di Castro;2018-09-29;15,6;26,9
+Ischia di Castro;2018-09-30;14;25,3
+Itri;2018-09-01;16,7;25,3
+Itri;2018-09-02;19,1;24,6
+Itri;2018-09-03;18,8;24,9
+Itri;2018-09-04;18,9;24,2
+Itri;2018-09-05;19,1;24,4
+Itri;2018-09-06;19,4;26,3
+Itri;2018-09-07;19,5;26,3
+Itri;2018-09-08;19,6;24,7
+Itri;2018-09-09;20;25,7
+Itri;2018-09-10;21;26,6
+Itri;2018-09-11;21,3;28,4
+Itri;2018-09-12;22,9;29,6
+Itri;2018-09-13;20,3;24,2
+Itri;2018-09-14;20,1;25,2
+Itri;2018-09-15;19,9;25,4
+Itri;2018-09-16;19,7;25,7
+Itri;2018-09-17;19,8;25,7
+Itri;2018-09-18;19,7;26,9
+Itri;2018-09-19;18;23,2
+Itri;2018-09-20;18,8;26
+Itri;2018-09-21;20,7;25,3
+Itri;2018-09-22;20,9;24,8
+Itri;2018-09-23;19,8;25
+Itri;2018-09-24;19,5;26,3
+Itri;2018-09-25;14,2;23
+Itri;2018-09-26;12,4;20,7
+Itri;2018-09-27;13,9;22,1
+Itri;2018-09-28;14,6;22
+Itri;2018-09-29;17,1;24,3
+Itri;2018-09-30;17,6;21,8
+Ladispoli rlazio;2018-09-01;19,9;25
+Ladispoli rlazio;2018-09-02;19;25,3
+Ladispoli rlazio;2018-09-03;18,2;24,6
+Ladispoli rlazio;2018-09-04;17,4;26
+Ladispoli rlazio;2018-09-05;17,7;26,3
+Ladispoli rlazio;2018-09-06;17,8;26,8
+Ladispoli rlazio;2018-09-07;17,3;26,1
+Ladispoli rlazio;2018-09-08;19,1;26
+Ladispoli rlazio;2018-09-09;19,6;27,1
+Ladispoli rlazio;2018-09-10;19,3;26,4
+Ladispoli rlazio;2018-09-11;18,6;26,8
+Ladispoli rlazio;2018-09-12;18,3;27,5
+Ladispoli rlazio;2018-09-13;19,8;26,9
+Ladispoli rlazio;2018-09-14;19,9;26
+Ladispoli rlazio;2018-09-15;18,8;26,3
+Ladispoli rlazio;2018-09-16;19,5;27,4
+Ladispoli rlazio;2018-09-17;19,3;25,9
+Ladispoli rlazio;2018-09-18;20,2;27,1
+Ladispoli rlazio;2018-09-19;20,7;25,4
+Ladispoli rlazio;2018-09-20;20;27,3
+Ladispoli rlazio;2018-09-21;19,8;27,6
+Ladispoli rlazio;2018-09-22;18,9;25,8
+Ladispoli rlazio;2018-09-23;18,9;26,4
+Ladispoli rlazio;2018-09-24;21,5;27,6
+Ladispoli rlazio;2018-09-25;16,1;26,5
+Ladispoli rlazio;2018-09-26;14,5;24,1
+Ladispoli rlazio;2018-09-27;13;25,6
+Ladispoli rlazio;2018-09-28;15,5;23,6
+Ladispoli rlazio;2018-09-29;15,6;25,8
+Ladispoli rlazio;2018-09-30;16,4;24,7
+Lago di Albano;2018-09-01;17,7;24,8
+Lago di Albano;2018-09-02;16,6;25,1
+Lago di Albano;2018-09-03;16,5;25,3
+Lago di Albano;2018-09-04;16;26,7
+Lago di Albano;2018-09-05;15,8;28,3
+Lago di Albano;2018-09-06;16,6;28,2
+Lago di Albano;2018-09-07;16,8;27,2
+Lago di Albano;2018-09-08;17;27,4
+Lago di Albano;2018-09-09;18,1;28,5
+Lago di Albano;2018-09-10;18,6;28,7
+Lago di Albano;2018-09-11;17,8;29,7
+Lago di Albano;2018-09-12;17,7;29,9
+Lago di Albano;2018-09-13;17,3;25,3
+Lago di Albano;2018-09-14;17,1;28,5
+Lago di Albano;2018-09-15;17,9;27,2
+Lago di Albano;2018-09-16;17,6;28
+Lago di Albano;2018-09-17;18;26,6
+Lago di Albano;2018-09-18;18;27
+Lago di Albano;2018-09-19;17,2;23,6
+Lago di Albano;2018-09-20;17,4;26,9
+Lago di Albano;2018-09-21;17,2;27,8
+Lago di Albano;2018-09-22;17,6;29
+Lago di Albano;2018-09-23;17,2;28,2
+Lago di Albano;2018-09-24;18,7;28,2
+Lago di Albano;2018-09-25;13;24,9
+Lago di Albano;2018-09-26;11,2;23,2
+Lago di Albano;2018-09-27;12,6;22,9
+Lago di Albano;2018-09-28;12,9;24,4
+Lago di Albano;2018-09-29;13;25,7
+Lago di Albano;2018-09-30;13,4;24,6
+Lago di Corbara;2018-09-01;17,5;27,7
+Lago di Corbara;2018-09-02;15,1;24,5
+Lago di Corbara;2018-09-03;14,6;26,4
+Lago di Corbara;2018-09-04;15,8;27,5
+Lago di Corbara;2018-09-05;14,6;30
+Lago di Corbara;2018-09-06;15,1;30,2
+Lago di Corbara;2018-09-07;18;28,4
+Lago di Corbara;2018-09-08;16,9;29,2
+Lago di Corbara;2018-09-09;15,4;30,5
+Lago di Corbara;2018-09-10;16,1;31,8
+Lago di Corbara;2018-09-11;14,4;33,3
+Lago di Corbara;2018-09-12;13,4;33,4
+Lago di Corbara;2018-09-13;16,8;25,4
+Lago di Corbara;2018-09-14;17;30,8
+Lago di Corbara;2018-09-15;15,7;31,2
+Lago di Corbara;2018-09-16;17,6;30,8
+Lago di Corbara;2018-09-17;17,2;30,3
+Lago di Corbara;2018-09-18;18,7;29,4
+Lago di Corbara;2018-09-19;17,2;29,5
+Lago di Corbara;2018-09-20;19,1;27,5
+Lago di Corbara;2018-09-21;17;29,9
+Lago di Corbara;2018-09-22;16;29,3
+Lago di Corbara;2018-09-23;16,8;28,9
+Lago di Corbara;2018-09-24;18,3;29,2
+Lago di Corbara;2018-09-25;16,5;21,3
+Lago di Corbara;2018-09-26;13;20,1
+Lago di Corbara;2018-09-27;7,4;25,4
+Lago di Corbara;2018-09-28;9,2;28,4
+Lago di Corbara;2018-09-29;8,4;27,8
+Lago di Corbara;2018-09-30;13,7;26,9
+Lago di Nemi;2018-09-01;16,9;25
+Lago di Nemi;2018-09-02;15,3;23,8
+Lago di Nemi;2018-09-03;14,9;26,4
+Lago di Nemi;2018-09-04;13,9;26,9
+Lago di Nemi;2018-09-05;14,4;27,3
+Lago di Nemi;2018-09-06;14,1;27,8
+Lago di Nemi;2018-09-07;15,8;27,2
+Lago di Nemi;2018-09-08;15,4;29,9
+Lago di Nemi;2018-09-09;16,5;29,3
+Lago di Nemi;2018-09-10;16,6;29,7
+Lago di Nemi;2018-09-11;15,2;30,4
+Lago di Nemi;2018-09-12;14,9;30,3
+Lago di Nemi;2018-09-13;16,8;25,5
+Lago di Nemi;2018-09-14;16,2;28,6
+Lago di Nemi;2018-09-15;15,1;28,3
+Lago di Nemi;2018-09-16;16,6;26,9
+Lago di Nemi;2018-09-17;16,1;27,3
+Lago di Nemi;2018-09-18;17,8;27,9
+Lago di Nemi;2018-09-19;17,6;24,1
+Lago di Nemi;2018-09-20;16,9;26,3
+Lago di Nemi;2018-09-21;16,7;27,1
+Lago di Nemi;2018-09-22;15,9;29,8
+Lago di Nemi;2018-09-23;14,4;27,8
+Lago di Nemi;2018-09-24;16,6;26,9
+Lago di Nemi;2018-09-25;12;24,5
+Lago di Nemi;2018-09-26;9;22,9
+Lago di Nemi;2018-09-27;9,1;25,2
+Lago di Nemi;2018-09-28;10,4;24,8
+Lago di Nemi;2018-09-29;9,3;26
+Lago di Nemi;2018-09-30;10,2;23,7
+Lanuvio;2018-09-01;18,2;27,3
+Lanuvio;2018-09-02;17,8;26
+Lanuvio;2018-09-03;16,9;25,9
+Lanuvio;2018-09-04;16;27,1
+Lanuvio;2018-09-05;16,6;28,6
+Lanuvio;2018-09-06;15,5;28,7
+Lanuvio;2018-09-07;17,7;27,5
+Lanuvio;2018-09-08;17,4;28,2
+Lanuvio;2018-09-09;17,7;29,8
+Lanuvio;2018-09-10;17,7;29,6
+Lanuvio;2018-09-11;18;29,5
+Lanuvio;2018-09-12;17,1;30,9
+Lanuvio;2018-09-13;19,1;27,3
+Lanuvio;2018-09-14;18,1;28,5
+Lanuvio;2018-09-15;19,2;28,2
+Lanuvio;2018-09-16;17,5;28,5
+Lanuvio;2018-09-17;18;28,8
+Lanuvio;2018-09-18;20;28,3
+Lanuvio;2018-09-19;19,6;25,3
+Lanuvio;2018-09-20;19,1;28,4
+Lanuvio;2018-09-21;18,9;27,8
+Lanuvio;2018-09-22;18,7;28,9
+Lanuvio;2018-09-23;18,1;28,3
+Lanuvio;2018-09-24;19,8;28,4
+Lanuvio;2018-09-25;14,4;25,6
+Lanuvio;2018-09-26;11,1;24
+Lanuvio;2018-09-27;11,5;25,6
+Lanuvio;2018-09-28;12,8;24,8
+Lanuvio;2018-09-29;13,3;26,7
+Lanuvio;2018-09-30;13,3;24,9
+Latina;2018-09-01;19,3;29,7
+Latina;2018-09-02;19,5;28,4
+Latina;2018-09-03;18,9;29,1
+Latina;2018-09-04;17,1;29,2
+Latina;2018-09-05;18,2;30,2
+Latina;2018-09-06;17,9;29,8
+Latina;2018-09-07;19,6;30,4
+Latina;2018-09-08;19,2;31,2
+Latina;2018-09-09;19,5;31,1
+Latina;2018-09-10;19,8;30,7
+Latina;2018-09-11;19,7;32,2
+Latina;2018-09-12;19,1;31,9
+Latina;2018-09-13;20,1;27,5
+Latina;2018-09-14;19,6;30,9
+Latina;2018-09-15;18,1;29,7
+Latina;2018-09-16;19,2;30,4
+Latina;2018-09-17;19,4;30,3
+Latina;2018-09-18;21,3;30,4
+Latina;2018-09-19;21,1;27,2
+Latina;2018-09-20;20;31,4
+Latina;2018-09-21;19,9;29,3
+Latina;2018-09-22;19,2;31
+Latina;2018-09-23;19;30,2
+Latina;2018-09-24;20,7;30,7
+Latina;2018-09-25;17,6;29,1
+Latina;2018-09-26;12,6;25,4
+Latina;2018-09-27;11,4;26,5
+Latina;2018-09-28;14,1;26,7
+Latina;2018-09-29;13,3;28,1
+Latina;2018-09-30;14,5;26,1
+Lenola;2018-09-01;15,4;24,3
+Lenola;2018-09-02;14;26,1
+Lenola;2018-09-03;14,4;24,9
+Lenola;2018-09-04;14,1;26,5
+Lenola;2018-09-05;14,4;26,7
+Lenola;2018-09-06;14,7;27,3
+Lenola;2018-09-07;15,5;27
+Lenola;2018-09-08;15,9;27
+Lenola;2018-09-09;16,3;28,1
+Lenola;2018-09-10;16,9;29,2
+Lenola;2018-09-11;16,5;30,5
+Lenola;2018-09-12;17,3;29,7
+Lenola;2018-09-13;17,6;25,8
+Lenola;2018-09-14;17;27,7
+Lenola;2018-09-15;15,5;28,8
+Lenola;2018-09-16;15,6;27,8
+Lenola;2018-09-17;15,8;27,4
+Lenola;2018-09-18;16,5;26,4
+Lenola;2018-09-19;17,4;22,6
+Lenola;2018-09-20;17,6;27,6
+Lenola;2018-09-21;17,2;25,4
+Lenola;2018-09-22;16,6;27,6
+Lenola;2018-09-23;16,3;26,8
+Lenola;2018-09-24;15,3;26,3
+Lenola;2018-09-25;11,7;23,3
+Lenola;2018-09-26;9,1;18,9
+Lenola;2018-09-27;7,5;24,1
+Lenola;2018-09-28;10,3;25,3
+Lenola;2018-09-29;11,8;25,4
+Lenola;2018-09-30;12,5;22,9
+Leonessa;2018-09-01;13,1;21,1
+Leonessa;2018-09-02;8,9;22
+Leonessa;2018-09-03;7,3;21,3
+Leonessa;2018-09-04;9,7;22,4
+Leonessa;2018-09-05;10,8;23,8
+Leonessa;2018-09-06;8,3;24,6
+Leonessa;2018-09-07;12,3;24,2
+Leonessa;2018-09-08;10,1;23,2
+Leonessa;2018-09-09;8,8;25,2
+Leonessa;2018-09-10;9;25,7
+Leonessa;2018-09-11;6,9;27,6
+Leonessa;2018-09-12;7;27,9
+Leonessa;2018-09-13;10,5;22,3
+Leonessa;2018-09-14;9;25,8
+Leonessa;2018-09-15;10,3;25,6
+Leonessa;2018-09-16;9,6;26
+Leonessa;2018-09-17;10,8;25,6
+Leonessa;2018-09-18;11,6;23,9
+Leonessa;2018-09-19;12,7;25,7
+Leonessa;2018-09-20;14,1;23,1
+Leonessa;2018-09-21;11,6;23,6
+Leonessa;2018-09-22;10,9;24,2
+Leonessa;2018-09-23;8,2;24,7
+Leonessa;2018-09-24;10,9;24,4
+Leonessa;2018-09-25;7,8;15,2
+Leonessa;2018-09-26;3,9;14,8
+Leonessa;2018-09-27;-1,5;21,6
+Leonessa;2018-09-28;1,8;24,2
+Leonessa;2018-09-29;2,6;22,2
+Leonessa;2018-09-30;2,6;21,2
+Licenza;2018-09-01;15,4;23,6
+Licenza;2018-09-02;13,3;24,6
+Licenza;2018-09-03;12,7;24,5
+Licenza;2018-09-04;13,5;25,7
+Licenza;2018-09-05;13,6;27,6
+Licenza;2018-09-06;13,5;27,7
+Licenza;2018-09-07;14,3;27
+Licenza;2018-09-08;13,4;26,6
+Licenza;2018-09-09;14,8;28,2
+Licenza;2018-09-10;15,3;28,4
+Licenza;2018-09-11;14,1;28,9
+Licenza;2018-09-12;14,7;30,2
+Licenza;2018-09-13;15,8;23,2
+Licenza;2018-09-14;15,3;28,6
+Licenza;2018-09-15;14,6;27,7
+Licenza;2018-09-16;14,9;28
+Licenza;2018-09-17;16;27,6
+Licenza;2018-09-18;16,2;26,7
+Licenza;2018-09-19;15,6;24,2
+Licenza;2018-09-20;17;25,2
+Licenza;2018-09-21;16,1;26,2
+Licenza;2018-09-22;15,3;28,2
+Licenza;2018-09-23;14,4;27,3
+Licenza;2018-09-24;15;27,1
+Licenza;2018-09-25;11,1;21,6
+Licenza;2018-09-26;8,1;20
+Licenza;2018-09-27;5,3;25,6
+Licenza;2018-09-28;7,7;23,4
+Licenza;2018-09-29;8,3;26,5
+Licenza;2018-09-30;9,6;23,5
+Liri a Ceprano;2018-09-01;16,8;29,2
+Liri a Ceprano;2018-09-02;14;27,3
+Liri a Ceprano;2018-09-03;14,2;26,9
+Liri a Ceprano;2018-09-04;12,9;29,3
+Liri a Ceprano;2018-09-05;13,8;30,5
+Liri a Ceprano;2018-09-06;13;31,2
+Liri a Ceprano;2018-09-07;15,5;30
+Liri a Ceprano;2018-09-08;14,1;30,6
+Liri a Ceprano;2018-09-09;15,4;30,4
+Liri a Ceprano;2018-09-10;16,4;31,4
+Liri a Ceprano;2018-09-11;14,7;32,6
+Liri a Ceprano;2018-09-12;13,9;32,8
+Liri a Ceprano;2018-09-13;16;26,6
+Liri a Ceprano;2018-09-14;17,2;31
+Liri a Ceprano;2018-09-15;15;31,5
+Liri a Ceprano;2018-09-16;15,5;30,9
+Liri a Ceprano;2018-09-17;15,4;30,8
+Liri a Ceprano;2018-09-18;17,4;29,6
+Liri a Ceprano;2018-09-19;18,4;25,9
+Liri a Ceprano;2018-09-20;18,4;26,6
+Liri a Ceprano;2018-09-21;17,4;27,4
+Liri a Ceprano;2018-09-22;15,2;31
+Liri a Ceprano;2018-09-23;15,2;30,4
+Liri a Ceprano;2018-09-24;15,2;30,6
+Liri a Ceprano;2018-09-25;11,1;25,4
+Liri a Ceprano;2018-09-26;5,7;22,4
+Liri a Ceprano;2018-09-27;3;25,9
+Liri a Ceprano;2018-09-28;4,5;26,6
+Liri a Ceprano;2018-09-29;6;28,6
+Liri a Ceprano;2018-09-30;7,9;25,9
+Liri a Civitella Roveto;2018-09-01;13,2;24,1
+Liri a Civitella Roveto;2018-09-02;12,3;24
+Liri a Civitella Roveto;2018-09-03;11,1;24,3
+Liri a Civitella Roveto;2018-09-04;11;26,6
+Liri a Civitella Roveto;2018-09-05;11,4;27,6
+Liri a Civitella Roveto;2018-09-06;11,5;28,7
+Liri a Civitella Roveto;2018-09-07;13,5;27,4
+Liri a Civitella Roveto;2018-09-08;12,4;27
+Liri a Civitella Roveto;2018-09-09;12,7;28,7
+Liri a Civitella Roveto;2018-09-10;13,5;28,7
+Liri a Civitella Roveto;2018-09-11;12,9;29,9
+Liri a Civitella Roveto;2018-09-12;13,1;30,9
+Liri a Civitella Roveto;2018-09-13;13,8;26
+Liri a Civitella Roveto;2018-09-14;13;28,9
+Liri a Civitella Roveto;2018-09-15;12,9;29,1
+Liri a Civitella Roveto;2018-09-16;13,6;28,9
+Liri a Civitella Roveto;2018-09-17;13,8;28,6
+Liri a Civitella Roveto;2018-09-18;14,4;26,2
+Liri a Civitella Roveto;2018-09-19;15,2;24,4
+Liri a Civitella Roveto;2018-09-20;16;26,4
+Liri a Civitella Roveto;2018-09-21;15,1;27,8
+Liri a Civitella Roveto;2018-09-22;13,9;28,9
+Liri a Civitella Roveto;2018-09-23;13,5;28
+Liri a Civitella Roveto;2018-09-24;14,9;28,6
+Liri a Civitella Roveto;2018-09-25;12,7;17,9
+Liri a Civitella Roveto;2018-09-26;8,5;16,7
+Liri a Civitella Roveto;2018-09-27;5,7;22,5
+Liri a Civitella Roveto;2018-09-28;6,7;25,4
+Liri a Civitella Roveto;2018-09-29;5,7;24
+Liri a Civitella Roveto;2018-09-30;9,8;24,7
+Lugnano;2018-09-01;15,4;25
+Lugnano;2018-09-02;12,8;25,9
+Lugnano;2018-09-03;12,3;25,2
+Lugnano;2018-09-04;13,3;24,6
+Lugnano;2018-09-05;12;26,8
+Lugnano;2018-09-06;12,3;28,2
+Lugnano;2018-09-07;15,2;27,7
+Lugnano;2018-09-08;13,2;26,8
+Lugnano;2018-09-09;13,1;28,2
+Lugnano;2018-09-10;14;29,3
+Lugnano;2018-09-11;12,1;30,5
+Lugnano;2018-09-12;12,7;31,6
+Lugnano;2018-09-13;15,3;24,7
+Lugnano;2018-09-14;13,4;29,9
+Lugnano;2018-09-15;14,1;29,4
+Lugnano;2018-09-16;13,8;29,8
+Lugnano;2018-09-17;15,2;29,4
+Lugnano;2018-09-18;16;28,5
+Lugnano;2018-09-19;15,3;27,8
+Lugnano;2018-09-20;16,2;24,8
+Lugnano;2018-09-21;15,5;28
+Lugnano;2018-09-22;13,9;27,9
+Lugnano;2018-09-23;13,3;28,9
+Lugnano;2018-09-24;14,5;27,2
+Lugnano;2018-09-25;8,6;22,5
+Lugnano;2018-09-26;6,6;21
+Lugnano;2018-09-27;4,9;25,1
+Lugnano;2018-09-28;7;25,7
+Lugnano;2018-09-29;8;27
+Lugnano;2018-09-30;8,3;24
+Maccarese rlazio;2018-09-01;19,8;26,6
+Maccarese rlazio;2018-09-02;19,1;26,2
+Maccarese rlazio;2018-09-03;17,5;25,9
+Maccarese rlazio;2018-09-04;16,5;26,4
+Maccarese rlazio;2018-09-05;17,4;27,6
+Maccarese rlazio;2018-09-06;17,2;27,7
+Maccarese rlazio;2018-09-07;17,3;27,1
+Maccarese rlazio;2018-09-08;18,1;27
+Maccarese rlazio;2018-09-09;19;28,1
+Maccarese rlazio;2018-09-10;18,8;28,3
+Maccarese rlazio;2018-09-11;18,8;29,2
+Maccarese rlazio;2018-09-12;17,5;29,4
+Maccarese rlazio;2018-09-13;19,1;26,7
+Maccarese rlazio;2018-09-14;19,5;27,1
+Maccarese rlazio;2018-09-15;18,1;27,5
+Maccarese rlazio;2018-09-16;19,1;27,6
+Maccarese rlazio;2018-09-17;18,7;27
+Maccarese rlazio;2018-09-18;20,2;27,7
+Maccarese rlazio;2018-09-19;20,2;24,5
+Maccarese rlazio;2018-09-20;19,7;26,3
+Maccarese rlazio;2018-09-21;18,8;27,8
+Maccarese rlazio;2018-09-22;18,5;27,1
+Maccarese rlazio;2018-09-23;18,3;26,7
+Maccarese rlazio;2018-09-24;19,6;27,6
+Maccarese rlazio;2018-09-25;14,6;26
+Maccarese rlazio;2018-09-26;13,5;23,8
+Maccarese rlazio;2018-09-27;10,5;23,3
+Maccarese rlazio;2018-09-28;12;24,6
+Maccarese rlazio;2018-09-29;13,1;26
+Maccarese rlazio;2018-09-30;12,5;25,1
+Mandrione;2018-09-01;16,4;28,2
+Mandrione;2018-09-02;14,7;29,1
+Mandrione;2018-09-03;14,7;28,5
+Mandrione;2018-09-04;15,4;30,5
+Mandrione;2018-09-05;13,8;31,6
+Mandrione;2018-09-06;13,9;31,7
+Mandrione;2018-09-07;17,1;30,4
+Mandrione;2018-09-08;16,3;30,2
+Mandrione;2018-09-09;16,4;32
+Mandrione;2018-09-10;17,1;33,1
+Mandrione;2018-09-11;14,8;33,8
+Mandrione;2018-09-12;14,2;35
+Mandrione;2018-09-13;16,9;27,3
+Mandrione;2018-09-14;16,3;31,6
+Mandrione;2018-09-15;14,9;30,6
+Mandrione;2018-09-16;16,6;30,7
+Mandrione;2018-09-17;15,7;30,7
+Mandrione;2018-09-18;17,4;30,6
+Mandrione;2018-09-19;18,4;30,6
+Mandrione;2018-09-20;19;29,6
+Mandrione;2018-09-21;17,4;30,7
+Mandrione;2018-09-22;15,3;30,7
+Mandrione;2018-09-23;15,5;29,6
+Mandrione;2018-09-24;18,5;32,1
+Mandrione;2018-09-25;14,3;25,1
+Mandrione;2018-09-26;11,2;23,8
+Mandrione;2018-09-27;5,8;28,6
+Mandrione;2018-09-28;7,7;29,8
+Mandrione;2018-09-29;10;30
+Mandrione;2018-09-30;11,8;28,9
+Manziana;2018-09-01;16;25,6
+Manziana;2018-09-02;15,2;26
+Manziana;2018-09-03;14,8;25,7
+Manziana;2018-09-04;15,3;29,3
+Manziana;2018-09-05;14,8;28,9
+Manziana;2018-09-06;16,1;29,3
+Manziana;2018-09-07;16,5;27,3
+Manziana;2018-09-08;16,2;29,3
+Manziana;2018-09-09;17,1;30,5
+Manziana;2018-09-10;17,7;30,5
+Manziana;2018-09-11;15,9;30
+Manziana;2018-09-12;17,3;31,9
+Manziana;2018-09-13;18;23,8
+Manziana;2018-09-14;18;29,3
+Manziana;2018-09-15;17,2;30,4
+Manziana;2018-09-16;17;28,1
+Manziana;2018-09-17;15,5;29,8
+Manziana;2018-09-18;15,1;27,5
+Manziana;2018-09-19;18,5;23,8
+Manziana;2018-09-20;18;24,3
+Manziana;2018-09-21;17,7;29,7
+Manziana;2018-09-22;16,1;29,9
+Manziana;2018-09-23;18;29,2
+Manziana;2018-09-24;17,6;28,8
+Manziana;2018-09-25;11,9;23,4
+Manziana;2018-09-26;10,2;20,7
+Manziana;2018-09-27;8,9;25,7
+Manziana;2018-09-28;13;27,1
+Manziana;2018-09-29;13,9;26,3
+Manziana;2018-09-30;14,3;25,6
+Marta;2018-09-01;17,3;24
+Marta;2018-09-02;15,5;21,9
+Marta;2018-09-03;15,8;23,7
+Marta;2018-09-04;16,7;24,8
+Marta;2018-09-05;16,2;25,9
+Marta;2018-09-06;16,8;26,3
+Marta;2018-09-07;18,4;23,7
+Marta;2018-09-08;18,4;26,1
+Marta;2018-09-09;19,5;27
+Marta;2018-09-10;19,2;28,8
+Marta;2018-09-11;18,3;28,4
+Marta;2018-09-12;18;30,2
+Marta;2018-09-13;18,1;24,4
+Marta;2018-09-14;18,2;27
+Marta;2018-09-15;17,3;26,4
+Marta;2018-09-16;18,5;27,1
+Marta;2018-09-17;17,4;26
+Marta;2018-09-18;18,5;25,8
+Marta;2018-09-19;19,2;24,8
+Marta;2018-09-20;21,1;25,2
+Marta;2018-09-21;18,3;26,4
+Marta;2018-09-22;16,5;25,7
+Marta;2018-09-23;17,3;24,8
+Marta;2018-09-24;18,5;26,3
+Marta;2018-09-25;15,3;20
+Marta;2018-09-26;13,4;18,5
+Marta;2018-09-27;13,5;23,5
+Marta;2018-09-28;12,3;24,6
+Marta;2018-09-29;13,8;24,7
+Marta;2018-09-30;13,9;25,9
+Marta a Tarquinia;2018-09-01;20,3;26,8
+Marta a Tarquinia;2018-09-02;17,6;26,3
+Marta a Tarquinia;2018-09-03;16,2;25,7
+Marta a Tarquinia;2018-09-04;16,7;27,2
+Marta a Tarquinia;2018-09-05;15,6;29,3
+Marta a Tarquinia;2018-09-06;15,7;27,7
+Marta a Tarquinia;2018-09-07;18;27
+Marta a Tarquinia;2018-09-08;18,2;27
+Marta a Tarquinia;2018-09-09;18,1;28,3
+Marta a Tarquinia;2018-09-10;18;28,7
+Marta a Tarquinia;2018-09-11;16,7;29,8
+Marta a Tarquinia;2018-09-12;16;31,6
+Marta a Tarquinia;2018-09-13;18,2;26,8
+Marta a Tarquinia;2018-09-14;18,1;27,6
+Marta a Tarquinia;2018-09-15;16,9;27,9
+Marta a Tarquinia;2018-09-16;18,7;27,6
+Marta a Tarquinia;2018-09-17;17,3;27,2
+Marta a Tarquinia;2018-09-18;19,1;28
+Marta a Tarquinia;2018-09-19;19,9;26,5
+Marta a Tarquinia;2018-09-20;20,1;29,8
+Marta a Tarquinia;2018-09-21;18,8;28,9
+Marta a Tarquinia;2018-09-22;16,7;27,8
+Marta a Tarquinia;2018-09-23;18;27
+Marta a Tarquinia;2018-09-24;19,5;29,7
+Marta a Tarquinia;2018-09-25;13,7;24,4
+Marta a Tarquinia;2018-09-26;12,6;23
+Marta a Tarquinia;2018-09-27;9,7;27,6
+Marta a Tarquinia;2018-09-28;10,1;27,4
+Marta a Tarquinia;2018-09-29;12,3;26,9
+Marta a Tarquinia;2018-09-30;13,9;26,2
+Massimina;2018-09-01;18,5;26,1
+Massimina;2018-09-02;17,6;26,5
+Massimina;2018-09-03;17;26,7
+Massimina;2018-09-04;15,9;27
+Massimina;2018-09-05;16,2;30
+Massimina;2018-09-06;16,7;28,8
+Massimina;2018-09-07;16,8;28
+Massimina;2018-09-08;17;29
+Massimina;2018-09-09;17,6;29,7
+Massimina;2018-09-10;18,3;30
+Massimina;2018-09-11;17,6;30,7
+Massimina;2018-09-12;16,7;31,6
+Massimina;2018-09-13;18,6;27,1
+Massimina;2018-09-14;18,3;29
+Massimina;2018-09-15;17,2;28,6
+Massimina;2018-09-16;18,7;28,4
+Massimina;2018-09-17;17,6;28,4
+Massimina;2018-09-18;19,3;28,9
+Massimina;2018-09-19;19,1;24,2
+Massimina;2018-09-20;18,5;25,8
+Massimina;2018-09-21;18,2;28,6
+Massimina;2018-09-22;17,8;28,9
+Massimina;2018-09-23;17,3;27,5
+Massimina;2018-09-24;19,7;28
+Massimina;2018-09-25;14,3;26,8
+Massimina;2018-09-26;11,6;24,5
+Massimina;2018-09-27;8,6;26,7
+Massimina;2018-09-28;11;25,9
+Massimina;2018-09-29;13,4;26,9
+Massimina;2018-09-30;12,4;25,1
+Melfa ad Atina;2018-09-01;14,7;26,2
+Melfa ad Atina;2018-09-02;12,2;25,2
+Melfa ad Atina;2018-09-03;12,4;25,6
+Melfa ad Atina;2018-09-04;11,3;26,6
+Melfa ad Atina;2018-09-05;13,4;28,2
+Melfa ad Atina;2018-09-06;12,2;28,6
+Melfa ad Atina;2018-09-07;14,3;28,7
+Melfa ad Atina;2018-09-08;13,2;27,9
+Melfa ad Atina;2018-09-09;13,5;28,9
+Melfa ad Atina;2018-09-10;14,9;29,3
+Melfa ad Atina;2018-09-11;13,3;29,4
+Melfa ad Atina;2018-09-12;12,5;30,4
+Melfa ad Atina;2018-09-13;14,4;27,1
+Melfa ad Atina;2018-09-14;16,7;28,8
+Melfa ad Atina;2018-09-15;13,8;29,7
+Melfa ad Atina;2018-09-16;14,5;28,7
+Melfa ad Atina;2018-09-17;14,6;28,5
+Melfa ad Atina;2018-09-18;15;27,7
+Melfa ad Atina;2018-09-19;16,8;25,4
+Melfa ad Atina;2018-09-20;16,9;27,3
+Melfa ad Atina;2018-09-21;16,2;26,7
+Melfa ad Atina;2018-09-22;13,4;29,1
+Melfa ad Atina;2018-09-23;13,8;28,4
+Melfa ad Atina;2018-09-24;13,8;28
+Melfa ad Atina;2018-09-25;8,8;22,9
+Melfa ad Atina;2018-09-26;4,7;19,4
+Melfa ad Atina;2018-09-27;1,2;24,1
+Melfa ad Atina;2018-09-28;2,3;24,6
+Melfa ad Atina;2018-09-29;4,5;26,3
+Melfa ad Atina;2018-09-30;6,2;24,6
+Micigliano;2018-09-01;13,8;20,7
+Micigliano;2018-09-02;11;22,2
+Micigliano;2018-09-03;11;22,3
+Micigliano;2018-09-04;12,1;21,7
+Micigliano;2018-09-05;12,2;25,8
+Micigliano;2018-09-06;14,1;26,7
+Micigliano;2018-09-07;14;24,9
+Micigliano;2018-09-08;12,8;25,2
+Micigliano;2018-09-09;14,5;26,9
+Micigliano;2018-09-10;14,5;28,2
+Micigliano;2018-09-11;13,4;29
+Micigliano;2018-09-12;14,8;30,6
+Micigliano;2018-09-13;15,1;22,3
+Micigliano;2018-09-14;13,7;28
+Micigliano;2018-09-15;14,4;26,8
+Micigliano;2018-09-16;14,4;27,5
+Micigliano;2018-09-17;14,8;27,7
+Micigliano;2018-09-18;15,2;25,2
+Micigliano;2018-09-19;14,2;23
+Micigliano;2018-09-20;15,6;22
+Micigliano;2018-09-21;14,2;25,7
+Micigliano;2018-09-22;14,1;26,9
+Micigliano;2018-09-23;13,7;26,7
+Micigliano;2018-09-24;11,6;25,9
+Micigliano;2018-09-25;8,4;16,1
+Micigliano;2018-09-26;5,5;15,5
+Micigliano;2018-09-27;5,9;22,1
+Micigliano;2018-09-28;10,2;26,7
+Micigliano;2018-09-29;11,6;23,6
+Micigliano;2018-09-30;10,1;23,6
+Montalto di Castro meteo;2018-09-01;21;27,4
+Montalto di Castro meteo;2018-09-02;17,4;27,2
+Montalto di Castro meteo;2018-09-03;16,2;26,8
+Montalto di Castro meteo;2018-09-04;16,7;27
+Montalto di Castro meteo;2018-09-05;16,4;29,8
+Montalto di Castro meteo;2018-09-06;15,2;28,1
+Montalto di Castro meteo;2018-09-07;18;27
+Montalto di Castro meteo;2018-09-08;18,1;27,8
+Montalto di Castro meteo;2018-09-09;18,3;28,5
+Montalto di Castro meteo;2018-09-10;18,3;30,3
+Montalto di Castro meteo;2018-09-11;17,1;29,4
+Montalto di Castro meteo;2018-09-12;16,5;31,3
+Montalto di Castro meteo;2018-09-13;18,8;26,6
+Montalto di Castro meteo;2018-09-14;18,4;27,2
+Montalto di Castro meteo;2018-09-15;17,5;27,4
+Montalto di Castro meteo;2018-09-16;18,6;27,1
+Montalto di Castro meteo;2018-09-17;17,8;27
+Montalto di Castro meteo;2018-09-18;19,4;27,4
+Montalto di Castro meteo;2018-09-19;20,3;27
+Montalto di Castro meteo;2018-09-20;20,3;29,1
+Montalto di Castro meteo;2018-09-21;18,8;28,1
+Montalto di Castro meteo;2018-09-22;17,3;27,1
+Montalto di Castro meteo;2018-09-23;18,6;26,9
+Montalto di Castro meteo;2018-09-24;20,1;28,1
+Montalto di Castro meteo;2018-09-25;15,5;25,1
+Montalto di Castro meteo;2018-09-26;12,6;23,1
+Montalto di Castro meteo;2018-09-27;8,9;28,5
+Montalto di Castro meteo;2018-09-28;11;27,2
+Montalto di Castro meteo;2018-09-29;13;28,6
+Montalto di Castro meteo;2018-09-30;13,2;26,7
+Montasola;2018-09-01;15;23,5
+Montasola;2018-09-02;14;25
+Montasola;2018-09-03;13,1;25,2
+Montasola;2018-09-04;13,6;25,7
+Montasola;2018-09-05;13,3;27,8
+Montasola;2018-09-06;13,7;28,1
+Montasola;2018-09-07;15,1;26,3
+Montasola;2018-09-08;14,5;28,1
+Montasola;2018-09-09;14,3;29,3
+Montasola;2018-09-10;14,9;30,1
+Montasola;2018-09-11;13,6;30,3
+Montasola;2018-09-12;14,9;31,5
+Montasola;2018-09-13;15,6;23,9
+Montasola;2018-09-14;14,1;29,6
+Montasola;2018-09-15;13,8;28,4
+Montasola;2018-09-16;15,1;27,7
+Montasola;2018-09-17;15,2;27,1
+Montasola;2018-09-18;16,4;27,6
+Montasola;2018-09-19;15,8;24
+Montasola;2018-09-20;16,8;25,5
+Montasola;2018-09-21;15,4;26,5
+Montasola;2018-09-22;14,5;28,4
+Montasola;2018-09-23;13,2;27,2
+Montasola;2018-09-24;17,5;28,8
+Montasola;2018-09-25;12,5;22,1
+Montasola;2018-09-26;6,4;22
+Montasola;2018-09-27;5,2;25,6
+Montasola;2018-09-28;8,7;26,9
+Montasola;2018-09-29;9,6;27
+Montasola;2018-09-30;11;24,3
+Monte Romano;2018-09-01;17,5;26,4
+Monte Romano;2018-09-02;16,6;25,7
+Monte Romano;2018-09-03;15,6;25,7
+Monte Romano;2018-09-04;16,4;27,3
+Monte Romano;2018-09-05;15,4;28,6
+Monte Romano;2018-09-06;15,7;28
+Monte Romano;2018-09-07;16,1;27,5
+Monte Romano;2018-09-08;16,1;27,6
+Monte Romano;2018-09-09;17,2;29,3
+Monte Romano;2018-09-10;17,3;29
+Monte Romano;2018-09-11;16,8;31,1
+Monte Romano;2018-09-12;17,2;31,5
+Monte Romano;2018-09-13;18,2;25
+Monte Romano;2018-09-14;17,1;28,3
+Monte Romano;2018-09-15;17;27
+Monte Romano;2018-09-16;17,6;27,5
+Monte Romano;2018-09-17;16,9;27,8
+Monte Romano;2018-09-18;17,4;28
+Monte Romano;2018-09-19;17,9;25,7
+Monte Romano;2018-09-20;17,9;25,4
+Monte Romano;2018-09-21;17,1;27,7
+Monte Romano;2018-09-22;16,5;27,9
+Monte Romano;2018-09-23;17,1;27,1
+Monte Romano;2018-09-24;17;29,3
+Monte Romano;2018-09-25;12;22,9
+Monte Romano;2018-09-26;10,5;21,3
+Monte Romano;2018-09-27;7,6;26,1
+Monte Romano;2018-09-28;11,9;28,8
+Monte Romano;2018-09-29;11,8;28,5
+Monte Romano;2018-09-30;12,5;26,9
+Monte Terminillo;2018-09-01;8,9;12,7
+Monte Terminillo;2018-09-02;7,1;14,4
+Monte Terminillo;2018-09-03;7;13
+Monte Terminillo;2018-09-04;8,6;14,4
+Monte Terminillo;2018-09-05;8,6;16,7
+Monte Terminillo;2018-09-06;9,4;18,1
+Monte Terminillo;2018-09-07;9,8;16,1
+Monte Terminillo;2018-09-08;9,2;16,2
+Monte Terminillo;2018-09-09;10,5;17
+Monte Terminillo;2018-09-10;11,4;19,2
+Monte Terminillo;2018-09-11;10;20,4
+Monte Terminillo;2018-09-12;11,8;21,2
+Monte Terminillo;2018-09-13;11,7;17
+Monte Terminillo;2018-09-14;11;18,6
+Monte Terminillo;2018-09-15;10,3;17,9
+Monte Terminillo;2018-09-16;11,7;18,6
+Monte Terminillo;2018-09-17;10,7;18,1
+Monte Terminillo;2018-09-18;10,5;17,3
+Monte Terminillo;2018-09-19;10,5;16,8
+Monte Terminillo;2018-09-20;10,9;16,5
+Monte Terminillo;2018-09-21;11,1;17,3
+Monte Terminillo;2018-09-22;11,5;17,8
+Monte Terminillo;2018-09-23;10,9;17,6
+Monte Terminillo;2018-09-24;4,5;18
+Monte Terminillo;2018-09-25;0,6;8,3
+Monte Terminillo;2018-09-26;-1,7;9,4
+Monte Terminillo;2018-09-27;7,7;14,8
+Monte Terminillo;2018-09-28;6,9;17
+Monte Terminillo;2018-09-29;7,5;15,3
+Monte Terminillo;2018-09-30;7,6;14,3
+Montefiascone;2018-09-01;15,9;24,1
+Montefiascone;2018-09-02;13,6;23,7
+Montefiascone;2018-09-03;15,1;25,3
+Montefiascone;2018-09-04;16;25
+Montefiascone;2018-09-05;16,6;28
+Montefiascone;2018-09-06;16,5;28,4
+Montefiascone;2018-09-07;16,6;26,3
+Montefiascone;2018-09-08;17,1;27,7
+Montefiascone;2018-09-09;19,2;29,2
+Montefiascone;2018-09-10;19,1;30,5
+Montefiascone;2018-09-11;19,2;30,9
+Montefiascone;2018-09-12;21,2;32,1
+Montefiascone;2018-09-13;17;24,9
+Montefiascone;2018-09-14;17,1;30,1
+Montefiascone;2018-09-15;17,3;29,6
+Montefiascone;2018-09-16;18,7;28,5
+Montefiascone;2018-09-17;17,8;28,4
+Montefiascone;2018-09-18;17,6;27,7
+Montefiascone;2018-09-19;17,6;26,8
+Montefiascone;2018-09-20;18;27,8
+Montefiascone;2018-09-21;17,6;28,4
+Montefiascone;2018-09-22;17,9;28
+Montefiascone;2018-09-23;16,7;26,6
+Montefiascone;2018-09-24;15,3;28,7
+Montefiascone;2018-09-25;11,6;20
+Montefiascone;2018-09-26;9,3;18,6
+Montefiascone;2018-09-27;8,1;25,1
+Montefiascone;2018-09-28;13,6;27,9
+Montefiascone;2018-09-29;14,8;28,7
+Montefiascone;2018-09-30;13,8;26,1
+Montelibretti;2018-09-01;18,3;24,8
+Montelibretti;2018-09-02;17,2;25,6
+Montelibretti;2018-09-03;17,4;26,1
+Montelibretti;2018-09-04;16,3;27,1
+Montelibretti;2018-09-05;16,6;30,3
+Montelibretti;2018-09-06;16,9;28,3
+Montelibretti;2018-09-07;16,9;27,1
+Montelibretti;2018-09-08;18,1;30,5
+Montelibretti;2018-09-09;18,8;30,9
+Montelibretti;2018-09-10;19;31,5
+Montelibretti;2018-09-11;18,1;30,5
+Montelibretti;2018-09-12;19,1;32,9
+Montelibretti;2018-09-13;19,6;24,6
+Montelibretti;2018-09-14;18,4;29,9
+Montelibretti;2018-09-15;18,9;29,8
+Montelibretti;2018-09-16;19;28,1
+Montelibretti;2018-09-17;18,3;27,3
+Montelibretti;2018-09-18;19,5;28,1
+Montelibretti;2018-09-19;18,9;25,7
+Montelibretti;2018-09-20;18,7;25,4
+Montelibretti;2018-09-21;18,9;26,7
+Montelibretti;2018-09-22;18,6;29,7
+Montelibretti;2018-09-23;18;28,2
+Montelibretti;2018-09-24;20,1;29,3
+Montelibretti;2018-09-25;15,2;23,4
+Montelibretti;2018-09-26;12;23,3
+Montelibretti;2018-09-27;9,8;27,1
+Montelibretti;2018-09-28;12;26,6
+Montelibretti;2018-09-29;14,5;27,5
+Montelibretti;2018-09-30;13,4;25,6
+Monterotondo ETG;2018-09-01;18;25,1
+Monterotondo ETG;2018-09-02;16,4;24,8
+Monterotondo ETG;2018-09-03;15,6;26,5
+Monterotondo ETG;2018-09-04;16,2;27,5
+Monterotondo ETG;2018-09-05;16;29,9
+Monterotondo ETG;2018-09-06;16,9;29,5
+Monterotondo ETG;2018-09-07;17,5;28,3
+Monterotondo ETG;2018-09-08;16,8;30
+Monterotondo ETG;2018-09-09;17,2;30,5
+Monterotondo ETG;2018-09-10;18;31
+Monterotondo ETG;2018-09-11;16,9;31
+Monterotondo ETG;2018-09-12;17,1;33,1
+Monterotondo ETG;2018-09-13;18,6;25,2
+Monterotondo ETG;2018-09-14;18;31,2
+Monterotondo ETG;2018-09-15;17,7;29,2
+Monterotondo ETG;2018-09-16;18,9;28,3
+Monterotondo ETG;2018-09-17;18,2;28,3
+Monterotondo ETG;2018-09-18;19,5;28,1
+Monterotondo ETG;2018-09-19;18,7;25,7
+Monterotondo ETG;2018-09-20;18,6;25,5
+Monterotondo ETG;2018-09-21;18;27,2
+Monterotondo ETG;2018-09-22;17,6;29,6
+Monterotondo ETG;2018-09-23;17,3;28,5
+Monterotondo ETG;2018-09-24;17,9;28,6
+Monterotondo ETG;2018-09-25;14,9;24,3
+Monterotondo ETG;2018-09-26;12,2;22,5
+Monterotondo ETG;2018-09-27;7,8;26,2
+Monterotondo ETG;2018-09-28;11,5;26,5
+Monterotondo ETG;2018-09-29;12,4;27,2
+Monterotondo ETG;2018-09-30;13,2;25,5
+Moricone;2018-09-01;17,2;24,3
+Moricone;2018-09-02;15,4;24,9
+Moricone;2018-09-03;15,4;25,6
+Moricone;2018-09-04;15,5;26,3
+Moricone;2018-09-05;15,8;28,4
+Moricone;2018-09-06;16,9;28,6
+Moricone;2018-09-07;15,8;26,9
+Moricone;2018-09-08;16,4;28,2
+Moricone;2018-09-09;17,7;28,9
+Moricone;2018-09-10;17,4;29,4
+Moricone;2018-09-11;16,7;30,4
+Moricone;2018-09-12;17,6;31,3
+Moricone;2018-09-13;18,8;23,6
+Moricone;2018-09-14;17,7;29,3
+Moricone;2018-09-15;16,5;29,1
+Moricone;2018-09-16;17,7;28
+Moricone;2018-09-17;17,6;27,8
+Moricone;2018-09-18;17,9;28,2
+Moricone;2018-09-19;17,7;25,2
+Moricone;2018-09-20;17,5;24,7
+Moricone;2018-09-21;18;26,4
+Moricone;2018-09-22;17,7;29,3
+Moricone;2018-09-23;17,3;28,4
+Moricone;2018-09-24;18,4;29
+Moricone;2018-09-25;12,7;21,9
+Moricone;2018-09-26;10;21,3
+Moricone;2018-09-27;9,4;25,6
+Moricone;2018-09-28;11,2;25,4
+Moricone;2018-09-29;13,2;26,8
+Moricone;2018-09-30;12,3;24,9
+Morlupo;2018-09-01;17,7;24,7
+Morlupo;2018-09-02;17;24,8
+Morlupo;2018-09-03;16,5;25,9
+Morlupo;2018-09-04;16,7;27,4
+Morlupo;2018-09-05;16,5;29,7
+Morlupo;2018-09-06;18;29,3
+Morlupo;2018-09-07;18;28,5
+Morlupo;2018-09-08;17,4;28,9
+Morlupo;2018-09-09;18,1;31,1
+Morlupo;2018-09-10;18,6;31
+Morlupo;2018-09-11;17,5;31,3
+Morlupo;2018-09-12;18,5;33
+Morlupo;2018-09-13;19,5;24,6
+Morlupo;2018-09-14;18,5;31,8
+Morlupo;2018-09-15;18,6;30,4
+Morlupo;2018-09-16;19,2;28,7
+Morlupo;2018-09-17;19,1;28,2
+Morlupo;2018-09-18;19,4;28,4
+Morlupo;2018-09-19;19,3;25,9
+Morlupo;2018-09-20;18,8;26,1
+Morlupo;2018-09-21;18,5;27,7
+Morlupo;2018-09-22;18,7;29,4
+Morlupo;2018-09-23;18,4;27,9
+Morlupo;2018-09-24;19;29,2
+Morlupo;2018-09-25;14,1;24,1
+Morlupo;2018-09-26;11;22,7
+Morlupo;2018-09-27;8,6;26,4
+Morlupo;2018-09-28;13,6;27,3
+Morlupo;2018-09-29;13,8;28,8
+Morlupo;2018-09-30;14;25,2
+Nepi;2018-09-01;15;25,2
+Nepi;2018-09-02;12,9;25,1
+Nepi;2018-09-03;12;26,5
+Nepi;2018-09-04;12,6;26,7
+Nepi;2018-09-05;11,3;29,9
+Nepi;2018-09-06;12,2;29
+Nepi;2018-09-07;17,3;28,4
+Nepi;2018-09-08;14,1;28,4
+Nepi;2018-09-09;13,4;29,6
+Nepi;2018-09-10;15;30,5
+Nepi;2018-09-11;12,2;31,9
+Nepi;2018-09-12;11,6;32,2
+Nepi;2018-09-13;15,3;24,3
+Nepi;2018-09-14;14,4;30,8
+Nepi;2018-09-15;12,7;31,7
+Nepi;2018-09-16;14,7;28,6
+Nepi;2018-09-17;13,6;28,2
+Nepi;2018-09-18;15,5;28,3
+Nepi;2018-09-19;17;26,1
+Nepi;2018-09-20;17,3;25,8
+Nepi;2018-09-21;14,8;27,3
+Nepi;2018-09-22;13,4;29,4
+Nepi;2018-09-23;13,1;27,8
+Nepi;2018-09-24;17,6;29,1
+Nepi;2018-09-25;11,8;23,7
+Nepi;2018-09-26;10,9;21,6
+Nepi;2018-09-27;2,2;25
+Nepi;2018-09-28;5,1;27,8
+Nepi;2018-09-29;6,4;28,5
+Nepi;2018-09-30;10,1;25,9
+Norma;2018-09-01;16,2;24,5
+Norma;2018-09-02;16,5;24
+Norma;2018-09-03;16,5;23,6
+Norma;2018-09-04;15,3;25,3
+Norma;2018-09-05;15,9;27,3
+Norma;2018-09-06;16,7;26,6
+Norma;2018-09-07;16,8;26,3
+Norma;2018-09-08;17,7;25,8
+Norma;2018-09-09;17,8;27,2
+Norma;2018-09-10;17,7;26,6
+Norma;2018-09-11;17,7;28,4
+Norma;2018-09-12;18;28,7
+Norma;2018-09-13;18,1;23,9
+Norma;2018-09-14;17,9;27,4
+Norma;2018-09-15;17;27,2
+Norma;2018-09-16;17,5;25,7
+Norma;2018-09-17;17,6;25,8
+Norma;2018-09-18;18,3;25,5
+Norma;2018-09-19;18;23,5
+Norma;2018-09-20;17,8;26,3
+Norma;2018-09-21;18,2;24,4
+Norma;2018-09-22;17;27,3
+Norma;2018-09-23;16,6;26,7
+Norma;2018-09-24;17,6;25,8
+Norma;2018-09-25;14,9;23
+Norma;2018-09-26;11,7;20,8
+Norma;2018-09-27;11,2;23,4
+Norma;2018-09-28;12,8;23,7
+Norma;2018-09-29;12,9;24,2
+Norma;2018-09-30;13,4;22,1
+Osteria Nuova;2018-09-01;16,7;26,7
+Osteria Nuova;2018-09-02;15,2;27,5
+Osteria Nuova;2018-09-03;14,6;27,5
+Osteria Nuova;2018-09-04;13,9;28,8
+Osteria Nuova;2018-09-05;14,2;30,7
+Osteria Nuova;2018-09-06;14,6;31,6
+Osteria Nuova;2018-09-07;16,4;29,5
+Osteria Nuova;2018-09-08;15,7;29,9
+Osteria Nuova;2018-09-09;16,9;31,3
+Osteria Nuova;2018-09-10;17,2;32,1
+Osteria Nuova;2018-09-11;13,7;33,4
+Osteria Nuova;2018-09-12;15,4;33,2
+Osteria Nuova;2018-09-13;16,7;27,9
+Osteria Nuova;2018-09-14;16,4;30,4
+Osteria Nuova;2018-09-15;14,8;30,1
+Osteria Nuova;2018-09-16;16,2;29,6
+Osteria Nuova;2018-09-17;15,7;31,1
+Osteria Nuova;2018-09-18;18,2;30,6
+Osteria Nuova;2018-09-19;18,8;27,6
+Osteria Nuova;2018-09-20;17,6;28
+Osteria Nuova;2018-09-21;16,8;29,6
+Osteria Nuova;2018-09-22;15,6;30,7
+Osteria Nuova;2018-09-23;14,4;29,7
+Osteria Nuova;2018-09-24;17,8;31,5
+Osteria Nuova;2018-09-25;13,5;27,1
+Osteria Nuova;2018-09-26;11,7;25,4
+Osteria Nuova;2018-09-27;11;28,9
+Osteria Nuova;2018-09-28;10,8;29
+Osteria Nuova;2018-09-29;10,1;29,9
+Osteria Nuova;2018-09-30;12,1;27,1
+Osteria di Castro;2018-09-01;16,8;27,4
+Osteria di Castro;2018-09-02;16,2;27,1
+Osteria di Castro;2018-09-03;16;27,8
+Osteria di Castro;2018-09-04;15,7;27,4
+Osteria di Castro;2018-09-05;16,6;29,2
+Osteria di Castro;2018-09-06;16,4;29,6
+Osteria di Castro;2018-09-07;17,6;28,6
+Osteria di Castro;2018-09-08;16,2;29,2
+Osteria di Castro;2018-09-09;17,8;29,6
+Osteria di Castro;2018-09-10;18,3;30,7
+Osteria di Castro;2018-09-11;17,1;32,2
+Osteria di Castro;2018-09-12;17,6;32
+Osteria di Castro;2018-09-13;18,7;26,1
+Osteria di Castro;2018-09-14;18,7;30,1
+Osteria di Castro;2018-09-15;17,5;30
+Osteria di Castro;2018-09-16;18,1;29,5
+Osteria di Castro;2018-09-17;18,3;29,7
+Osteria di Castro;2018-09-18;19,5;28,5
+Osteria di Castro;2018-09-19;18,6;24,2
+Osteria di Castro;2018-09-20;18;27,5
+Osteria di Castro;2018-09-21;17,4;27
+Osteria di Castro;2018-09-22;17,6;30,4
+Osteria di Castro;2018-09-23;17,7;29,3
+Osteria di Castro;2018-09-24;17,2;29
+Osteria di Castro;2018-09-25;15,3;24,3
+Osteria di Castro;2018-09-26;9,7;20,7
+Osteria di Castro;2018-09-27;8,1;24,3
+Osteria di Castro;2018-09-28;10;25,4
+Osteria di Castro;2018-09-29;11,6;27,4
+Osteria di Castro;2018-09-30;13;24
+Paglia a Proceno;2018-09-01;14,5;25,9
+Paglia a Proceno;2018-09-02;12,5;24,5
+Paglia a Proceno;2018-09-03;12,6;25
+Paglia a Proceno;2018-09-04;14;26,3
+Paglia a Proceno;2018-09-05;11,6;28,9
+Paglia a Proceno;2018-09-06;12,1;29,4
+Paglia a Proceno;2018-09-07;16,8;26,8
+Paglia a Proceno;2018-09-08;14,3;28,8
+Paglia a Proceno;2018-09-09;12,9;30,2
+Paglia a Proceno;2018-09-10;13,5;30,9
+Paglia a Proceno;2018-09-11;12,1;31,1
+Paglia a Proceno;2018-09-12;11;32,3
+Paglia a Proceno;2018-09-13;14,6;24,5
+Paglia a Proceno;2018-09-14;14,1;30,5
+Paglia a Proceno;2018-09-15;13,5;29,9
+Paglia a Proceno;2018-09-16;14,7;27,9
+Paglia a Proceno;2018-09-17;14,8;29,4
+Paglia a Proceno;2018-09-18;17;27
+Paglia a Proceno;2018-09-19;16,7;27,8
+Paglia a Proceno;2018-09-20;17,3;27,4
+Paglia a Proceno;2018-09-21;15,2;29,2
+Paglia a Proceno;2018-09-22;14,3;28,3
+Paglia a Proceno;2018-09-23;14,8;27
+Paglia a Proceno;2018-09-24;16,3;28
+Paglia a Proceno;2018-09-25;13,6;20,2
+Paglia a Proceno;2018-09-26;6,6;19,1
+Paglia a Proceno;2018-09-27;1,9;25,2
+Paglia a Proceno;2018-09-28;4,5;26,9
+Paglia a Proceno;2018-09-29;5,4;27,1
+Paglia a Proceno;2018-09-30;7,1;24,7
+Pagliara;2018-09-01;13;22,1
+Pagliara;2018-09-02;11,4;22,1
+Pagliara;2018-09-03;10,8;21,3
+Pagliara;2018-09-04;12,4;23,3
+Pagliara;2018-09-05;12,6;25,2
+Pagliara;2018-09-06;14;25,7
+Pagliara;2018-09-07;14;26
+Pagliara;2018-09-08;13,4;24,5
+Pagliara;2018-09-09;14,5;27
+Pagliara;2018-09-10;15,2;28
+Pagliara;2018-09-11;14,6;27,8
+Pagliara;2018-09-12;16,4;29,7
+Pagliara;2018-09-13;16,1;23,1
+Pagliara;2018-09-14;14,8;27,1
+Pagliara;2018-09-15;15,2;25,3
+Pagliara;2018-09-16;15,1;27,6
+Pagliara;2018-09-17;15,4;26,7
+Pagliara;2018-09-18;14,9;24,6
+Pagliara;2018-09-19;14,9;20,8
+Pagliara;2018-09-20;15,1;22,1
+Pagliara;2018-09-21;14,5;23,5
+Pagliara;2018-09-22;14,5;25,9
+Pagliara;2018-09-23;15,1;25,8
+Pagliara;2018-09-24;10,7;26,4
+Pagliara;2018-09-25;7,6;15,2
+Pagliara;2018-09-26;5;13,4
+Pagliara;2018-09-27;6,8;19,1
+Pagliara;2018-09-28;9,6;23
+Pagliara;2018-09-29;11,5;21,5
+Pagliara;2018-09-30;8,7;21,6
+Palestrina;2018-09-01;16,2;24,2
+Palestrina;2018-09-02;15,9;25,5
+Palestrina;2018-09-03;15,2;23,3
+Palestrina;2018-09-04;15;26,6
+Palestrina;2018-09-05;15,1;27,6
+Palestrina;2018-09-06;15,9;28,4
+Palestrina;2018-09-07;17,1;26,7
+Palestrina;2018-09-08;16,2;28,3
+Palestrina;2018-09-09;17,1;28,8
+Palestrina;2018-09-10;17,1;28,8
+Palestrina;2018-09-11;16,4;29,9
+Palestrina;2018-09-12;16,9;30,4
+Palestrina;2018-09-13;18,7;23,1
+Palestrina;2018-09-14;17,5;28,4
+Palestrina;2018-09-15;17,2;27,9
+Palestrina;2018-09-16;16,9;27,6
+Palestrina;2018-09-17;17,3;27,7
+Palestrina;2018-09-18;18,8;27,2
+Palestrina;2018-09-19;17,7;23,3
+Palestrina;2018-09-20;17,7;25,6
+Palestrina;2018-09-21;16,5;26,2
+Palestrina;2018-09-22;16,8;28,3
+Palestrina;2018-09-23;16,7;28,1
+Palestrina;2018-09-24;17;28,3
+Palestrina;2018-09-25;12,4;23,9
+Palestrina;2018-09-26;8,6;22,1
+Palestrina;2018-09-27;8,6;24,2
+Palestrina;2018-09-28;11,9;24,2
+Palestrina;2018-09-29;11,8;25,5
+Palestrina;2018-09-30;14,2;24,2
+Paliano;2018-09-01;15,6;25,2
+Paliano;2018-09-02;15,4;26,6
+Paliano;2018-09-03;15,4;26,2
+Paliano;2018-09-04;15,5;26,7
+Paliano;2018-09-05;15,9;27,7
+Paliano;2018-09-06;16,4;29,1
+Paliano;2018-09-07;16,3;27,6
+Paliano;2018-09-08;16,7;29,4
+Paliano;2018-09-09;17,9;28,1
+Paliano;2018-09-10;18,5;28,9
+Paliano;2018-09-11;17,7;30,9
+Paliano;2018-09-12;18,2;29,9
+Paliano;2018-09-13;18,5;23,2
+Paliano;2018-09-14;17,5;28,2
+Paliano;2018-09-15;17,7;28,6
+Paliano;2018-09-16;17,7;29,2
+Paliano;2018-09-17;17,6;28,2
+Paliano;2018-09-18;18,2;27,5
+Paliano;2018-09-19;18;25,5
+Paliano;2018-09-20;17,3;29
+Paliano;2018-09-21;16,9;28,5
+Paliano;2018-09-22;18,4;28,1
+Paliano;2018-09-23;17,8;28,3
+Paliano;2018-09-24;16,7;28,2
+Paliano;2018-09-25;11,3;25,5
+Paliano;2018-09-26;9,4;21,6
+Paliano;2018-09-27;9;25,5
+Paliano;2018-09-28;12,7;24,8
+Paliano;2018-09-29;12,9;25,5
+Paliano;2018-09-30;12,9;23
+Palombara Sabina;2018-09-01;18,7;23,1
+Palombara Sabina;2018-09-02;17,9;23,8
+Palombara Sabina;2018-09-03;18,1;24,6
+Palombara Sabina;2018-09-04;17,4;26,2
+Palombara Sabina;2018-09-05;17,6;27
+Palombara Sabina;2018-09-06;18,8;27,2
+Palombara Sabina;2018-09-07;18,8;25,9
+Palombara Sabina;2018-09-08;19,1;27
+Palombara Sabina;2018-09-09;19,5;28,4
+Palombara Sabina;2018-09-10;19,9;28,4
+Palombara Sabina;2018-09-11;19,4;28,9
+Palombara Sabina;2018-09-12;20,4;30,5
+Palombara Sabina;2018-09-13;19,5;24,3
+Palombara Sabina;2018-09-14;19;28
+Palombara Sabina;2018-09-15;19;27,5
+Palombara Sabina;2018-09-16;19,2;26,8
+Palombara Sabina;2018-09-17;19,4;26,6
+Palombara Sabina;2018-09-18;19,8;26,8
+Palombara Sabina;2018-09-19;18,9;24,3
+Palombara Sabina;2018-09-20;18,2;23,5
+Palombara Sabina;2018-09-21;19,2;26
+Palombara Sabina;2018-09-22;19,5;28
+Palombara Sabina;2018-09-23;19,5;27,2
+Palombara Sabina;2018-09-24;20,3;27
+Palombara Sabina;2018-09-25;15,2;22,4
+Palombara Sabina;2018-09-26;12,3;20,1
+Palombara Sabina;2018-09-27;12;24,7
+Palombara Sabina;2018-09-28;14,3;24,5
+Palombara Sabina;2018-09-29;16,7;25,8
+Palombara Sabina;2018-09-30;14,9;23,4
+Passo Corese ETG;2018-09-01;16,8;27,3
+Passo Corese ETG;2018-09-02;15;27,6
+Passo Corese ETG;2018-09-03;14,2;27,2
+Passo Corese ETG;2018-09-04;13,9;28,7
+Passo Corese ETG;2018-09-05;14,7;29,6
+Passo Corese ETG;2018-09-06;13,7;30,6
+Passo Corese ETG;2018-09-07;16,9;29,3
+Passo Corese ETG;2018-09-08;15,9;29,7
+Passo Corese ETG;2018-09-09;15,2;30,4
+Passo Corese ETG;2018-09-10;15,9;30,6
+Passo Corese ETG;2018-09-11;14,3;32
+Passo Corese ETG;2018-09-12;14,1;32,5
+Passo Corese ETG;2018-09-13;16,2;25,7
+Passo Corese ETG;2018-09-14;16,1;30,7
+Passo Corese ETG;2018-09-15;14,9;30,3
+Passo Corese ETG;2018-09-16;16,4;30,5
+Passo Corese ETG;2018-09-17;16,2;30,3
+Passo Corese ETG;2018-09-18;17,9;30
+Passo Corese ETG;2018-09-19;17,2;27,1
+Passo Corese ETG;2018-09-20;18,4;26,5
+Passo Corese ETG;2018-09-21;16,6;28,7
+Passo Corese ETG;2018-09-22;15,3;30,6
+Passo Corese ETG;2018-09-23;14,4;30,4
+Passo Corese ETG;2018-09-24;17,8;30,4
+Passo Corese ETG;2018-09-25;15,2;25,6
+Passo Corese ETG;2018-09-26;10,7;23
+Passo Corese ETG;2018-09-27;7,5;26,8
+Passo Corese ETG;2018-09-28;7;26,8
+Passo Corese ETG;2018-09-29;7,8;28,8
+Passo Corese ETG;2018-09-30;11;27,2
+Pianetto;2018-09-01;17,9;26,8
+Pianetto;2018-09-02;14,1;24,9
+Pianetto;2018-09-03;13;26,7
+Pianetto;2018-09-04;15,1;27,6
+Pianetto;2018-09-05;12,6;29,2
+Pianetto;2018-09-06;12,8;29,4
+Pianetto;2018-09-07;17,1;28,5
+Pianetto;2018-09-08;15,2;28,8
+Pianetto;2018-09-09;14,4;31,4
+Pianetto;2018-09-10;15,6;31,6
+Pianetto;2018-09-11;14,8;32,8
+Pianetto;2018-09-12;13,5;33,3
+Pianetto;2018-09-13;16,3;27
+Pianetto;2018-09-14;15,7;30,5
+Pianetto;2018-09-15;15,1;30,7
+Pianetto;2018-09-16;16;30,3
+Pianetto;2018-09-17;14,6;29
+Pianetto;2018-09-18;17,9;28,7
+Pianetto;2018-09-19;17,8;28,9
+Pianetto;2018-09-20;18,4;28,2
+Pianetto;2018-09-21;16,3;29,4
+Pianetto;2018-09-22;14,3;28,7
+Pianetto;2018-09-23;17;26,9
+Pianetto;2018-09-24;17,8;30,1
+Pianetto;2018-09-25;13,8;22,1
+Pianetto;2018-09-26;11,6;20,7
+Pianetto;2018-09-27;5,9;27
+Pianetto;2018-09-28;10,5;29
+Pianetto;2018-09-29;9,6;29
+Pianetto;2018-09-30;11,1;26,9
+Piedimonte San Germano;2018-09-01;18,6;30,5
+Piedimonte San Germano;2018-09-02;16,4;30,1
+Piedimonte San Germano;2018-09-03;16,3;29,5
+Piedimonte San Germano;2018-09-04;15,1;30,5
+Piedimonte San Germano;2018-09-05;16,6;32,6
+Piedimonte San Germano;2018-09-06;15,8;32,5
+Piedimonte San Germano;2018-09-07;17,6;31,4
+Piedimonte San Germano;2018-09-08;16;31,9
+Piedimonte San Germano;2018-09-09;17,5;33,4
+Piedimonte San Germano;2018-09-10;18,7;33,6
+Piedimonte San Germano;2018-09-11;16,8;34,5
+Piedimonte San Germano;2018-09-12;16,4;34,6
+Piedimonte San Germano;2018-09-13;18,2;31
+Piedimonte San Germano;2018-09-14;19,9;32,9
+Piedimonte San Germano;2018-09-15;17,6;32,8
+Piedimonte San Germano;2018-09-16;18;32,2
+Piedimonte San Germano;2018-09-17;17,7;32
+Piedimonte San Germano;2018-09-18;19,1;30,3
+Piedimonte San Germano;2018-09-19;20,4;27,6
+Piedimonte San Germano;2018-09-20;19,3;30,2
+Piedimonte San Germano;2018-09-21;18,1;29,8
+Piedimonte San Germano;2018-09-22;16,8;32,7
+Piedimonte San Germano;2018-09-23;17,5;31,4
+Piedimonte San Germano;2018-09-24;17,5;31
+Piedimonte San Germano;2018-09-25;12,2;24,5
+Piedimonte San Germano;2018-09-26;9,4;23,4
+Piedimonte San Germano;2018-09-27;5,1;27
+Piedimonte San Germano;2018-09-28;8,2;28,8
+Piedimonte San Germano;2018-09-29;8,7;30
+Piedimonte San Germano;2018-09-30;11;27,3
+Poggio Mirteto;2018-09-01;16;26,7
+Poggio Mirteto;2018-09-02;15,4;27,3
+Poggio Mirteto;2018-09-03;15,1;27,4
+Poggio Mirteto;2018-09-04;15;27,5
+Poggio Mirteto;2018-09-05;14,7;30,1
+Poggio Mirteto;2018-09-06;15,1;31,6
+Poggio Mirteto;2018-09-07;17,4;30,4
+Poggio Mirteto;2018-09-08;16,4;30,1
+Poggio Mirteto;2018-09-09;16,6;31,5
+Poggio Mirteto;2018-09-10;17,8;32
+Poggio Mirteto;2018-09-11;16,1;33,1
+Poggio Mirteto;2018-09-12;17,3;34,3
+Poggio Mirteto;2018-09-13;18,6;23,6
+Poggio Mirteto;2018-09-14;17;31,9
+Poggio Mirteto;2018-09-15;16,9;31,9
+Poggio Mirteto;2018-09-16;17,7;30,6
+Poggio Mirteto;2018-09-17;17,5;31,1
+Poggio Mirteto;2018-09-18;18;31
+Poggio Mirteto;2018-09-19;17,9;28,2
+Poggio Mirteto;2018-09-20;18,7;25,7
+Poggio Mirteto;2018-09-21;17,8;29,6
+Poggio Mirteto;2018-09-22;17;31,7
+Poggio Mirteto;2018-09-23;16,8;30,3
+Poggio Mirteto;2018-09-24;18,7;30,5
+Poggio Mirteto;2018-09-25;14,2;24,5
+Poggio Mirteto;2018-09-26;11,8;24
+Poggio Mirteto;2018-09-27;7,4;28,3
+Poggio Mirteto;2018-09-28;10,3;28,7
+Poggio Mirteto;2018-09-29;12,5;29,3
+Poggio Mirteto;2018-09-30;10,9;27,3
+Poggio Moiano;2018-09-01;16,5;24,5
+Poggio Moiano;2018-09-02;15,4;25,4
+Poggio Moiano;2018-09-03;15,1;25,6
+Poggio Moiano;2018-09-04;14,5;26,3
+Poggio Moiano;2018-09-05;14,1;27,4
+Poggio Moiano;2018-09-06;15,2;27,7
+Poggio Moiano;2018-09-07;16,6;27,5
+Poggio Moiano;2018-09-08;15,2;27,3
+Poggio Moiano;2018-09-09;15,3;28,4
+Poggio Moiano;2018-09-10;16,8;28,9
+Poggio Moiano;2018-09-11;16,2;29,5
+Poggio Moiano;2018-09-12;16,9;30,2
+Poggio Moiano;2018-09-13;18,2;24,1
+Poggio Moiano;2018-09-14;16,7;28,3
+Poggio Moiano;2018-09-15;16,9;28,1
+Poggio Moiano;2018-09-16;16,6;28,4
+Poggio Moiano;2018-09-17;16,7;28,2
+Poggio Moiano;2018-09-18;17,8;28,9
+Poggio Moiano;2018-09-19;16,6;26,4
+Poggio Moiano;2018-09-20;17,8;26,9
+Poggio Moiano;2018-09-21;16,9;26,8
+Poggio Moiano;2018-09-22;16,1;28,2
+Poggio Moiano;2018-09-23;16;27,4
+Poggio Moiano;2018-09-24;16,6;28,6
+Poggio Moiano;2018-09-25;11,4;20,8
+Poggio Moiano;2018-09-26;9,8;20
+Poggio Moiano;2018-09-27;7,3;25,6
+Poggio Moiano;2018-09-28;10,5;26,1
+Poggio Moiano;2018-09-29;11,9;26,7
+Poggio Moiano;2018-09-30;10,3;24,2
+Poggio Perugino;2018-09-01;14;23
+Poggio Perugino;2018-09-02;12,3;23,6
+Poggio Perugino;2018-09-03;12,6;22,8
+Poggio Perugino;2018-09-04;14,1;23,2
+Poggio Perugino;2018-09-05;13,4;24,5
+Poggio Perugino;2018-09-06;15,5;26,7
+Poggio Perugino;2018-09-07;15,6;27,9
+Poggio Perugino;2018-09-08;14,8;24,8
+Poggio Perugino;2018-09-09;15,3;25,7
+Poggio Perugino;2018-09-10;16,4;26,5
+Poggio Perugino;2018-09-11;15,8;27,9
+Poggio Perugino;2018-09-12;17,7;28
+Poggio Perugino;2018-09-13;16,6;22,8
+Poggio Perugino;2018-09-14;14,6;26,5
+Poggio Perugino;2018-09-15;16,5;28,9
+Poggio Perugino;2018-09-16;16,2;30,1
+Poggio Perugino;2018-09-17;16,3;28,8
+Poggio Perugino;2018-09-18;16,2;27,2
+Poggio Perugino;2018-09-19;15,9;26,1
+Poggio Perugino;2018-09-20;16,8;24
+Poggio Perugino;2018-09-21;16,4;26,9
+Poggio Perugino;2018-09-22;15,4;26,1
+Poggio Perugino;2018-09-23;15,5;27,2
+Poggio Perugino;2018-09-24;13,3;27,4
+Poggio Perugino;2018-09-25;8,8;20
+Poggio Perugino;2018-09-26;6,4;19,4
+Poggio Perugino;2018-09-27;8,6;22,1
+Poggio Perugino;2018-09-28;10,6;24,7
+Poggio Perugino;2018-09-29;12,8;25,7
+Poggio Perugino;2018-09-30;10,7;24
+Pomezia;2018-09-01;19,5;28,6
+Pomezia;2018-09-02;19,1;27
+Pomezia;2018-09-03;18,8;28,3
+Pomezia;2018-09-04;19;28,2
+Pomezia;2018-09-05;19,4;29,9
+Pomezia;2018-09-06;17,8;29,6
+Pomezia;2018-09-07;17,5;28,6
+Pomezia;2018-09-08;19,5;29,7
+Pomezia;2018-09-09;19,5;29,8
+Pomezia;2018-09-10;19,9;30,6
+Pomezia;2018-09-11;19,6;30,3
+Pomezia;2018-09-12;20,1;31,3
+Pomezia;2018-09-13;21,4;28
+Pomezia;2018-09-14;20,6;28,4
+Pomezia;2018-09-15;20,4;28,8
+Pomezia;2018-09-16;19,6;28,9
+Pomezia;2018-09-17;20;28,9
+Pomezia;2018-09-18;20,5;29
+Pomezia;2018-09-19;20,2;25,8
+Pomezia;2018-09-20;19,7;30,2
+Pomezia;2018-09-21;19,9;28,7
+Pomezia;2018-09-22;20,6;29,2
+Pomezia;2018-09-23;20;28,7
+Pomezia;2018-09-24;20,8;29,3
+Pomezia;2018-09-25;15,7;26,2
+Pomezia;2018-09-26;13,2;25,5
+Pomezia;2018-09-27;11,1;26,1
+Pomezia;2018-09-28;15;25,3
+Pomezia;2018-09-29;14;27
+Pomezia;2018-09-30;15,9;25,6
+Ponza;2018-09-01;22,8;27,2
+Ponza;2018-09-02;23,2;26,1
+Ponza;2018-09-03;22,6;26,3
+Ponza;2018-09-04;19,8;26,2
+Ponza;2018-09-05;23,1;26,4
+Ponza;2018-09-06;22,1;26,9
+Ponza;2018-09-07;18,5;26,9
+Ponza;2018-09-08;23,2;27,1
+Ponza;2018-09-09;23,3;27,5
+Ponza;2018-09-10;23,8;27,2
+Ponza;2018-09-11;23,6;28,3
+Ponza;2018-09-12;23,6;29
+Ponza;2018-09-13;22,8;25,4
+Ponza;2018-09-14;23,4;25,4
+Ponza;2018-09-15;23,8;26,9
+Ponza;2018-09-16;22,5;27
+Ponza;2018-09-17;22,6;27,4
+Ponza;2018-09-18;23;27,3
+Ponza;2018-09-19;21,5;24,6
+Ponza;2018-09-20;19,9;25,7
+Ponza;2018-09-21;21,9;24,8
+Ponza;2018-09-22;23,1;27
+Ponza;2018-09-23;23,4;26,5
+Ponza;2018-09-24;22,8;27,2
+Ponza;2018-09-25;18,8;23,3
+Ponza;2018-09-26;17,5;20,8
+Ponza;2018-09-27;17,2;22,6
+Ponza;2018-09-28;18,4;22,6
+Ponza;2018-09-29;19,1;23,9
+Ponza;2018-09-30;20,3;23,9
+Posta;2018-09-01;11,4;22,4
+Posta;2018-09-02;9,4;23
+Posta;2018-09-03;9,5;21,4
+Posta;2018-09-04;9,4;21,7
+Posta;2018-09-05;9,8;25,7
+Posta;2018-09-06;8,8;26,6
+Posta;2018-09-07;12,2;24,2
+Posta;2018-09-08;9,8;25,4
+Posta;2018-09-09;10,6;26,6
+Posta;2018-09-10;10;26,8
+Posta;2018-09-11;9,2;28,8
+Posta;2018-09-12;6,4;30,7
+Posta;2018-09-13;9,8;23,2
+Posta;2018-09-14;10,8;27,7
+Posta;2018-09-15;9,8;26,3
+Posta;2018-09-16;11,5;27,3
+Posta;2018-09-17;12,6;26,9
+Posta;2018-09-18;12;24,7
+Posta;2018-09-19;14,2;25,6
+Posta;2018-09-20;14,5;23,7
+Posta;2018-09-21;13,4;25,3
+Posta;2018-09-22;11;26,4
+Posta;2018-09-23;10,8;25,6
+Posta;2018-09-24;12,3;25,4
+Posta;2018-09-25;1,3;17,1
+Posta;2018-09-26;-0,6;15,7
+Posta;2018-09-27;-2,5;22,3
+Posta;2018-09-28;-1,1;25,5
+Posta;2018-09-29;0,7;23,2
+Posta;2018-09-30;1;22,6
+Posticciola;2018-09-01;16;23,8
+Posticciola;2018-09-02;14,4;24,6
+Posticciola;2018-09-03;13,7;23,4
+Posticciola;2018-09-04;14,5;24,9
+Posticciola;2018-09-05;13,9;26,9
+Posticciola;2018-09-06;14,1;27,2
+Posticciola;2018-09-07;15,7;26,2
+Posticciola;2018-09-08;14,4;26,2
+Posticciola;2018-09-09;14,4;27,6
+Posticciola;2018-09-10;15,5;28,4
+Posticciola;2018-09-11;14,2;30,2
+Posticciola;2018-09-12;14,1;30
+Posticciola;2018-09-13;15,8;22,8
+Posticciola;2018-09-14;15,3;28,4
+Posticciola;2018-09-15;14,9;28
+Posticciola;2018-09-16;16,2;28,4
+Posticciola;2018-09-17;16,2;27,7
+Posticciola;2018-09-18;16,8;27,7
+Posticciola;2018-09-19;16,1;25
+Posticciola;2018-09-20;16,4;25,7
+Posticciola;2018-09-21;16;26,5
+Posticciola;2018-09-22;15,8;27,8
+Posticciola;2018-09-23;14,6;27,3
+Posticciola;2018-09-24;15,9;28
+Posticciola;2018-09-25;12,2;19,9
+Posticciola;2018-09-26;10,3;19,4
+Posticciola;2018-09-27;5,9;25,7
+Posticciola;2018-09-28;7,8;26,4
+Posticciola;2018-09-29;8;27
+Posticciola;2018-09-30;9,4;23,7
+Priverno;2018-09-01;18,5;27,2
+Priverno;2018-09-02;18;27,3
+Priverno;2018-09-03;17,5;26,6
+Priverno;2018-09-04;16,2;28,5
+Priverno;2018-09-05;17,6;29,9
+Priverno;2018-09-06;17,8;29,9
+Priverno;2018-09-07;18,5;29,3
+Priverno;2018-09-08;17,9;29
+Priverno;2018-09-09;19,1;31,2
+Priverno;2018-09-10;19,7;31,6
+Priverno;2018-09-11;19;32,7
+Priverno;2018-09-12;19,6;31,8
+Priverno;2018-09-13;19,6;27,7
+Priverno;2018-09-14;19,1;30,6
+Priverno;2018-09-15;18,5;31,2
+Priverno;2018-09-16;18,5;29,8
+Priverno;2018-09-17;19;29,6
+Priverno;2018-09-18;20,6;29,9
+Priverno;2018-09-19;20,3;25,6
+Priverno;2018-09-20;20,1;29,5
+Priverno;2018-09-21;20,1;27,6
+Priverno;2018-09-22;18,8;30,8
+Priverno;2018-09-23;18,4;30,6
+Priverno;2018-09-24;18,9;28,9
+Priverno;2018-09-25;15,9;26,4
+Priverno;2018-09-26;14,1;23,9
+Priverno;2018-09-27;10,5;26,8
+Priverno;2018-09-28;11,3;27,5
+Priverno;2018-09-29;12,9;27,8
+Priverno;2018-09-30;14,3;25,7
+Rapido a Cassino;2018-09-01;17,9;28,1
+Rapido a Cassino;2018-09-02;15,9;28,1
+Rapido a Cassino;2018-09-03;15,4;28,2
+Rapido a Cassino;2018-09-04;14,7;28,9
+Rapido a Cassino;2018-09-05;16,5;30,6
+Rapido a Cassino;2018-09-06;15,7;31,1
+Rapido a Cassino;2018-09-07;16,8;30,2
+Rapido a Cassino;2018-09-08;16,1;30,7
+Rapido a Cassino;2018-09-09;17;31,3
+Rapido a Cassino;2018-09-10;18,3;32,1
+Rapido a Cassino;2018-09-11;15,8;33,1
+Rapido a Cassino;2018-09-12;15,2;33,8
+Rapido a Cassino;2018-09-13;17,1;29,3
+Rapido a Cassino;2018-09-14;19,3;31,6
+Rapido a Cassino;2018-09-15;16,7;31,6
+Rapido a Cassino;2018-09-16;16,7;30,6
+Rapido a Cassino;2018-09-17;17,1;30,9
+Rapido a Cassino;2018-09-18;18,4;30,5
+Rapido a Cassino;2018-09-19;20,1;27,5
+Rapido a Cassino;2018-09-20;19,1;30,4
+Rapido a Cassino;2018-09-21;18,5;29,4
+Rapido a Cassino;2018-09-22;16,5;31,9
+Rapido a Cassino;2018-09-23;17,5;30,5
+Rapido a Cassino;2018-09-24;18,2;30,2
+Rapido a Cassino;2018-09-25;16,6;23,9
+Rapido a Cassino;2018-09-26;8,5;23
+Rapido a Cassino;2018-09-27;4,7;26
+Rapido a Cassino;2018-09-28;6,3;27,6
+Rapido a Cassino;2018-09-29;8,3;29,2
+Rapido a Cassino;2018-09-30;10;26,6
+Riano;2018-09-01;18;24,7
+Riano;2018-09-02;17,5;24,7
+Riano;2018-09-03;17,2;25,9
+Riano;2018-09-04;17,2;27,1
+Riano;2018-09-05;17,5;30,8
+Riano;2018-09-06;18,1;30
+Riano;2018-09-07;18,2;27,5
+Riano;2018-09-08;18,3;29,7
+Riano;2018-09-09;18,4;30,6
+Riano;2018-09-10;19,5;32,1
+Riano;2018-09-11;18,7;32,2
+Riano;2018-09-12;18,7;34,6
+Riano;2018-09-13;20,2;27
+Riano;2018-09-14;18,6;32,9
+Riano;2018-09-15;19;29,2
+Riano;2018-09-16;19,6;27,9
+Riano;2018-09-17;19,2;28,1
+Riano;2018-09-18;20,1;27,5
+Riano;2018-09-19;19,6;26,7
+Riano;2018-09-20;19,1;27,1
+Riano;2018-09-21;19,2;27,9
+Riano;2018-09-22;19,3;30,1
+Riano;2018-09-23;18,7;27,9
+Riano;2018-09-24;18,8;29,1
+Riano;2018-09-25;14,8;25,6
+Riano;2018-09-26;12,1;24,3
+Riano;2018-09-27;9,8;27,9
+Riano;2018-09-28;14,1;27,2
+Riano;2018-09-29;14,9;29,1
+Riano;2018-09-30;14,3;25,3
+Rignano Flaminio;2018-09-01;17,2;25
+Rignano Flaminio;2018-09-02;16,8;25,3
+Rignano Flaminio;2018-09-03;15,5;25,8
+Rignano Flaminio;2018-09-04;15,8;27,6
+Rignano Flaminio;2018-09-05;15,4;29,2
+Rignano Flaminio;2018-09-06;17;29,6
+Rignano Flaminio;2018-09-07;17,9;29,2
+Rignano Flaminio;2018-09-08;16,6;29,6
+Rignano Flaminio;2018-09-09;17,4;29,3
+Rignano Flaminio;2018-09-10;17,9;29,7
+Rignano Flaminio;2018-09-11;16,9;31,3
+Rignano Flaminio;2018-09-12;17,6;31,8
+Rignano Flaminio;2018-09-13;18,8;24,2
+Rignano Flaminio;2018-09-14;17,5;30,3
+Rignano Flaminio;2018-09-15;17,1;29,7
+Rignano Flaminio;2018-09-16;17,3;30
+Rignano Flaminio;2018-09-17;18,4;29,7
+Rignano Flaminio;2018-09-18;18,5;28,6
+Rignano Flaminio;2018-09-19;18,4;26,9
+Rignano Flaminio;2018-09-20;18,1;25,3
+Rignano Flaminio;2018-09-21;17,6;28,4
+Rignano Flaminio;2018-09-22;17,7;30,4
+Rignano Flaminio;2018-09-23;17,5;28,9
+Rignano Flaminio;2018-09-24;17,3;29,9
+Rignano Flaminio;2018-09-25;12,3;22,9
+Rignano Flaminio;2018-09-26;10,2;21,3
+Rignano Flaminio;2018-09-27;7,9;24,6
+Rignano Flaminio;2018-09-28;12,7;27,1
+Rignano Flaminio;2018-09-29;12,9;28,1
+Rignano Flaminio;2018-09-30;12,9;26,2
+Rio Cassano;2018-09-01;17,7;27,9
+Rio Cassano;2018-09-02;16,7;27
+Rio Cassano;2018-09-03;16,4;27
+Rio Cassano;2018-09-04;14,9;28,1
+Rio Cassano;2018-09-05;15,9;28,5
+Rio Cassano;2018-09-06;15,9;29
+Rio Cassano;2018-09-07;17,2;28
+Rio Cassano;2018-09-08;16,4;28,5
+Rio Cassano;2018-09-09;17,2;29,2
+Rio Cassano;2018-09-10;18;28,7
+Rio Cassano;2018-09-11;17;30,8
+Rio Cassano;2018-09-12;15,9;29,9
+Rio Cassano;2018-09-13;18,1;27,2
+Rio Cassano;2018-09-14;17,2;29,5
+Rio Cassano;2018-09-15;15,5;28,9
+Rio Cassano;2018-09-16;16,5;29,1
+Rio Cassano;2018-09-17;16,4;28,6
+Rio Cassano;2018-09-18;18;28,6
+Rio Cassano;2018-09-19;19,8;24,2
+Rio Cassano;2018-09-20;18,5;29,1
+Rio Cassano;2018-09-21;17,7;27,5
+Rio Cassano;2018-09-22;16,5;28,7
+Rio Cassano;2018-09-23;15,9;28,7
+Rio Cassano;2018-09-24;17,8;28,9
+Rio Cassano;2018-09-25;16,2;27,6
+Rio Cassano;2018-09-26;11;25,5
+Rio Cassano;2018-09-27;8;24,5
+Rio Cassano;2018-09-28;9,7;26,7
+Rio Cassano;2018-09-29;9,8;26,3
+Rio Cassano;2018-09-30;11,3;25,4
+Ripi;2018-09-01;16,4;28,3
+Ripi;2018-09-02;13,7;27,3
+Ripi;2018-09-03;13,9;27,1
+Ripi;2018-09-04;12,5;29
+Ripi;2018-09-05;13,2;30
+Ripi;2018-09-06;13;31,7
+Ripi;2018-09-07;15,4;29,4
+Ripi;2018-09-08;13,4;31
+Ripi;2018-09-09;15,6;30,8
+Ripi;2018-09-10;16,4;31,7
+Ripi;2018-09-11;14,6;33,4
+Ripi;2018-09-12;13,3;32,7
+Ripi;2018-09-13;16,4;26,9
+Ripi;2018-09-14;16,8;31,2
+Ripi;2018-09-15;14,9;31,3
+Ripi;2018-09-16;15,3;31,1
+Ripi;2018-09-17;15,4;30,7
+Ripi;2018-09-18;17,8;29,9
+Ripi;2018-09-19;18,7;27,1
+Ripi;2018-09-20;18,1;29,5
+Ripi;2018-09-21;17,2;28,6
+Ripi;2018-09-22;14,9;31,7
+Ripi;2018-09-23;14,9;30,6
+Ripi;2018-09-24;15,3;31,2
+Ripi;2018-09-25;8,5;25,4
+Ripi;2018-09-26;5;22,2
+Ripi;2018-09-27;2,8;26,1
+Ripi;2018-09-28;3,9;27,4
+Ripi;2018-09-29;5,8;29,2
+Ripi;2018-09-30;8;25,6
+Rivodutri;2018-09-01;14,6;22,9
+Rivodutri;2018-09-02;12,8;24,3
+Rivodutri;2018-09-03;12,4;24,2
+Rivodutri;2018-09-04;13,8;23,5
+Rivodutri;2018-09-05;13,2;25,9
+Rivodutri;2018-09-06;14,9;27,3
+Rivodutri;2018-09-07;13,9;25,5
+Rivodutri;2018-09-08;14,3;26,5
+Rivodutri;2018-09-09;15,8;27,3
+Rivodutri;2018-09-10;16;27,3
+Rivodutri;2018-09-11;15;29,4
+Rivodutri;2018-09-12;17,2;30,1
+Rivodutri;2018-09-13;16;23,2
+Rivodutri;2018-09-14;14,3;26,7
+Rivodutri;2018-09-15;16,2;28,1
+Rivodutri;2018-09-16;15,2;29,1
+Rivodutri;2018-09-17;15,9;28
+Rivodutri;2018-09-18;16,2;26
+Rivodutri;2018-09-19;15,6;25,8
+Rivodutri;2018-09-20;15,4;23,5
+Rivodutri;2018-09-21;15,4;26
+Rivodutri;2018-09-22;15,4;25,7
+Rivodutri;2018-09-23;15,4;26,7
+Rivodutri;2018-09-24;13,9;26,2
+Rivodutri;2018-09-25;8,6;17,3
+Rivodutri;2018-09-26;6,2;20,4
+Rivodutri;2018-09-27;6,6;23,4
+Rivodutri;2018-09-28;10,1;24,3
+Rivodutri;2018-09-29;11,4;25,3
+Rivodutri;2018-09-30;9,9;21,8
+Rocca Respampani;2018-09-01;16,3;26,3
+Rocca Respampani;2018-09-02;15,8;26
+Rocca Respampani;2018-09-03;14,5;26,1
+Rocca Respampani;2018-09-04;15,7;27,4
+Rocca Respampani;2018-09-05;13;29,6
+Rocca Respampani;2018-09-06;13,3;29,5
+Rocca Respampani;2018-09-07;17,9;29
+Rocca Respampani;2018-09-08;16,7;28,3
+Rocca Respampani;2018-09-09;15,7;30,1
+Rocca Respampani;2018-09-10;16;30,9
+Rocca Respampani;2018-09-11;14,3;32,1
+Rocca Respampani;2018-09-12;13;32,2
+Rocca Respampani;2018-09-13;16,3;25,9
+Rocca Respampani;2018-09-14;17,3;30
+Rocca Respampani;2018-09-15;14,5;28,7
+Rocca Respampani;2018-09-16;16,7;28,7
+Rocca Respampani;2018-09-17;15,3;28,4
+Rocca Respampani;2018-09-18;16,9;28,9
+Rocca Respampani;2018-09-19;18;28,7
+Rocca Respampani;2018-09-20;19,5;28,1
+Rocca Respampani;2018-09-21;16,8;29,3
+Rocca Respampani;2018-09-22;14,8;28,6
+Rocca Respampani;2018-09-23;15,9;27,7
+Rocca Respampani;2018-09-24;18,8;30,2
+Rocca Respampani;2018-09-25;13,8;23,2
+Rocca Respampani;2018-09-26;11,4;21,3
+Rocca Respampani;2018-09-27;8,4;27,5
+Rocca Respampani;2018-09-28;6,6;29,3
+Rocca Respampani;2018-09-29;7,9;29,1
+Rocca Respampani;2018-09-30;11,8;27,2
+Rocca Romana;2018-09-01;17,9;26,1
+Rocca Romana;2018-09-02;16,3;27
+Rocca Romana;2018-09-03;16,1;27,5
+Rocca Romana;2018-09-04;16,5;29,2
+Rocca Romana;2018-09-05;16,8;31,6
+Rocca Romana;2018-09-06;17,8;30,7
+Rocca Romana;2018-09-07;18,6;29,7
+Rocca Romana;2018-09-08;17,7;30,6
+Rocca Romana;2018-09-09;19,6;31,9
+Rocca Romana;2018-09-10;19,2;32,2
+Rocca Romana;2018-09-11;19,7;32,2
+Rocca Romana;2018-09-12;20,3;34,1
+Rocca Romana;2018-09-13;20,2;24,9
+Rocca Romana;2018-09-14;19,1;31,6
+Rocca Romana;2018-09-15;18,1;31
+Rocca Romana;2018-09-16;18,8;29,9
+Rocca Romana;2018-09-17;18,2;30,6
+Rocca Romana;2018-09-18;18,6;30,8
+Rocca Romana;2018-09-19;18,3;25
+Rocca Romana;2018-09-20;19;26,1
+Rocca Romana;2018-09-21;18,7;30,5
+Rocca Romana;2018-09-22;18,3;31,9
+Rocca Romana;2018-09-23;18,1;29,8
+Rocca Romana;2018-09-24;17,9;29,9
+Rocca Romana;2018-09-25;12,7;25,3
+Rocca Romana;2018-09-26;10,9;23
+Rocca Romana;2018-09-27;11,5;26,2
+Rocca Romana;2018-09-28;15,2;29,3
+Rocca Romana;2018-09-29;14,6;28,9
+Rocca Romana;2018-09-30;15,9;27,7
+Rocca Santo Stefano;2018-09-01;15;23,4
+Rocca Santo Stefano;2018-09-02;13,5;24
+Rocca Santo Stefano;2018-09-03;12;23,4
+Rocca Santo Stefano;2018-09-04;12,7;24,5
+Rocca Santo Stefano;2018-09-05;13,3;25,8
+Rocca Santo Stefano;2018-09-06;12,9;27,3
+Rocca Santo Stefano;2018-09-07;14,1;26,8
+Rocca Santo Stefano;2018-09-08;13;26,6
+Rocca Santo Stefano;2018-09-09;14,5;27
+Rocca Santo Stefano;2018-09-10;15,6;27,5
+Rocca Santo Stefano;2018-09-11;14,9;28,3
+Rocca Santo Stefano;2018-09-12;15,5;28,4
+Rocca Santo Stefano;2018-09-13;16,2;22,1
+Rocca Santo Stefano;2018-09-14;15,3;26,1
+Rocca Santo Stefano;2018-09-15;14,6;27,1
+Rocca Santo Stefano;2018-09-16;14,7;27,9
+Rocca Santo Stefano;2018-09-17;15,1;27,3
+Rocca Santo Stefano;2018-09-18;16;27
+Rocca Santo Stefano;2018-09-19;16;24,5
+Rocca Santo Stefano;2018-09-20;16,6;25,4
+Rocca Santo Stefano;2018-09-21;15,7;27
+Rocca Santo Stefano;2018-09-22;15,1;27,3
+Rocca Santo Stefano;2018-09-23;14,3;25,5
+Rocca Santo Stefano;2018-09-24;15,5;27,5
+Rocca Santo Stefano;2018-09-25;10,1;22,5
+Rocca Santo Stefano;2018-09-26;7,7;20,6
+Rocca Santo Stefano;2018-09-27;7,3;23,6
+Rocca Santo Stefano;2018-09-28;9,4;23,3
+Rocca Santo Stefano;2018-09-29;8,8;25
+Rocca Santo Stefano;2018-09-30;11,1;22
+Rocca di Papa;2018-09-01;15,5;19,5
+Rocca di Papa;2018-09-02;14,6;18,5
+Rocca di Papa;2018-09-03;14,4;20,5
+Rocca di Papa;2018-09-04;14;21,1
+Rocca di Papa;2018-09-05;14,2;23,8
+Rocca di Papa;2018-09-06;16,6;22,6
+Rocca di Papa;2018-09-07;16,1;21,4
+Rocca di Papa;2018-09-08;15,7;22,3
+Rocca di Papa;2018-09-09;17,5;25,2
+Rocca di Papa;2018-09-10;17,7;22,8
+Rocca di Papa;2018-09-11;17,6;24,5
+Rocca di Papa;2018-09-12;19,9;26
+Rocca di Papa;2018-09-13;16;25,7
+Rocca di Papa;2018-09-14;15,6;25,5
+Rocca di Papa;2018-09-15;16,5;22,3
+Rocca di Papa;2018-09-16;16,5;22,7
+Rocca di Papa;2018-09-17;16,6;22,6
+Rocca di Papa;2018-09-18;17;22,5
+Rocca di Papa;2018-09-19;15,7;20
+Rocca di Papa;2018-09-20;15,6;24,4
+Rocca di Papa;2018-09-21;16,1;23
+Rocca di Papa;2018-09-22;17;23,2
+Rocca di Papa;2018-09-23;16,2;22,3
+Rocca di Papa;2018-09-24;14,1;24,3
+Rocca di Papa;2018-09-25;10,3;22
+Rocca di Papa;2018-09-26;7,8;21,1
+Rocca di Papa;2018-09-27;11,9;22,6
+Rocca di Papa;2018-09-28;-;-
+Rocca di Papa;2018-09-29;-;-
+Rocca di Papa;2018-09-30;-;-
+Roma EUR;2018-09-01;18,8;25,8
+Roma EUR;2018-09-02;18,1;26
+Roma EUR;2018-09-03;17,4;27,1
+Roma EUR;2018-09-04;16;28,6
+Roma EUR;2018-09-05;17,7;31,5
+Roma EUR;2018-09-06;16,6;29,4
+Roma EUR;2018-09-07;17,7;27,8
+Roma EUR;2018-09-08;18,3;30,5
+Roma EUR;2018-09-09;19,2;31,9
+Roma EUR;2018-09-10;18,7;31,4
+Roma EUR;2018-09-11;19;31,6
+Roma EUR;2018-09-12;18,7;33,2
+Roma EUR;2018-09-13;19,6;29
+Roma EUR;2018-09-14;18,7;30,1
+Roma EUR;2018-09-15;18;29
+Roma EUR;2018-09-16;18;28,6
+Roma EUR;2018-09-17;18,4;28,6
+Roma EUR;2018-09-18;20,3;29,3
+Roma EUR;2018-09-19;19,7;25,4
+Roma EUR;2018-09-20;19,5;27,8
+Roma EUR;2018-09-21;18,7;29,3
+Roma EUR;2018-09-22;18,8;30,6
+Roma EUR;2018-09-23;18,2;28,4
+Roma EUR;2018-09-24;19,6;29
+Roma EUR;2018-09-25;15,4;28,4
+Roma EUR;2018-09-26;13,3;24,4
+Roma EUR;2018-09-27;10,5;28,2
+Roma EUR;2018-09-28;11,8;27,4
+Roma EUR;2018-09-29;13,3;28,3
+Roma EUR;2018-09-30;13,4;24,9
+Roma Flaminio;2018-09-01;18,7;26,5
+Roma Flaminio;2018-09-02;17,9;27,1
+Roma Flaminio;2018-09-03;16,9;27,3
+Roma Flaminio;2018-09-04;16,9;28,9
+Roma Flaminio;2018-09-05;17,1;31
+Roma Flaminio;2018-09-06;16,8;30,6
+Roma Flaminio;2018-09-07;18,6;29,6
+Roma Flaminio;2018-09-08;17,6;31,8
+Roma Flaminio;2018-09-09;18,1;31,6
+Roma Flaminio;2018-09-10;18,7;33
+Roma Flaminio;2018-09-11;17,7;32,5
+Roma Flaminio;2018-09-12;17,4;33,3
+Roma Flaminio;2018-09-13;19,7;27,6
+Roma Flaminio;2018-09-14;19,1;30,5
+Roma Flaminio;2018-09-15;17,7;29,7
+Roma Flaminio;2018-09-16;18,5;29,5
+Roma Flaminio;2018-09-17;18,6;29,5
+Roma Flaminio;2018-09-18;20,5;29,4
+Roma Flaminio;2018-09-19;19,3;26,1
+Roma Flaminio;2018-09-20;18,7;27,7
+Roma Flaminio;2018-09-21;18,3;30,2
+Roma Flaminio;2018-09-22;17,7;30,9
+Roma Flaminio;2018-09-23;17,5;29,3
+Roma Flaminio;2018-09-24;20;29,6
+Roma Flaminio;2018-09-25;15,9;26,3
+Roma Flaminio;2018-09-26;13,5;24,3
+Roma Flaminio;2018-09-27;9,3;29,1
+Roma Flaminio;2018-09-28;10,3;27,2
+Roma Flaminio;2018-09-29;11,3;27,9
+Roma Flaminio;2018-09-30;11,9;26,8
+Roma Macao;2018-09-01;19,2;27,3
+Roma Macao;2018-09-02;19,1;27,1
+Roma Macao;2018-09-03;18;28,5
+Roma Macao;2018-09-04;18,2;30
+Roma Macao;2018-09-05;18,4;31,8
+Roma Macao;2018-09-06;19,3;31,7
+Roma Macao;2018-09-07;19,3;30
+Roma Macao;2018-09-08;18,6;31,4
+Roma Macao;2018-09-09;20,2;32,8
+Roma Macao;2018-09-10;20,4;33,6
+Roma Macao;2018-09-11;20;32,9
+Roma Macao;2018-09-12;19,8;34,3
+Roma Macao;2018-09-13;20,6;28,1
+Roma Macao;2018-09-14;20,5;31,3
+Roma Macao;2018-09-15;19,4;30,8
+Roma Macao;2018-09-16;20,9;30,5
+Roma Macao;2018-09-17;19,8;29,9
+Roma Macao;2018-09-18;21,3;30
+Roma Macao;2018-09-19;20,5;26,5
+Roma Macao;2018-09-20;20,4;28,8
+Roma Macao;2018-09-21;19,7;30,3
+Roma Macao;2018-09-22;19,6;31,3
+Roma Macao;2018-09-23;18,6;30
+Roma Macao;2018-09-24;20,8;30,7
+Roma Macao;2018-09-25;16,5;28,2
+Roma Macao;2018-09-26;14,9;25,5
+Roma Macao;2018-09-27;11,4;28,4
+Roma Macao;2018-09-28;14,1;27,7
+Roma Macao;2018-09-29;14,2;29,3
+Roma Macao;2018-09-30;15,5;26,6
+Roma Monte Mario;2018-09-01;18,4;26
+Roma Monte Mario;2018-09-02;17,7;25,5
+Roma Monte Mario;2018-09-03;16,6;26,4
+Roma Monte Mario;2018-09-04;17;27,1
+Roma Monte Mario;2018-09-05;17,5;29,2
+Roma Monte Mario;2018-09-06;17,9;29,8
+Roma Monte Mario;2018-09-07;18;27,4
+Roma Monte Mario;2018-09-08;17,7;29,5
+Roma Monte Mario;2018-09-09;18,3;30,9
+Roma Monte Mario;2018-09-10;19,5;30,1
+Roma Monte Mario;2018-09-11;18,4;30,9
+Roma Monte Mario;2018-09-12;18,2;32,3
+Roma Monte Mario;2018-09-13;19,4;27,1
+Roma Monte Mario;2018-09-14;19;28,3
+Roma Monte Mario;2018-09-15;18;28,4
+Roma Monte Mario;2018-09-16;19,4;28,2
+Roma Monte Mario;2018-09-17;18,7;28,3
+Roma Monte Mario;2018-09-18;20,1;27,9
+Roma Monte Mario;2018-09-19;19,3;25,1
+Roma Monte Mario;2018-09-20;19,1;26,2
+Roma Monte Mario;2018-09-21;18,5;27,5
+Roma Monte Mario;2018-09-22;18,5;28,9
+Roma Monte Mario;2018-09-23;17,7;28
+Roma Monte Mario;2018-09-24;20,1;28,9
+Roma Monte Mario;2018-09-25;15,2;25,5
+Roma Monte Mario;2018-09-26;13,2;23,4
+Roma Monte Mario;2018-09-27;9,3;27,4
+Roma Monte Mario;2018-09-28;12,1;25,9
+Roma Monte Mario;2018-09-29;12,8;27
+Roma Monte Mario;2018-09-30;13,9;24,8
+Roma Sud;2018-09-01;17;24,5
+Roma Sud;2018-09-02;15,5;24,5
+Roma Sud;2018-09-03;14,9;25,1
+Roma Sud;2018-09-04;13,3;25,5
+Roma Sud;2018-09-05;14,3;28
+Roma Sud;2018-09-06;14,1;27,9
+Roma Sud;2018-09-07;15,6;26,2
+Roma Sud;2018-09-08;15,6;27,1
+Roma Sud;2018-09-09;15,8;28,4
+Roma Sud;2018-09-10;15,7;28
+Roma Sud;2018-09-11;14,9;28,3
+Roma Sud;2018-09-12;14,8;29,3
+Roma Sud;2018-09-13;16,5;25,7
+Roma Sud;2018-09-14;16,1;26,5
+Roma Sud;2018-09-15;14,6;26,7
+Roma Sud;2018-09-16;15,2;26
+Roma Sud;2018-09-17;15,2;26,5
+Roma Sud;2018-09-18;17,8;26,5
+Roma Sud;2018-09-19;18,3;23
+Roma Sud;2018-09-20;17,7;25,7
+Roma Sud;2018-09-21;16,7;26,7
+Roma Sud;2018-09-22;15,9;26,9
+Roma Sud;2018-09-23;14,8;26,5
+Roma Sud;2018-09-24;19,1;26
+Roma Sud;2018-09-25;13,5;24,8
+Roma Sud;2018-09-26;12,1;22,5
+Roma Sud;2018-09-27;8,6;23,7
+Roma Sud;2018-09-28;8,7;23,5
+Roma Sud;2018-09-29;10,2;24,9
+Roma Sud;2018-09-30;9,8;23,1
+Ronciglione rlazio;2018-09-01;16;24,5
+Ronciglione rlazio;2018-09-02;15,1;24,2
+Ronciglione rlazio;2018-09-03;15,2;25,7
+Ronciglione rlazio;2018-09-04;16;26,3
+Ronciglione rlazio;2018-09-05;15,7;29,1
+Ronciglione rlazio;2018-09-06;17;29,3
+Ronciglione rlazio;2018-09-07;18,1;27,6
+Ronciglione rlazio;2018-09-08;16,7;29
+Ronciglione rlazio;2018-09-09;17,8;30,2
+Ronciglione rlazio;2018-09-10;18,2;30,8
+Ronciglione rlazio;2018-09-11;17,2;31,7
+Ronciglione rlazio;2018-09-12;18;32,5
+Ronciglione rlazio;2018-09-13;19,2;24,6
+Ronciglione rlazio;2018-09-14;18;30,1
+Ronciglione rlazio;2018-09-15;17,2;30,3
+Ronciglione rlazio;2018-09-16;18,2;29,3
+Ronciglione rlazio;2018-09-17;18,2;28,8
+Ronciglione rlazio;2018-09-18;17,7;27,5
+Ronciglione rlazio;2018-09-19;18,4;26,5
+Ronciglione rlazio;2018-09-20;18,2;26,2
+Ronciglione rlazio;2018-09-21;18,1;28,9
+Ronciglione rlazio;2018-09-22;17,5;29,5
+Ronciglione rlazio;2018-09-23;17;27,8
+Ronciglione rlazio;2018-09-24;18,1;29,8
+Ronciglione rlazio;2018-09-25;12,6;23,1
+Ronciglione rlazio;2018-09-26;10,3;21
+Ronciglione rlazio;2018-09-27;8,9;25,3
+Ronciglione rlazio;2018-09-28;12,6;27,4
+Ronciglione rlazio;2018-09-29;13,9;28
+Ronciglione rlazio;2018-09-30;14,2;26,2
+S.Apollinare Rlazio;2018-09-01;16,6;29,6
+S.Apollinare Rlazio;2018-09-02;14;28,9
+S.Apollinare Rlazio;2018-09-03;14,5;29,3
+S.Apollinare Rlazio;2018-09-04;14,6;30,3
+S.Apollinare Rlazio;2018-09-05;14,8;30,9
+S.Apollinare Rlazio;2018-09-06;14,2;31,1
+S.Apollinare Rlazio;2018-09-07;15,1;30,8
+S.Apollinare Rlazio;2018-09-08;14,7;31,6
+S.Apollinare Rlazio;2018-09-09;15;32,2
+S.Apollinare Rlazio;2018-09-10;16,7;32,6
+S.Apollinare Rlazio;2018-09-11;15,4;34,1
+S.Apollinare Rlazio;2018-09-12;12,6;33,7
+S.Apollinare Rlazio;2018-09-13;15,4;29,3
+S.Apollinare Rlazio;2018-09-14;18;32,5
+S.Apollinare Rlazio;2018-09-15;16;31,4
+S.Apollinare Rlazio;2018-09-16;15,4;31,3
+S.Apollinare Rlazio;2018-09-17;15;31,4
+S.Apollinare Rlazio;2018-09-18;16,6;30,1
+S.Apollinare Rlazio;2018-09-19;19,4;26,6
+S.Apollinare Rlazio;2018-09-20;18,4;30,6
+S.Apollinare Rlazio;2018-09-21;17,4;30
+S.Apollinare Rlazio;2018-09-22;16,1;31,5
+S.Apollinare Rlazio;2018-09-23;16,1;29,9
+S.Apollinare Rlazio;2018-09-24;16,7;30,7
+S.Apollinare Rlazio;2018-09-25;16,5;24
+S.Apollinare Rlazio;2018-09-26;9,8;22,1
+S.Apollinare Rlazio;2018-09-27;3;27
+S.Apollinare Rlazio;2018-09-28;3,9;27,6
+S.Apollinare Rlazio;2018-09-29;5,4;29,8
+S.Apollinare Rlazio;2018-09-30;9,7;27,4
+S.Cosimato-Mandela;2018-09-01;15,6;24,4
+S.Cosimato-Mandela;2018-09-02;14,3;24,5
+S.Cosimato-Mandela;2018-09-03;13,3;24,4
+S.Cosimato-Mandela;2018-09-04;13,6;25,5
+S.Cosimato-Mandela;2018-09-05;12,7;26,2
+S.Cosimato-Mandela;2018-09-06;12,9;27
+S.Cosimato-Mandela;2018-09-07;15,1;26,2
+S.Cosimato-Mandela;2018-09-08;13,5;26
+S.Cosimato-Mandela;2018-09-09;14;26,8
+S.Cosimato-Mandela;2018-09-10;14,9;27,6
+S.Cosimato-Mandela;2018-09-11;13;28
+S.Cosimato-Mandela;2018-09-12;13,3;28,2
+S.Cosimato-Mandela;2018-09-13;15,1;22,2
+S.Cosimato-Mandela;2018-09-14;15,3;26,8
+S.Cosimato-Mandela;2018-09-15;13,6;27
+S.Cosimato-Mandela;2018-09-16;15;26,7
+S.Cosimato-Mandela;2018-09-17;15,2;26,8
+S.Cosimato-Mandela;2018-09-18;16,9;26,5
+S.Cosimato-Mandela;2018-09-19;16,3;23,3
+S.Cosimato-Mandela;2018-09-20;16,9;23,8
+S.Cosimato-Mandela;2018-09-21;16;25,2
+S.Cosimato-Mandela;2018-09-22;15,2;26,4
+S.Cosimato-Mandela;2018-09-23;13,4;25,5
+S.Cosimato-Mandela;2018-09-24;15,4;25,8
+S.Cosimato-Mandela;2018-09-25;10,8;22,5
+S.Cosimato-Mandela;2018-09-26;5,9;19,8
+S.Cosimato-Mandela;2018-09-27;3,1;24
+S.Cosimato-Mandela;2018-09-28;4,7;22,4
+S.Cosimato-Mandela;2018-09-29;6,4;23,7
+S.Cosimato-Mandela;2018-09-30;7,6;22,4
+S.Vito Romano;2018-09-01;14,7;21,4
+S.Vito Romano;2018-09-02;13,7;23
+S.Vito Romano;2018-09-03;13,2;22
+S.Vito Romano;2018-09-04;13,9;24,3
+S.Vito Romano;2018-09-05;15,1;26,1
+S.Vito Romano;2018-09-06;14,3;26,5
+S.Vito Romano;2018-09-07;14,7;24,9
+S.Vito Romano;2018-09-08;14,4;26,4
+S.Vito Romano;2018-09-09;15,7;26,9
+S.Vito Romano;2018-09-10;16,3;28,1
+S.Vito Romano;2018-09-11;15,4;28,6
+S.Vito Romano;2018-09-12;15,4;29,4
+S.Vito Romano;2018-09-13;17;21,9
+S.Vito Romano;2018-09-14;15,3;26,8
+S.Vito Romano;2018-09-15;15,1;27,3
+S.Vito Romano;2018-09-16;15,9;26,9
+S.Vito Romano;2018-09-17;15,9;27,2
+S.Vito Romano;2018-09-18;16,7;25,2
+S.Vito Romano;2018-09-19;16,6;22,7
+S.Vito Romano;2018-09-20;15,9;25,5
+S.Vito Romano;2018-09-21;15,9;25,8
+S.Vito Romano;2018-09-22;16,2;27,6
+S.Vito Romano;2018-09-23;14,9;27,1
+S.Vito Romano;2018-09-24;14,9;26,5
+S.Vito Romano;2018-09-25;9,4;22,9
+S.Vito Romano;2018-09-26;8,1;20
+S.Vito Romano;2018-09-27;6,8;23,5
+S.Vito Romano;2018-09-28;10,7;23,7
+S.Vito Romano;2018-09-29;10,1;25,8
+S.Vito Romano;2018-09-30;11,6;22
+SS.Cosma e Damiano;2018-09-01;17,6;28,8
+SS.Cosma e Damiano;2018-09-02;16,5;28
+SS.Cosma e Damiano;2018-09-03;16,1;29,6
+SS.Cosma e Damiano;2018-09-04;15,5;28,5
+SS.Cosma e Damiano;2018-09-05;16,3;28,5
+SS.Cosma e Damiano;2018-09-06;16,2;30,4
+SS.Cosma e Damiano;2018-09-07;17,9;29,9
+SS.Cosma e Damiano;2018-09-08;16,7;29,2
+SS.Cosma e Damiano;2018-09-09;17;30,1
+SS.Cosma e Damiano;2018-09-10;18,9;30,8
+SS.Cosma e Damiano;2018-09-11;15,4;32,9
+SS.Cosma e Damiano;2018-09-12;16,9;32,1
+SS.Cosma e Damiano;2018-09-13;18,2;28,8
+SS.Cosma e Damiano;2018-09-14;19,1;29,5
+SS.Cosma e Damiano;2018-09-15;17,1;29,4
+SS.Cosma e Damiano;2018-09-16;17;29,1
+SS.Cosma e Damiano;2018-09-17;17;29,5
+SS.Cosma e Damiano;2018-09-18;18,4;29,7
+SS.Cosma e Damiano;2018-09-19;20,5;28,4
+SS.Cosma e Damiano;2018-09-20;19,9;28,9
+SS.Cosma e Damiano;2018-09-21;18,8;30,2
+SS.Cosma e Damiano;2018-09-22;17;29,4
+SS.Cosma e Damiano;2018-09-23;17,4;29,1
+SS.Cosma e Damiano;2018-09-24;17,3;30,6
+SS.Cosma e Damiano;2018-09-25;17,2;24,5
+SS.Cosma e Damiano;2018-09-26;8,3;21,9
+SS.Cosma e Damiano;2018-09-27;6,9;27,1
+SS.Cosma e Damiano;2018-09-28;6,8;26,2
+SS.Cosma e Damiano;2018-09-29;8,7;27,6
+SS.Cosma e Damiano;2018-09-30;10,6;26,4
+Sabaudia;2018-09-01;20,2;29
+Sabaudia;2018-09-02;19;28,6
+Sabaudia;2018-09-03;19,2;28,7
+Sabaudia;2018-09-04;17,8;27,9
+Sabaudia;2018-09-05;18,9;28,7
+Sabaudia;2018-09-06;19;29,1
+Sabaudia;2018-09-07;18,1;28,9
+Sabaudia;2018-09-08;19,4;29,1
+Sabaudia;2018-09-09;20,5;29
+Sabaudia;2018-09-10;20,9;30
+Sabaudia;2018-09-11;20,7;29,7
+Sabaudia;2018-09-12;20;30,9
+Sabaudia;2018-09-13;21,2;27,9
+Sabaudia;2018-09-14;20;28,4
+Sabaudia;2018-09-15;19,6;28,5
+Sabaudia;2018-09-16;19,9;28,8
+Sabaudia;2018-09-17;19,8;28,8
+Sabaudia;2018-09-18;21,2;29,1
+Sabaudia;2018-09-19;20,9;24,6
+Sabaudia;2018-09-20;19,1;29,4
+Sabaudia;2018-09-21;20,8;27,9
+Sabaudia;2018-09-22;19,8;29,1
+Sabaudia;2018-09-23;18,8;28,5
+Sabaudia;2018-09-24;20,5;29,4
+Sabaudia;2018-09-25;17,7;27,4
+Sabaudia;2018-09-26;15,2;24,1
+Sabaudia;2018-09-27;12,7;24,4
+Sabaudia;2018-09-28;14;24,9
+Sabaudia;2018-09-29;14,4;26,1
+Sabaudia;2018-09-30;15,8;25,5
+Sacco a Colleferro;2018-09-01;15,7;26
+Sacco a Colleferro;2018-09-02;14,6;26,4
+Sacco a Colleferro;2018-09-03;13,3;26,5
+Sacco a Colleferro;2018-09-04;12,5;27,2
+Sacco a Colleferro;2018-09-05;12,5;29
+Sacco a Colleferro;2018-09-06;12,2;29,4
+Sacco a Colleferro;2018-09-07;14,4;29
+Sacco a Colleferro;2018-09-08;13,1;29,5
+Sacco a Colleferro;2018-09-09;13,7;30
+Sacco a Colleferro;2018-09-10;14,5;30,2
+Sacco a Colleferro;2018-09-11;12,7;31,4
+Sacco a Colleferro;2018-09-12;12,4;31,7
+Sacco a Colleferro;2018-09-13;14,8;24,6
+Sacco a Colleferro;2018-09-14;15,2;30,1
+Sacco a Colleferro;2018-09-15;12,4;30,3
+Sacco a Colleferro;2018-09-16;15;29,3
+Sacco a Colleferro;2018-09-17;15,6;28,8
+Sacco a Colleferro;2018-09-18;18,1;28,9
+Sacco a Colleferro;2018-09-19;18,2;25,2
+Sacco a Colleferro;2018-09-20;17,5;27,8
+Sacco a Colleferro;2018-09-21;16,2;28,2
+Sacco a Colleferro;2018-09-22;13,5;30,1
+Sacco a Colleferro;2018-09-23;12,9;29,6
+Sacco a Colleferro;2018-09-24;14,5;29,8
+Sacco a Colleferro;2018-09-25;7,8;25,3
+Sacco a Colleferro;2018-09-26;3,9;23
+Sacco a Colleferro;2018-09-27;2,2;25,6
+Sacco a Colleferro;2018-09-28;3,6;26,3
+Sacco a Colleferro;2018-09-29;4,3;27,2
+Sacco a Colleferro;2018-09-30;5,9;24,8
+Salisano;2018-09-01;16,3;25
+Salisano;2018-09-02;15,3;25,5
+Salisano;2018-09-03;15,6;26,8
+Salisano;2018-09-04;16,2;26,8
+Salisano;2018-09-05;16,3;28,6
+Salisano;2018-09-06;17,3;28,5
+Salisano;2018-09-07;16,7;27,1
+Salisano;2018-09-08;16,8;28,5
+Salisano;2018-09-09;18,2;29
+Salisano;2018-09-10;18,2;29,6
+Salisano;2018-09-11;18,2;30,3
+Salisano;2018-09-12;19,5;31
+Salisano;2018-09-13;18,9;23,4
+Salisano;2018-09-14;17,6;29,6
+Salisano;2018-09-15;18;29,6
+Salisano;2018-09-16;17,8;28,7
+Salisano;2018-09-17;18,3;29,2
+Salisano;2018-09-18;18,8;28,7
+Salisano;2018-09-19;17,9;26,1
+Salisano;2018-09-20;19;25
+Salisano;2018-09-21;18,4;27,6
+Salisano;2018-09-22;18,2;30,1
+Salisano;2018-09-23;17,7;29,4
+Salisano;2018-09-24;17,5;29,3
+Salisano;2018-09-25;12,9;22,7
+Salisano;2018-09-26;11,5;21,3
+Salisano;2018-09-27;10,8;27,8
+Salisano;2018-09-28;13,5;26,5
+Salisano;2018-09-29;14,1;27,7
+Salisano;2018-09-30;14,4;25,9
+Salone;2018-09-01;17,6;26,8
+Salone;2018-09-02;14,1;26,6
+Salone;2018-09-03;13,6;27,7
+Salone;2018-09-04;12,3;29,2
+Salone;2018-09-05;12;30,5
+Salone;2018-09-06;12,7;30,3
+Salone;2018-09-07;15,1;29,7
+Salone;2018-09-08;13,4;32,1
+Salone;2018-09-09;14,2;31,8
+Salone;2018-09-10;14,1;31,5
+Salone;2018-09-11;11,9;31,9
+Salone;2018-09-12;11,4;33,5
+Salone;2018-09-13;14,5;28,1
+Salone;2018-09-14;14,9;31,5
+Salone;2018-09-15;11,7;31
+Salone;2018-09-16;13,7;30,5
+Salone;2018-09-17;13,6;29,8
+Salone;2018-09-18;18;29,8
+Salone;2018-09-19;16,7;26,4
+Salone;2018-09-20;18,8;27,8
+Salone;2018-09-21;15,5;29,9
+Salone;2018-09-22;13,8;31,2
+Salone;2018-09-23;12,5;30
+Salone;2018-09-24;16,2;30
+Salone;2018-09-25;6,9;26,9
+Salone;2018-09-26;2,7;23,7
+Salone;2018-09-27;2,5;28,2
+Salone;2018-09-28;3,3;27,9
+Salone;2018-09-29;5,5;29
+Salone;2018-09-30;5,6;26,8
+Sambuci;2018-09-01;15,1;22,9
+Sambuci;2018-09-02;14,3;23,1
+Sambuci;2018-09-03;13,6;23,2
+Sambuci;2018-09-04;14,5;24
+Sambuci;2018-09-05;14,2;25,6
+Sambuci;2018-09-06;15,3;25,7
+Sambuci;2018-09-07;14,5;25,2
+Sambuci;2018-09-08;15;26,1
+Sambuci;2018-09-09;16,3;26,7
+Sambuci;2018-09-10;17,4;26,9
+Sambuci;2018-09-11;16,3;27,6
+Sambuci;2018-09-12;17,5;28,4
+Sambuci;2018-09-13;17,7;22,6
+Sambuci;2018-09-14;16,5;26,8
+Sambuci;2018-09-15;16,8;26,3
+Sambuci;2018-09-16;16,8;26,1
+Sambuci;2018-09-17;17,1;25,8
+Sambuci;2018-09-18;17,3;25,8
+Sambuci;2018-09-19;17;22,9
+Sambuci;2018-09-20;17;23,8
+Sambuci;2018-09-21;16,8;24,8
+Sambuci;2018-09-22;16,8;26
+Sambuci;2018-09-23;16,3;25,8
+Sambuci;2018-09-24;16,1;26,7
+Sambuci;2018-09-25;9,4;20,4
+Sambuci;2018-09-26;8,2;18,8
+Sambuci;2018-09-27;8,4;22,6
+Sambuci;2018-09-28;11,5;22,7
+Sambuci;2018-09-29;12,5;24,1
+Sambuci;2018-09-30;12,9;22
+San Biagio Saracinisco;2018-09-01;13,6;19,6
+San Biagio Saracinisco;2018-09-02;13,1;21,2
+San Biagio Saracinisco;2018-09-03;11,5;21,2
+San Biagio Saracinisco;2018-09-04;11,7;20,4
+San Biagio Saracinisco;2018-09-05;11,5;22,9
+San Biagio Saracinisco;2018-09-06;12,7;24,2
+San Biagio Saracinisco;2018-09-07;13,4;22,8
+San Biagio Saracinisco;2018-09-08;12,1;23,1
+San Biagio Saracinisco;2018-09-09;13,5;23,6
+San Biagio Saracinisco;2018-09-10;13,9;24,3
+San Biagio Saracinisco;2018-09-11;13,7;25,8
+San Biagio Saracinisco;2018-09-12;14,3;26,2
+San Biagio Saracinisco;2018-09-13;15,6;21,7
+San Biagio Saracinisco;2018-09-14;14,7;23,1
+San Biagio Saracinisco;2018-09-15;13,6;24
+San Biagio Saracinisco;2018-09-16;14;25
+San Biagio Saracinisco;2018-09-17;14;24,7
+San Biagio Saracinisco;2018-09-18;14,2;23
+San Biagio Saracinisco;2018-09-19;14,4;21,5
+San Biagio Saracinisco;2018-09-20;14,1;22,6
+San Biagio Saracinisco;2018-09-21;13,4;22,6
+San Biagio Saracinisco;2018-09-22;14,2;24,3
+San Biagio Saracinisco;2018-09-23;15,1;23,5
+San Biagio Saracinisco;2018-09-24;11,8;23,3
+San Biagio Saracinisco;2018-09-25;7,7;18,3
+San Biagio Saracinisco;2018-09-26;3,5;14,4
+San Biagio Saracinisco;2018-09-27;3,3;19,9
+San Biagio Saracinisco;2018-09-28;7,1;21,9
+San Biagio Saracinisco;2018-09-29;8,3;22,9
+San Biagio Saracinisco;2018-09-30;6,6;19,8
+San Marino;2018-09-01;15,9;27,4
+San Marino;2018-09-02;15,1;26,4
+San Marino;2018-09-03;14,8;25,2
+San Marino;2018-09-04;14,2;29
+San Marino;2018-09-05;14,8;29,3
+San Marino;2018-09-06;14,6;29,8
+San Marino;2018-09-07;16,4;29,6
+San Marino;2018-09-08;14,6;29,2
+San Marino;2018-09-09;16;29,7
+San Marino;2018-09-10;16,1;30,6
+San Marino;2018-09-11;15,6;31,7
+San Marino;2018-09-12;15,8;32,1
+San Marino;2018-09-13;17,2;26,1
+San Marino;2018-09-14;16,7;29,8
+San Marino;2018-09-15;15,3;30,4
+San Marino;2018-09-16;16,3;29,5
+San Marino;2018-09-17;16,6;29,5
+San Marino;2018-09-18;18,8;28,6
+San Marino;2018-09-19;18;25,4
+San Marino;2018-09-20;17;28,9
+San Marino;2018-09-21;16,5;27,1
+San Marino;2018-09-22;16,2;30,6
+San Marino;2018-09-23;16,2;29,5
+San Marino;2018-09-24;16,1;30,3
+San Marino;2018-09-25;10,1;24,1
+San Marino;2018-09-26;7,6;22,7
+San Marino;2018-09-27;5,6;24,8
+San Marino;2018-09-28;9,5;25,9
+San Marino;2018-09-29;8,9;27,7
+San Marino;2018-09-30;10,3;25,5
+Santa Severa;2018-09-01;20,4;26,6
+Santa Severa;2018-09-02;17,9;25,5
+Santa Severa;2018-09-03;17,7;25,6
+Santa Severa;2018-09-04;16,5;25,7
+Santa Severa;2018-09-05;16,3;26,7
+Santa Severa;2018-09-06;16,7;27,4
+Santa Severa;2018-09-07;17,6;26
+Santa Severa;2018-09-08;18,5;27,2
+Santa Severa;2018-09-09;18,4;27,1
+Santa Severa;2018-09-10;18,8;27,2
+Santa Severa;2018-09-11;18,4;28,2
+Santa Severa;2018-09-12;17,8;27,8
+Santa Severa;2018-09-13;18,8;26,4
+Santa Severa;2018-09-14;18,6;27,2
+Santa Severa;2018-09-15;17,7;26,3
+Santa Severa;2018-09-16;19;27,5
+Santa Severa;2018-09-17;19,4;26,3
+Santa Severa;2018-09-18;19,8;26,9
+Santa Severa;2018-09-19;20,4;25,6
+Santa Severa;2018-09-20;19,8;27,3
+Santa Severa;2018-09-21;19,2;27,9
+Santa Severa;2018-09-22;18,1;26,8
+Santa Severa;2018-09-23;18,1;26
+Santa Severa;2018-09-24;21,7;27,2
+Santa Severa;2018-09-25;16,5;27
+Santa Severa;2018-09-26;14,6;24,8
+Santa Severa;2018-09-27;11,4;28,1
+Santa Severa;2018-09-28;14,7;24,9
+Santa Severa;2018-09-29;14,4;25,8
+Santa Severa;2018-09-30;14,5;25,2
+Sasso Furbara;2018-09-01;18,4;25,5
+Sasso Furbara;2018-09-02;16,7;25,7
+Sasso Furbara;2018-09-03;16,2;25,8
+Sasso Furbara;2018-09-04;16,9;25,8
+Sasso Furbara;2018-09-05;17,3;27,3
+Sasso Furbara;2018-09-06;17,3;27,1
+Sasso Furbara;2018-09-07;16,7;26
+Sasso Furbara;2018-09-08;17,4;28,4
+Sasso Furbara;2018-09-09;19,3;29,2
+Sasso Furbara;2018-09-10;19,7;28,1
+Sasso Furbara;2018-09-11;18,4;30,3
+Sasso Furbara;2018-09-12;18,7;30,1
+Sasso Furbara;2018-09-13;19,4;26,4
+Sasso Furbara;2018-09-14;18,5;29,2
+Sasso Furbara;2018-09-15;18,8;27,4
+Sasso Furbara;2018-09-16;18,8;27,8
+Sasso Furbara;2018-09-17;18,2;26,4
+Sasso Furbara;2018-09-18;18,1;27,8
+Sasso Furbara;2018-09-19;18,7;24
+Sasso Furbara;2018-09-20;18,7;25,2
+Sasso Furbara;2018-09-21;19,1;26,6
+Sasso Furbara;2018-09-22;18,7;27,6
+Sasso Furbara;2018-09-23;17,8;25,6
+Sasso Furbara;2018-09-24;18,4;27,8
+Sasso Furbara;2018-09-25;13,2;24
+Sasso Furbara;2018-09-26;11,5;22,1
+Sasso Furbara;2018-09-27;11,2;26,8
+Sasso Furbara;2018-09-28;15,1;25
+Sasso Furbara;2018-09-29;14,2;26,5
+Sasso Furbara;2018-09-30;16,1;24,2
+Settefrati;2018-09-01;14,5;24,2
+Settefrati;2018-09-02;14,7;24,6
+Settefrati;2018-09-03;12,6;24,1
+Settefrati;2018-09-04;13,1;24,2
+Settefrati;2018-09-05;13,3;26,5
+Settefrati;2018-09-06;14,6;27,8
+Settefrati;2018-09-07;15;25,9
+Settefrati;2018-09-08;13,9;24,5
+Settefrati;2018-09-09;15;27,1
+Settefrati;2018-09-10;15,5;26,3
+Settefrati;2018-09-11;14,6;27,9
+Settefrati;2018-09-12;16,1;28,9
+Settefrati;2018-09-13;16,9;24,7
+Settefrati;2018-09-14;14,8;26,7
+Settefrati;2018-09-15;15,1;28,1
+Settefrati;2018-09-16;15,5;27,4
+Settefrati;2018-09-17;15,7;27,1
+Settefrati;2018-09-18;16,1;26,5
+Settefrati;2018-09-19;16,1;23,1
+Settefrati;2018-09-20;15,5;25,1
+Settefrati;2018-09-21;15,2;26,1
+Settefrati;2018-09-22;15,3;27,4
+Settefrati;2018-09-23;15,5;26,9
+Settefrati;2018-09-24;14,6;26
+Settefrati;2018-09-25;8,2;22,3
+Settefrati;2018-09-26;6,1;17,7
+Settefrati;2018-09-27;6,9;23
+Settefrati;2018-09-28;9;24,2
+Settefrati;2018-09-29;11,3;24,9
+Settefrati;2018-09-30;10,2;21,6
+Sgurgola;2018-09-01;15,5;27,5
+Sgurgola;2018-09-02;14,2;27,6
+Sgurgola;2018-09-03;13,7;26,8
+Sgurgola;2018-09-04;12,6;28,5
+Sgurgola;2018-09-05;12,5;29,6
+Sgurgola;2018-09-06;12,1;30,6
+Sgurgola;2018-09-07;14,1;29,8
+Sgurgola;2018-09-08;12,9;29,8
+Sgurgola;2018-09-09;14,1;30,6
+Sgurgola;2018-09-10;14,4;31,3
+Sgurgola;2018-09-11;13,8;33
+Sgurgola;2018-09-12;13;32,3
+Sgurgola;2018-09-13;14,8;25,9
+Sgurgola;2018-09-14;14,6;30,5
+Sgurgola;2018-09-15;12,9;30,6
+Sgurgola;2018-09-16;14,5;30,8
+Sgurgola;2018-09-17;14,1;31,2
+Sgurgola;2018-09-18;17,6;30,2
+Sgurgola;2018-09-19;17,9;25,5
+Sgurgola;2018-09-20;17,2;27,4
+Sgurgola;2018-09-21;16,1;29
+Sgurgola;2018-09-22;14,4;30,8
+Sgurgola;2018-09-23;13,2;29,8
+Sgurgola;2018-09-24;14,1;31,1
+Sgurgola;2018-09-25;7,7;24,7
+Sgurgola;2018-09-26;3,6;23,4
+Sgurgola;2018-09-27;2;26,8
+Sgurgola;2018-09-28;3,5;26,7
+Sgurgola;2018-09-29;4,7;27,6
+Sgurgola;2018-09-30;6,5;25,9
+Sora;2018-09-01;15,6;26,7
+Sora;2018-09-02;14,9;27
+Sora;2018-09-03;14;27
+Sora;2018-09-04;13,6;27,9
+Sora;2018-09-05;15,2;29,1
+Sora;2018-09-06;14,5;29,8
+Sora;2018-09-07;16,1;28,7
+Sora;2018-09-08;14,5;29,3
+Sora;2018-09-09;16,1;29,7
+Sora;2018-09-10;16,1;30,3
+Sora;2018-09-11;15,5;31
+Sora;2018-09-12;14,5;31,3
+Sora;2018-09-13;17,1;26,8
+Sora;2018-09-14;16,3;29,8
+Sora;2018-09-15;15,6;30,7
+Sora;2018-09-16;16,4;29,6
+Sora;2018-09-17;16,5;29,8
+Sora;2018-09-18;17,1;29,4
+Sora;2018-09-19;17,5;26,5
+Sora;2018-09-20;18,4;27,5
+Sora;2018-09-21;17,4;27,5
+Sora;2018-09-22;16,4;30,1
+Sora;2018-09-23;16;29,5
+Sora;2018-09-24;15,5;29
+Sora;2018-09-25;15,5;22,4
+Sora;2018-09-26;7,3;18,5
+Sora;2018-09-27;4,2;24
+Sora;2018-09-28;6,2;25,6
+Sora;2018-09-29;9,2;27,1
+Sora;2018-09-30;10;24,8
+Sorano Meteo;2018-09-01;15,5;20,9
+Sorano Meteo;2018-09-02;13,6;19,3
+Sorano Meteo;2018-09-03;14,1;21,6
+Sorano Meteo;2018-09-04;15,3;21,8
+Sorano Meteo;2018-09-05;15,6;24,3
+Sorano Meteo;2018-09-06;16,6;23,7
+Sorano Meteo;2018-09-07;16,2;22,9
+Sorano Meteo;2018-09-08;15,6;23,9
+Sorano Meteo;2018-09-09;17,7;25,7
+Sorano Meteo;2018-09-10;19,4;25,8
+Sorano Meteo;2018-09-11;19,7;27,4
+Sorano Meteo;2018-09-12;20,7;27,9
+Sorano Meteo;2018-09-13;17,4;22,8
+Sorano Meteo;2018-09-14;17;25,9
+Sorano Meteo;2018-09-15;16,8;24,6
+Sorano Meteo;2018-09-16;17,4;24,4
+Sorano Meteo;2018-09-17;17;23,9
+Sorano Meteo;2018-09-18;17;23
+Sorano Meteo;2018-09-19;16,6;23,1
+Sorano Meteo;2018-09-20;17;22,7
+Sorano Meteo;2018-09-21;17,6;24,3
+Sorano Meteo;2018-09-22;16,7;23,5
+Sorano Meteo;2018-09-23;16,1;21,5
+Sorano Meteo;2018-09-24;13,5;23,8
+Sorano Meteo;2018-09-25;9,8;15,8
+Sorano Meteo;2018-09-26;8,1;14,6
+Sorano Meteo;2018-09-27;11,9;20,9
+Sorano Meteo;2018-09-28;14,5;23
+Sorano Meteo;2018-09-29;15,2;23,4
+Sorano Meteo;2018-09-30;14,4;22
+Sorgenti Capore;2018-09-01;16,2;27
+Sorgenti Capore;2018-09-02;15;26,5
+Sorgenti Capore;2018-09-03;14,3;25,8
+Sorgenti Capore;2018-09-04;14,1;26,6
+Sorgenti Capore;2018-09-05;14,4;28,2
+Sorgenti Capore;2018-09-06;14,6;28,4
+Sorgenti Capore;2018-09-07;16,1;28,3
+Sorgenti Capore;2018-09-08;15;27,3
+Sorgenti Capore;2018-09-09;15,1;29
+Sorgenti Capore;2018-09-10;16,1;29,7
+Sorgenti Capore;2018-09-11;14,9;30,5
+Sorgenti Capore;2018-09-12;14,5;31
+Sorgenti Capore;2018-09-13;16,6;23,7
+Sorgenti Capore;2018-09-14;15,7;29,4
+Sorgenti Capore;2018-09-15;15,2;29,1
+Sorgenti Capore;2018-09-16;16,1;28,5
+Sorgenti Capore;2018-09-17;16,6;28,9
+Sorgenti Capore;2018-09-18;17,3;28,3
+Sorgenti Capore;2018-09-19;17;27
+Sorgenti Capore;2018-09-20;17,7;27,2
+Sorgenti Capore;2018-09-21;16,9;27
+Sorgenti Capore;2018-09-22;16,1;29,2
+Sorgenti Capore;2018-09-23;14,4;29,1
+Sorgenti Capore;2018-09-24;16,6;28,4
+Sorgenti Capore;2018-09-25;8,5;23,8
+Sorgenti Capore;2018-09-26;7,3;22,4
+Sorgenti Capore;2018-09-27;6,1;27
+Sorgenti Capore;2018-09-28;6,2;26
+Sorgenti Capore;2018-09-29;9;27,3
+Sorgenti Capore;2018-09-30;8,6;25,4
+Sorgenti Peschiera;2018-09-01;14,6;24,1
+Sorgenti Peschiera;2018-09-02;13,2;24,6
+Sorgenti Peschiera;2018-09-03;11,8;24,7
+Sorgenti Peschiera;2018-09-04;12,6;24,6
+Sorgenti Peschiera;2018-09-05;11,8;27
+Sorgenti Peschiera;2018-09-06;12,3;27,8
+Sorgenti Peschiera;2018-09-07;14,1;26,5
+Sorgenti Peschiera;2018-09-08;12,4;25,6
+Sorgenti Peschiera;2018-09-09;12,8;26,2
+Sorgenti Peschiera;2018-09-10;13,7;27,4
+Sorgenti Peschiera;2018-09-11;12,4;28,5
+Sorgenti Peschiera;2018-09-12;11,1;29,3
+Sorgenti Peschiera;2018-09-13;14,2;24,1
+Sorgenti Peschiera;2018-09-14;12,6;28,2
+Sorgenti Peschiera;2018-09-15;13,2;28,1
+Sorgenti Peschiera;2018-09-16;12,8;28,1
+Sorgenti Peschiera;2018-09-17;14,1;27,3
+Sorgenti Peschiera;2018-09-18;15,7;25,4
+Sorgenti Peschiera;2018-09-19;14,2;24,5
+Sorgenti Peschiera;2018-09-20;16,9;24
+Sorgenti Peschiera;2018-09-21;15,5;26,1
+Sorgenti Peschiera;2018-09-22;13,3;26,9
+Sorgenti Peschiera;2018-09-23;11,9;26,6
+Sorgenti Peschiera;2018-09-24;15,6;27,1
+Sorgenti Peschiera;2018-09-25;12,8;19,2
+Sorgenti Peschiera;2018-09-26;10,5;18,3
+Sorgenti Peschiera;2018-09-27;5,9;23,9
+Sorgenti Peschiera;2018-09-28;5;24,6
+Sorgenti Peschiera;2018-09-29;6,3;25,5
+Sorgenti Peschiera;2018-09-30;8,4;23
+Soriano nel Cimino;2018-09-01;16,7;24,3
+Soriano nel Cimino;2018-09-02;15,4;23,3
+Soriano nel Cimino;2018-09-03;14,7;23,7
+Soriano nel Cimino;2018-09-04;16,2;25
+Soriano nel Cimino;2018-09-05;15,2;27,6
+Soriano nel Cimino;2018-09-06;16,2;27,4
+Soriano nel Cimino;2018-09-07;17,1;27,1
+Soriano nel Cimino;2018-09-08;16,7;27,2
+Soriano nel Cimino;2018-09-09;17;28,7
+Soriano nel Cimino;2018-09-10;18,4;29,2
+Soriano nel Cimino;2018-09-11;17,7;30,2
+Soriano nel Cimino;2018-09-12;17,9;30,7
+Soriano nel Cimino;2018-09-13;19,2;24,7
+Soriano nel Cimino;2018-09-14;17,7;28,6
+Soriano nel Cimino;2018-09-15;16,6;28,1
+Soriano nel Cimino;2018-09-16;17,7;28,1
+Soriano nel Cimino;2018-09-17;17,8;28,6
+Soriano nel Cimino;2018-09-18;17,7;26,8
+Soriano nel Cimino;2018-09-19;17,5;26,9
+Soriano nel Cimino;2018-09-20;18;24,6
+Soriano nel Cimino;2018-09-21;17,4;27,5
+Soriano nel Cimino;2018-09-22;17,4;27,8
+Soriano nel Cimino;2018-09-23;16,2;27,5
+Soriano nel Cimino;2018-09-24;15,8;27,1
+Soriano nel Cimino;2018-09-25;11,7;21,3
+Soriano nel Cimino;2018-09-26;9,8;19,3
+Soriano nel Cimino;2018-09-27;8,5;24,1
+Soriano nel Cimino;2018-09-28;12,4;26,5
+Soriano nel Cimino;2018-09-29;13;27,8
+Soriano nel Cimino;2018-09-30;13,2;24,5
+Spigno Saturnia;2018-09-01;17;28
+Spigno Saturnia;2018-09-02;16;27
+Spigno Saturnia;2018-09-03;15,9;27,5
+Spigno Saturnia;2018-09-04;14,9;28,7
+Spigno Saturnia;2018-09-05;15,8;28,7
+Spigno Saturnia;2018-09-06;15,8;29,1
+Spigno Saturnia;2018-09-07;17,1;29,1
+Spigno Saturnia;2018-09-08;16,1;28,9
+Spigno Saturnia;2018-09-09;16,8;30,2
+Spigno Saturnia;2018-09-10;18,5;30,6
+Spigno Saturnia;2018-09-11;16,5;32,4
+Spigno Saturnia;2018-09-12;16,2;32,3
+Spigno Saturnia;2018-09-13;18,2;28,4
+Spigno Saturnia;2018-09-14;19,2;30,1
+Spigno Saturnia;2018-09-15;16,5;30,3
+Spigno Saturnia;2018-09-16;16,1;29,2
+Spigno Saturnia;2018-09-17;16,1;29,4
+Spigno Saturnia;2018-09-18;16,8;29,1
+Spigno Saturnia;2018-09-19;19,9;27,6
+Spigno Saturnia;2018-09-20;20,2;29,4
+Spigno Saturnia;2018-09-21;17,9;28,6
+Spigno Saturnia;2018-09-22;16,3;28,6
+Spigno Saturnia;2018-09-23;17;28,1
+Spigno Saturnia;2018-09-24;16,8;29
+Spigno Saturnia;2018-09-25;16,8;24,8
+Spigno Saturnia;2018-09-26;10,8;22,6
+Spigno Saturnia;2018-09-27;10,1;27,1
+Spigno Saturnia;2018-09-28;7,9;27,1
+Spigno Saturnia;2018-09-29;8,9;27,8
+Spigno Saturnia;2018-09-30;12,1;25,7
+Subiaco-Scolastica;2018-09-01;14,6;23,8
+Subiaco-Scolastica;2018-09-02;14,1;25,2
+Subiaco-Scolastica;2018-09-03;12,4;23,8
+Subiaco-Scolastica;2018-09-04;12,1;25,5
+Subiaco-Scolastica;2018-09-05;12,1;27,8
+Subiaco-Scolastica;2018-09-06;12,6;28,6
+Subiaco-Scolastica;2018-09-07;14,1;28,3
+Subiaco-Scolastica;2018-09-08;12,8;27,9
+Subiaco-Scolastica;2018-09-09;14,1;27,9
+Subiaco-Scolastica;2018-09-10;14,5;29,5
+Subiaco-Scolastica;2018-09-11;13,6;29,9
+Subiaco-Scolastica;2018-09-12;13,3;30,8
+Subiaco-Scolastica;2018-09-13;15,4;22,7
+Subiaco-Scolastica;2018-09-14;15;29
+Subiaco-Scolastica;2018-09-15;14,3;29,2
+Subiaco-Scolastica;2018-09-16;14,4;28
+Subiaco-Scolastica;2018-09-17;14,6;27,5
+Subiaco-Scolastica;2018-09-18;16,1;27,1
+Subiaco-Scolastica;2018-09-19;16,4;24,8
+Subiaco-Scolastica;2018-09-20;16,8;26,6
+Subiaco-Scolastica;2018-09-21;15,5;27,2
+Subiaco-Scolastica;2018-09-22;14,6;29,3
+Subiaco-Scolastica;2018-09-23;13,9;28,3
+Subiaco-Scolastica;2018-09-24;14,7;28,6
+Subiaco-Scolastica;2018-09-25;10,7;24,3
+Subiaco-Scolastica;2018-09-26;6,8;20,8
+Subiaco-Scolastica;2018-09-27;4;25,5
+Subiaco-Scolastica;2018-09-28;7,4;24,8
+Subiaco-Scolastica;2018-09-29;7,7;26,4
+Subiaco-Scolastica;2018-09-30;8,8;23,8
+Supino;2018-09-01;11,5;17,7
+Supino;2018-09-02;10,6;18,4
+Supino;2018-09-03;11,2;20,4
+Supino;2018-09-04;10,7;21,4
+Supino;2018-09-05;11,9;21,9
+Supino;2018-09-06;11,5;22,8
+Supino;2018-09-07;12;21,2
+Supino;2018-09-08;12;21,6
+Supino;2018-09-09;12,9;22,1
+Supino;2018-09-10;13,4;23,1
+Supino;2018-09-11;12,9;30,4
+Supino;2018-09-12;13,4;25,4
+Supino;2018-09-13;13,9;21,2
+Supino;2018-09-14;12,2;23,1
+Supino;2018-09-15;12,4;23,6
+Supino;2018-09-16;12,4;23,6
+Supino;2018-09-17;12,8;22,8
+Supino;2018-09-18;12,8;21,4
+Supino;2018-09-19;13,9;19,8
+Supino;2018-09-20;14;19,3
+Supino;2018-09-21;12,9;19,8
+Supino;2018-09-22;13;23,6
+Supino;2018-09-23;12,4;22
+Supino;2018-09-24;12,6;22,5
+Supino;2018-09-25;8,1;16,8
+Supino;2018-09-26;4,6;15,1
+Supino;2018-09-27;4,8;18,7
+Supino;2018-09-28;7,1;18,6
+Supino;2018-09-29;7,7;20,5
+Supino;2018-09-30;9,5;18,2
+Sutri;2018-09-01;14,8;24,4
+Sutri;2018-09-02;13,7;23,6
+Sutri;2018-09-03;13,2;25,7
+Sutri;2018-09-04;14,5;26,8
+Sutri;2018-09-05;13;31,1
+Sutri;2018-09-06;13,9;28,8
+Sutri;2018-09-07;17,6;28,4
+Sutri;2018-09-08;14,9;29,4
+Sutri;2018-09-09;15,2;31,7
+Sutri;2018-09-10;16,2;30,5
+Sutri;2018-09-11;14,3;32,3
+Sutri;2018-09-12;13,7;34,6
+Sutri;2018-09-13;16,9;25,4
+Sutri;2018-09-14;16,9;31,9
+Sutri;2018-09-15;15,3;28,7
+Sutri;2018-09-16;16,1;27,7
+Sutri;2018-09-17;15;28,2
+Sutri;2018-09-18;16,5;27,2
+Sutri;2018-09-19;18,3;25,8
+Sutri;2018-09-20;17,9;27,1
+Sutri;2018-09-21;16,1;28,4
+Sutri;2018-09-22;15,5;29,5
+Sutri;2018-09-23;14,8;27,2
+Sutri;2018-09-24;18,9;29,2
+Sutri;2018-09-25;13,5;25,9
+Sutri;2018-09-26;9,7;24,1
+Sutri;2018-09-27;4,1;28,4
+Sutri;2018-09-28;7,6;30
+Sutri;2018-09-29;9,1;30,4
+Sutri;2018-09-30;9,4;26,8
+Terracina;2018-09-01;19,2;29,3
+Terracina;2018-09-02;22,1;29
+Terracina;2018-09-03;20,4;29,9
+Terracina;2018-09-04;19;29,2
+Terracina;2018-09-05;20,2;29,8
+Terracina;2018-09-06;21,3;29,9
+Terracina;2018-09-07;20,6;30,1
+Terracina;2018-09-08;20,8;30,2
+Terracina;2018-09-09;21,6;30,8
+Terracina;2018-09-10;22,7;31,2
+Terracina;2018-09-11;21,7;31,8
+Terracina;2018-09-12;21,6;31,4
+Terracina;2018-09-13;22,6;28,9
+Terracina;2018-09-14;21;30,3
+Terracina;2018-09-15;20,4;30,2
+Terracina;2018-09-16;20,8;30,2
+Terracina;2018-09-17;21,2;30,2
+Terracina;2018-09-18;22,6;30,7
+Terracina;2018-09-19;22,5;25,5
+Terracina;2018-09-20;20,7;29,6
+Terracina;2018-09-21;22,2;28,5
+Terracina;2018-09-22;20,7;30,1
+Terracina;2018-09-23;19,7;29,5
+Terracina;2018-09-24;21,7;30,4
+Terracina;2018-09-25;18,3;28
+Terracina;2018-09-26;16;26
+Terracina;2018-09-27;13,6;25,1
+Terracina;2018-09-28;15,6;27
+Terracina;2018-09-29;15,5;27,3
+Terracina;2018-09-30;17;26,1
+Tevere a Castelgiubileo;2018-09-01;19;27,3
+Tevere a Castelgiubileo;2018-09-02;17,4;27
+Tevere a Castelgiubileo;2018-09-03;16,1;27,6
+Tevere a Castelgiubileo;2018-09-04;16,4;28,2
+Tevere a Castelgiubileo;2018-09-05;16,2;30,3
+Tevere a Castelgiubileo;2018-09-06;16,3;30,3
+Tevere a Castelgiubileo;2018-09-07;18,4;29,1
+Tevere a Castelgiubileo;2018-09-08;16,9;29,9
+Tevere a Castelgiubileo;2018-09-09;17,4;31,3
+Tevere a Castelgiubileo;2018-09-10;17,9;31,9
+Tevere a Castelgiubileo;2018-09-11;17,2;32,3
+Tevere a Castelgiubileo;2018-09-12;16,2;33,5
+Tevere a Castelgiubileo;2018-09-13;18,7;27,8
+Tevere a Castelgiubileo;2018-09-14;18,3;30,6
+Tevere a Castelgiubileo;2018-09-15;16,8;29,9
+Tevere a Castelgiubileo;2018-09-16;18,2;29,2
+Tevere a Castelgiubileo;2018-09-17;17,7;29,2
+Tevere a Castelgiubileo;2018-09-18;19,6;30,1
+Tevere a Castelgiubileo;2018-09-19;19,1;26,6
+Tevere a Castelgiubileo;2018-09-20;19,4;27,3
+Tevere a Castelgiubileo;2018-09-21;18,3;28,4
+Tevere a Castelgiubileo;2018-09-22;17,3;30,1
+Tevere a Castelgiubileo;2018-09-23;16,2;29,5
+Tevere a Castelgiubileo;2018-09-24;19,9;30,5
+Tevere a Castelgiubileo;2018-09-25;15,1;26,8
+Tevere a Castelgiubileo;2018-09-26;12,5;24,9
+Tevere a Castelgiubileo;2018-09-27;8,4;28,3
+Tevere a Castelgiubileo;2018-09-28;9,4;27,7
+Tevere a Castelgiubileo;2018-09-29;10,7;28,8
+Tevere a Castelgiubileo;2018-09-30;11,5;26,7
+Tevere a Stimigliano;2018-09-01;18,1;26,8
+Tevere a Stimigliano;2018-09-02;15,9;27,1
+Tevere a Stimigliano;2018-09-03;14,8;26,8
+Tevere a Stimigliano;2018-09-04;15,5;28,6
+Tevere a Stimigliano;2018-09-05;13,9;30,9
+Tevere a Stimigliano;2018-09-06;14,5;30,7
+Tevere a Stimigliano;2018-09-07;18;30,2
+Tevere a Stimigliano;2018-09-08;17;30,8
+Tevere a Stimigliano;2018-09-09;15,7;31,8
+Tevere a Stimigliano;2018-09-10;16,8;32,7
+Tevere a Stimigliano;2018-09-11;14,8;32,6
+Tevere a Stimigliano;2018-09-12;14,2;33,6
+Tevere a Stimigliano;2018-09-13;17,1;25,4
+Tevere a Stimigliano;2018-09-14;15,8;32,2
+Tevere a Stimigliano;2018-09-15;15,5;31,1
+Tevere a Stimigliano;2018-09-16;17,2;30,4
+Tevere a Stimigliano;2018-09-17;16,3;30,2
+Tevere a Stimigliano;2018-09-18;18,9;28,6
+Tevere a Stimigliano;2018-09-19;18,4;27,7
+Tevere a Stimigliano;2018-09-20;19,4;27,9
+Tevere a Stimigliano;2018-09-21;17,6;29,6
+Tevere a Stimigliano;2018-09-22;16;30,9
+Tevere a Stimigliano;2018-09-23;15;30,3
+Tevere a Stimigliano;2018-09-24;18,5;30,7
+Tevere a Stimigliano;2018-09-25;10,1;25,6
+Tevere a Stimigliano;2018-09-26;7,2;24,5
+Tevere a Stimigliano;2018-09-27;4,8;27,4
+Tevere a Stimigliano;2018-09-28;6,4;28,6
+Tevere a Stimigliano;2018-09-29;8,7;29,5
+Tevere a Stimigliano;2018-09-30;9,6;27,5
+Tor Vergata;2018-09-01;18,4;29,3
+Tor Vergata;2018-09-02;17;29,8
+Tor Vergata;2018-09-03;15,7;29,3
+Tor Vergata;2018-09-04;14,6;29,5
+Tor Vergata;2018-09-05;15,2;30,3
+Tor Vergata;2018-09-06;14,5;30,8
+Tor Vergata;2018-09-07;17,7;30,8
+Tor Vergata;2018-09-08;16,8;30,3
+Tor Vergata;2018-09-09;17,5;30,9
+Tor Vergata;2018-09-10;16,9;31,1
+Tor Vergata;2018-09-11;15,9;31,8
+Tor Vergata;2018-09-12;15,2;32,2
+Tor Vergata;2018-09-13;17,5;26,2
+Tor Vergata;2018-09-14;17,4;30,1
+Tor Vergata;2018-09-15;16;30,8
+Tor Vergata;2018-09-16;17,4;30,2
+Tor Vergata;2018-09-17;17,4;30,2
+Tor Vergata;2018-09-18;19,9;31,1
+Tor Vergata;2018-09-19;19;26,1
+Tor Vergata;2018-09-20;19,1;27,7
+Tor Vergata;2018-09-21;17,8;29,4
+Tor Vergata;2018-09-22;17,2;30,7
+Tor Vergata;2018-09-23;15,8;30,7
+Tor Vergata;2018-09-24;18,7;30,7
+Tor Vergata;2018-09-25;14,8;27
+Tor Vergata;2018-09-26;10;24,1
+Tor Vergata;2018-09-27;8,5;23,1
+Tor Vergata;2018-09-28;8,2;25,6
+Tor Vergata;2018-09-29;9,6;27,2
+Tor Vergata;2018-09-30;10,3;26,6
+Torrente Tafone;2018-09-01;20,4;27,4
+Torrente Tafone;2018-09-02;16,4;27
+Torrente Tafone;2018-09-03;15,9;25,8
+Torrente Tafone;2018-09-04;16,8;27,5
+Torrente Tafone;2018-09-05;14,8;29
+Torrente Tafone;2018-09-06;15,2;28,3
+Torrente Tafone;2018-09-07;18;27,7
+Torrente Tafone;2018-09-08;17,1;27,5
+Torrente Tafone;2018-09-09;17,1;28,9
+Torrente Tafone;2018-09-10;17,3;29,3
+Torrente Tafone;2018-09-11;15,6;29,2
+Torrente Tafone;2018-09-12;14,7;30,9
+Torrente Tafone;2018-09-13;17,5;26,9
+Torrente Tafone;2018-09-14;17,5;27,5
+Torrente Tafone;2018-09-15;16,8;28,2
+Torrente Tafone;2018-09-16;17,8;27,8
+Torrente Tafone;2018-09-17;17,1;28,1
+Torrente Tafone;2018-09-18;18,7;27,9
+Torrente Tafone;2018-09-19;20,1;27,9
+Torrente Tafone;2018-09-20;19,8;29,4
+Torrente Tafone;2018-09-21;17,9;28,5
+Torrente Tafone;2018-09-22;16,8;27,5
+Torrente Tafone;2018-09-23;18,1;27,2
+Torrente Tafone;2018-09-24;20,2;28,5
+Torrente Tafone;2018-09-25;15,4;24,4
+Torrente Tafone;2018-09-26;13,8;22,7
+Torrente Tafone;2018-09-27;7;28,6
+Torrente Tafone;2018-09-28;9,4;27,2
+Torrente Tafone;2018-09-29;11,3;27,7
+Torrente Tafone;2018-09-30;12,8;26,6
+Torrita Tiberina;2018-09-01;18;27,1
+Torrita Tiberina;2018-09-02;15,6;27,5
+Torrita Tiberina;2018-09-03;15,1;28,7
+Torrita Tiberina;2018-09-04;15,7;29,2
+Torrita Tiberina;2018-09-05;14,6;31,2
+Torrita Tiberina;2018-09-06;14,9;31,6
+Torrita Tiberina;2018-09-07;17;30,2
+Torrita Tiberina;2018-09-08;16,7;30,4
+Torrita Tiberina;2018-09-09;16,2;31,5
+Torrita Tiberina;2018-09-10;17;32,5
+Torrita Tiberina;2018-09-11;15,4;33
+Torrita Tiberina;2018-09-12;14,8;34,5
+Torrita Tiberina;2018-09-13;17,1;26
+Torrita Tiberina;2018-09-14;16,2;32,6
+Torrita Tiberina;2018-09-15;16;31,7
+Torrita Tiberina;2018-09-16;17,8;30,7
+Torrita Tiberina;2018-09-17;17,1;31,3
+Torrita Tiberina;2018-09-18;18,8;29,9
+Torrita Tiberina;2018-09-19;18,3;29,2
+Torrita Tiberina;2018-09-20;19,4;27,9
+Torrita Tiberina;2018-09-21;18,1;29,8
+Torrita Tiberina;2018-09-22;16,7;31,8
+Torrita Tiberina;2018-09-23;15,2;30,5
+Torrita Tiberina;2018-09-24;19,1;31,7
+Torrita Tiberina;2018-09-25;14,2;24,8
+Torrita Tiberina;2018-09-26;8,6;23,7
+Torrita Tiberina;2018-09-27;5,4;28,3
+Torrita Tiberina;2018-09-28;6,6;28,7
+Torrita Tiberina;2018-09-29;9;30,2
+Torrita Tiberina;2018-09-30;9,8;27,2
+Tragliatella rlazio;2018-09-01;18;25,8
+Tragliatella rlazio;2018-09-02;16,3;26,4
+Tragliatella rlazio;2018-09-03;16,6;27,2
+Tragliatella rlazio;2018-09-04;15,4;28,1
+Tragliatella rlazio;2018-09-05;16,9;30,1
+Tragliatella rlazio;2018-09-06;16,1;29,6
+Tragliatella rlazio;2018-09-07;17;28,3
+Tragliatella rlazio;2018-09-08;17,6;28,8
+Tragliatella rlazio;2018-09-09;18;30,6
+Tragliatella rlazio;2018-09-10;17,6;30,6
+Tragliatella rlazio;2018-09-11;17,1;31,6
+Tragliatella rlazio;2018-09-12;17,4;32,7
+Tragliatella rlazio;2018-09-13;17,8;25,9
+Tragliatella rlazio;2018-09-14;17,2;29,9
+Tragliatella rlazio;2018-09-15;16,9;29,3
+Tragliatella rlazio;2018-09-16;17,8;28,4
+Tragliatella rlazio;2018-09-17;17,5;29,1
+Tragliatella rlazio;2018-09-18;18,6;29,3
+Tragliatella rlazio;2018-09-19;19,7;26,5
+Tragliatella rlazio;2018-09-20;19,1;26,5
+Tragliatella rlazio;2018-09-21;18,6;28,5
+Tragliatella rlazio;2018-09-22;17,4;30,1
+Tragliatella rlazio;2018-09-23;16,9;28,1
+Tragliatella rlazio;2018-09-24;19,6;29,6
+Tragliatella rlazio;2018-09-25;14,8;24,9
+Tragliatella rlazio;2018-09-26;13,2;22,7
+Tragliatella rlazio;2018-09-27;11,7;26,2
+Tragliatella rlazio;2018-09-28;13,1;26,6
+Tragliatella rlazio;2018-09-29;14,3;27,8
+Tragliatella rlazio;2018-09-30;14,2;25,9
+Treia a Civita Castellana;2018-09-01;16,1;26,8
+Treia a Civita Castellana;2018-09-02;14,6;27
+Treia a Civita Castellana;2018-09-03;13,2;27,5
+Treia a Civita Castellana;2018-09-04;13,6;28,7
+Treia a Civita Castellana;2018-09-05;12,2;30,7
+Treia a Civita Castellana;2018-09-06;12,9;30,7
+Treia a Civita Castellana;2018-09-07;16,8;30,1
+Treia a Civita Castellana;2018-09-08;15,4;30,7
+Treia a Civita Castellana;2018-09-09;14,2;31,3
+Treia a Civita Castellana;2018-09-10;15,1;32,4
+Treia a Civita Castellana;2018-09-11;13,1;33,1
+Treia a Civita Castellana;2018-09-12;12,5;34,1
+Treia a Civita Castellana;2018-09-13;15,8;26,1
+Treia a Civita Castellana;2018-09-14;14,3;32,4
+Treia a Civita Castellana;2018-09-15;13,8;31,2
+Treia a Civita Castellana;2018-09-16;15,8;30,6
+Treia a Civita Castellana;2018-09-17;14,7;30
+Treia a Civita Castellana;2018-09-18;17,5;29,8
+Treia a Civita Castellana;2018-09-19;17,5;28,1
+Treia a Civita Castellana;2018-09-20;18,6;28,1
+Treia a Civita Castellana;2018-09-21;16,6;29,8
+Treia a Civita Castellana;2018-09-22;14,4;31,4
+Treia a Civita Castellana;2018-09-23;13,6;29,7
+Treia a Civita Castellana;2018-09-24;17;30,4
+Treia a Civita Castellana;2018-09-25;7,4;25,6
+Treia a Civita Castellana;2018-09-26;4,4;23,5
+Treia a Civita Castellana;2018-09-27;3;27,3
+Treia a Civita Castellana;2018-09-28;4,3;29,3
+Treia a Civita Castellana;2018-09-29;6,8;29,9
+Treia a Civita Castellana;2018-09-30;7,9;27,7
+Trevi nel Lazio;2018-09-01;12,7;21,4
+Trevi nel Lazio;2018-09-02;11,4;21,7
+Trevi nel Lazio;2018-09-03;10,4;22
+Trevi nel Lazio;2018-09-04;9,9;23,3
+Trevi nel Lazio;2018-09-05;10,1;24,8
+Trevi nel Lazio;2018-09-06;11;25,3
+Trevi nel Lazio;2018-09-07;12,5;24,4
+Trevi nel Lazio;2018-09-08;11,2;24,8
+Trevi nel Lazio;2018-09-09;12,8;25,3
+Trevi nel Lazio;2018-09-10;13;26
+Trevi nel Lazio;2018-09-11;11,8;26,8
+Trevi nel Lazio;2018-09-12;11,9;27,6
+Trevi nel Lazio;2018-09-13;13,7;22,3
+Trevi nel Lazio;2018-09-14;12,7;25,2
+Trevi nel Lazio;2018-09-15;12,3;25,8
+Trevi nel Lazio;2018-09-16;12,6;25,6
+Trevi nel Lazio;2018-09-17;13;25,9
+Trevi nel Lazio;2018-09-18;14,2;23,8
+Trevi nel Lazio;2018-09-19;14,8;22,4
+Trevi nel Lazio;2018-09-20;15;23,4
+Trevi nel Lazio;2018-09-21;13,4;24,3
+Trevi nel Lazio;2018-09-22;12,4;26
+Trevi nel Lazio;2018-09-23;12,2;25,8
+Trevi nel Lazio;2018-09-24;12,4;25,9
+Trevi nel Lazio;2018-09-25;10;17,9
+Trevi nel Lazio;2018-09-26;5,1;16,9
+Trevi nel Lazio;2018-09-27;2,7;21,3
+Trevi nel Lazio;2018-09-28;5,2;21,9
+Trevi nel Lazio;2018-09-29;6,3;22,8
+Trevi nel Lazio;2018-09-30;7,7;21,1
+Trevignano Romano;2018-09-01;18,6;24,5
+Trevignano Romano;2018-09-02;17,9;24,3
+Trevignano Romano;2018-09-03;17,6;26
+Trevignano Romano;2018-09-04;17,9;26,8
+Trevignano Romano;2018-09-05;18,3;28,3
+Trevignano Romano;2018-09-06;18,4;29,4
+Trevignano Romano;2018-09-07;18,9;26,9
+Trevignano Romano;2018-09-08;18,5;28,3
+Trevignano Romano;2018-09-09;20,1;28,4
+Trevignano Romano;2018-09-10;20,2;28,7
+Trevignano Romano;2018-09-11;19,5;30,7
+Trevignano Romano;2018-09-12;19,6;30,9
+Trevignano Romano;2018-09-13;20,8;26,2
+Trevignano Romano;2018-09-14;19,8;29,6
+Trevignano Romano;2018-09-15;19;28,1
+Trevignano Romano;2018-09-16;19,8;27,8
+Trevignano Romano;2018-09-17;19,3;27,9
+Trevignano Romano;2018-09-18;20;28,2
+Trevignano Romano;2018-09-19;19,4;24,8
+Trevignano Romano;2018-09-20;20,2;27
+Trevignano Romano;2018-09-21;19,7;27,7
+Trevignano Romano;2018-09-22;19,7;28,7
+Trevignano Romano;2018-09-23;19,2;27,2
+Trevignano Romano;2018-09-24;18,1;29,2
+Trevignano Romano;2018-09-25;13,8;26,1
+Trevignano Romano;2018-09-26;12,1;24,3
+Trevignano Romano;2018-09-27;12,6;28
+Trevignano Romano;2018-09-28;15,2;26,2
+Trevignano Romano;2018-09-29;15,8;27,3
+Trevignano Romano;2018-09-30;16,9;25,7
+Tuscania;2018-09-01;17,2;27
+Tuscania;2018-09-02;16;26,4
+Tuscania;2018-09-03;15,3;27,2
+Tuscania;2018-09-04;16,5;28,2
+Tuscania;2018-09-05;14,8;30,7
+Tuscania;2018-09-06;15,2;30,3
+Tuscania;2018-09-07;18;29,2
+Tuscania;2018-09-08;17,6;29,2
+Tuscania;2018-09-09;17,8;30,7
+Tuscania;2018-09-10;17,7;32
+Tuscania;2018-09-11;16,3;33,6
+Tuscania;2018-09-12;16,9;33,2
+Tuscania;2018-09-13;17,8;26,6
+Tuscania;2018-09-14;18,1;30,2
+Tuscania;2018-09-15;17,2;30,2
+Tuscania;2018-09-16;17,8;29,1
+Tuscania;2018-09-17;17,1;29,5
+Tuscania;2018-09-18;18,3;29,3
+Tuscania;2018-09-19;19;29,4
+Tuscania;2018-09-20;19,8;28,8
+Tuscania;2018-09-21;18,3;30,1
+Tuscania;2018-09-22;16,4;29,1
+Tuscania;2018-09-23;17,3;27,7
+Tuscania;2018-09-24;18,7;31,5
+Tuscania;2018-09-25;14,8;22,8
+Tuscania;2018-09-26;12,9;21,5
+Tuscania;2018-09-27;8,6;26,7
+Tuscania;2018-09-28;11;29,3
+Tuscania;2018-09-29;12,6;29,8
+Tuscania;2018-09-30;13,3;27,7
+Valentano;2018-09-01;13,7;23,7
+Valentano;2018-09-02;13,4;21,7
+Valentano;2018-09-03;13,3;23,1
+Valentano;2018-09-04;15,2;24,1
+Valentano;2018-09-05;14,3;25,9
+Valentano;2018-09-06;15,6;26,6
+Valentano;2018-09-07;15,7;24,2
+Valentano;2018-09-08;15;25,5
+Valentano;2018-09-09;17;27,3
+Valentano;2018-09-10;16,7;27,9
+Valentano;2018-09-11;17,9;29,9
+Valentano;2018-09-12;18,5;29,6
+Valentano;2018-09-13;17,6;22,3
+Valentano;2018-09-14;16,3;27,1
+Valentano;2018-09-15;15,8;27,7
+Valentano;2018-09-16;16,3;26,4
+Valentano;2018-09-17;17;26,3
+Valentano;2018-09-18;17,1;25,9
+Valentano;2018-09-19;17,2;25,9
+Valentano;2018-09-20;17,1;24,8
+Valentano;2018-09-21;16,4;26,5
+Valentano;2018-09-22;16;25,1
+Valentano;2018-09-23;16,1;24,1
+Valentano;2018-09-24;14,4;27,1
+Valentano;2018-09-25;11,1;18,8
+Valentano;2018-09-26;9,4;17,1
+Valentano;2018-09-27;8,2;23,4
+Valentano;2018-09-28;12,8;25,8
+Valentano;2018-09-29;13,8;26,1
+Valentano;2018-09-30;13,5;23,7
+Valle del Rio;2018-09-01;13,9;22,4
+Valle del Rio;2018-09-02;13,2;22,3
+Valle del Rio;2018-09-03;12,1;20,8
+Valle del Rio;2018-09-04;12,5;23,1
+Valle del Rio;2018-09-05;13;24,7
+Valle del Rio;2018-09-06;14,2;25,7
+Valle del Rio;2018-09-07;14;23,8
+Valle del Rio;2018-09-08;12,8;24,8
+Valle del Rio;2018-09-09;14,9;25,8
+Valle del Rio;2018-09-10;14,7;25,9
+Valle del Rio;2018-09-11;14,4;26,8
+Valle del Rio;2018-09-12;15,1;27,2
+Valle del Rio;2018-09-13;15,6;23,9
+Valle del Rio;2018-09-14;15,1;25,7
+Valle del Rio;2018-09-15;15,3;26,4
+Valle del Rio;2018-09-16;15,3;26,4
+Valle del Rio;2018-09-17;15,2;25,5
+Valle del Rio;2018-09-18;15,6;24,9
+Valle del Rio;2018-09-19;15,4;23
+Valle del Rio;2018-09-20;15,8;24
+Valle del Rio;2018-09-21;15,2;24,9
+Valle del Rio;2018-09-22;15;26
+Valle del Rio;2018-09-23;15,5;25,2
+Valle del Rio;2018-09-24;13,7;25,1
+Valle del Rio;2018-09-25;9;18,6
+Valle del Rio;2018-09-26;7,3;16,1
+Valle del Rio;2018-09-27;6,6;21,8
+Valle del Rio;2018-09-28;9,7;21,9
+Valle del Rio;2018-09-29;9,7;23,3
+Valle del Rio;2018-09-30;10,2;21,3
+Vallecorsa;2018-09-01;16,3;24,2
+Vallecorsa;2018-09-02;15,8;24,4
+Vallecorsa;2018-09-03;15,6;24,1
+Vallecorsa;2018-09-04;15,5;26,2
+Vallecorsa;2018-09-05;16;26,4
+Vallecorsa;2018-09-06;16,8;26,9
+Vallecorsa;2018-09-07;17,4;25,6
+Vallecorsa;2018-09-08;16,9;26,5
+Vallecorsa;2018-09-09;17,8;28,5
+Vallecorsa;2018-09-10;18,1;27,9
+Vallecorsa;2018-09-11;17,1;30,4
+Vallecorsa;2018-09-12;18,7;30
+Vallecorsa;2018-09-13;19;24,3
+Vallecorsa;2018-09-14;17,9;27,5
+Vallecorsa;2018-09-15;17,6;28,7
+Vallecorsa;2018-09-16;17,3;27,2
+Vallecorsa;2018-09-17;17,5;27,5
+Vallecorsa;2018-09-18;18,3;26
+Vallecorsa;2018-09-19;17,8;21,7
+Vallecorsa;2018-09-20;17,1;27,3
+Vallecorsa;2018-09-21;17;24,5
+Vallecorsa;2018-09-22;17,3;28,6
+Vallecorsa;2018-09-23;17,8;27,5
+Vallecorsa;2018-09-24;17,3;26,8
+Vallecorsa;2018-09-25;12,7;22,9
+Vallecorsa;2018-09-26;10;20,2
+Vallecorsa;2018-09-27;8,4;24,5
+Vallecorsa;2018-09-28;12,5;24,8
+Vallecorsa;2018-09-29;13;26,2
+Vallecorsa;2018-09-30;13,2;22,3
+Vallepietra;2018-09-01;12,6;20,7
+Vallepietra;2018-09-02;11,4;21
+Vallepietra;2018-09-03;10,9;22
+Vallepietra;2018-09-04;10,9;23,3
+Vallepietra;2018-09-05;11,4;24,4
+Vallepietra;2018-09-06;12,9;25,5
+Vallepietra;2018-09-07;12,7;23,5
+Vallepietra;2018-09-08;11,9;23,7
+Vallepietra;2018-09-09;14;26,1
+Vallepietra;2018-09-10;13,8;26,3
+Vallepietra;2018-09-11;13,8;26,7
+Vallepietra;2018-09-12;14,9;27,9
+Vallepietra;2018-09-13;14,9;23
+Vallepietra;2018-09-14;13,7;25,4
+Vallepietra;2018-09-15;13,8;25,9
+Vallepietra;2018-09-16;13,7;25,7
+Vallepietra;2018-09-17;14,5;24,9
+Vallepietra;2018-09-18;14,5;24,4
+Vallepietra;2018-09-19;14,9;22,3
+Vallepietra;2018-09-20;14,7;23,5
+Vallepietra;2018-09-21;13,3;22,7
+Vallepietra;2018-09-22;13,5;26
+Vallepietra;2018-09-23;14,1;25,4
+Vallepietra;2018-09-24;13,3;26,3
+Vallepietra;2018-09-25;9,6;18,2
+Vallepietra;2018-09-26;6,6;15,8
+Vallepietra;2018-09-27;5,9;21,3
+Vallepietra;2018-09-28;7,5;22,5
+Vallepietra;2018-09-29;9,7;22,8
+Vallepietra;2018-09-30;9,4;21,9
+Velino a Rieti;2018-09-01;15,7;24,8
+Velino a Rieti;2018-09-02;13,7;25,5
+Velino a Rieti;2018-09-03;12,2;24,9
+Velino a Rieti;2018-09-04;13,4;25,8
+Velino a Rieti;2018-09-05;13,3;28,2
+Velino a Rieti;2018-09-06;12,5;28,9
+Velino a Rieti;2018-09-07;14,9;25,7
+Velino a Rieti;2018-09-08;13,1;28,1
+Velino a Rieti;2018-09-09;13;29,5
+Velino a Rieti;2018-09-10;14,2;30
+Velino a Rieti;2018-09-11;12,6;31,5
+Velino a Rieti;2018-09-12;12,7;31,9
+Velino a Rieti;2018-09-13;15,4;23,5
+Velino a Rieti;2018-09-14;13,1;29,9
+Velino a Rieti;2018-09-15;14;29,3
+Velino a Rieti;2018-09-16;15;29,1
+Velino a Rieti;2018-09-17;15,1;28,3
+Velino a Rieti;2018-09-18;15,8;27,4
+Velino a Rieti;2018-09-19;15,1;26,9
+Velino a Rieti;2018-09-20;16,2;25,1
+Velino a Rieti;2018-09-21;15,1;27,3
+Velino a Rieti;2018-09-22;14,6;28,9
+Velino a Rieti;2018-09-23;13,4;28,1
+Velino a Rieti;2018-09-24;16,3;28,4
+Velino a Rieti;2018-09-25;13,2;21,2
+Velino a Rieti;2018-09-26;7;20,7
+Velino a Rieti;2018-09-27;3,4;25,6
+Velino a Rieti;2018-09-28;5,7;26,5
+Velino a Rieti;2018-09-29;6,5;27,1
+Velino a Rieti;2018-09-30;8;24,9
+Velletri;2018-09-01;17,4;26,9
+Velletri;2018-09-02;19,1;26,5
+Velletri;2018-09-03;18,7;27,3
+Velletri;2018-09-04;17,7;27,8
+Velletri;2018-09-05;19;31,7
+Velletri;2018-09-06;19,8;30,4
+Velletri;2018-09-07;18,5;29,8
+Velletri;2018-09-08;19,3;31
+Velletri;2018-09-09;20,3;30,9
+Velletri;2018-09-10;21,2;30,7
+Velletri;2018-09-11;20,6;32
+Velletri;2018-09-12;20,1;33
+Velletri;2018-09-13;19,9;27,5
+Velletri;2018-09-14;19,1;30,2
+Velletri;2018-09-15;19,3;28,7
+Velletri;2018-09-16;19,6;29,8
+Velletri;2018-09-17;19,7;29
+Velletri;2018-09-18;20;29,4
+Velletri;2018-09-19;19,5;26,3
+Velletri;2018-09-20;18,2;30,4
+Velletri;2018-09-21;20,5;30
+Velletri;2018-09-22;21,1;30,3
+Velletri;2018-09-23;19,8;29,7
+Velletri;2018-09-24;16,8;29,8
+Velletri;2018-09-25;14,3;27,5
+Velletri;2018-09-26;12,9;25,1
+Velletri;2018-09-27;13,7;28,1
+Velletri;2018-09-28;15,7;26,1
+Velletri;2018-09-29;17,1;27,7
+Velletri;2018-09-30;16,9;25,8
+Veroli;2018-09-01;16,3;25,9
+Veroli;2018-09-02;15,8;26,1
+Veroli;2018-09-03;13,7;25,3
+Veroli;2018-09-04;13,2;27,3
+Veroli;2018-09-05;13,5;28,5
+Veroli;2018-09-06;14,3;29,3
+Veroli;2018-09-07;15,7;27,9
+Veroli;2018-09-08;14;29,1
+Veroli;2018-09-09;16,2;29,9
+Veroli;2018-09-10;16,7;29,9
+Veroli;2018-09-11;15;31,2
+Veroli;2018-09-12;15,9;31,1
+Veroli;2018-09-13;17,6;24,6
+Veroli;2018-09-14;16,1;29,2
+Veroli;2018-09-15;15,7;29,7
+Veroli;2018-09-16;16,1;29
+Veroli;2018-09-17;15,7;29,3
+Veroli;2018-09-18;17,8;27,3
+Veroli;2018-09-19;18,2;26,1
+Veroli;2018-09-20;17;26,8
+Veroli;2018-09-21;16,1;27
+Veroli;2018-09-22;15,2;29,4
+Veroli;2018-09-23;15,9;28,8
+Veroli;2018-09-24;15,1;28,6
+Veroli;2018-09-25;10,5;24,2
+Veroli;2018-09-26;8,4;21,1
+Veroli;2018-09-27;5,4;24,9
+Veroli;2018-09-28;7,6;25,1
+Veroli;2018-09-29;10;26,9
+Veroli;2018-09-30;10,9;25,1
+Vetralla Rlazio;2018-09-01;16,2;25,1
+Vetralla Rlazio;2018-09-02;14,8;26,2
+Vetralla Rlazio;2018-09-03;14,5;25,6
+Vetralla Rlazio;2018-09-04;13,9;26,5
+Vetralla Rlazio;2018-09-05;12,4;28,5
+Vetralla Rlazio;2018-09-06;13,8;29,1
+Vetralla Rlazio;2018-09-07;16,2;29,1
+Vetralla Rlazio;2018-09-08;14,7;28,3
+Vetralla Rlazio;2018-09-09;15,3;29,2
+Vetralla Rlazio;2018-09-10;15,9;29,9
+Vetralla Rlazio;2018-09-11;14,1;31,2
+Vetralla Rlazio;2018-09-12;14,4;31,9
+Vetralla Rlazio;2018-09-13;16,4;26,8
+Vetralla Rlazio;2018-09-14;14,9;29,9
+Vetralla Rlazio;2018-09-15;13,5;29,3
+Vetralla Rlazio;2018-09-16;16;27,9
+Vetralla Rlazio;2018-09-17;15,7;29
+Vetralla Rlazio;2018-09-18;15;27,5
+Vetralla Rlazio;2018-09-19;16,9;26,2
+Vetralla Rlazio;2018-09-20;17,1;25,6
+Vetralla Rlazio;2018-09-21;15,9;29,4
+Vetralla Rlazio;2018-09-22;14,9;28,6
+Vetralla Rlazio;2018-09-23;15;27,4
+Vetralla Rlazio;2018-09-24;17,1;28,6
+Vetralla Rlazio;2018-09-25;12,2;21,5
+Vetralla Rlazio;2018-09-26;6;20,5
+Vetralla Rlazio;2018-09-27;4,4;25
+Vetralla Rlazio;2018-09-28;8,9;27,2
+Vetralla Rlazio;2018-09-29;9,4;28
+Vetralla Rlazio;2018-09-30;9;26,1
+Vico nel Lazio;2018-09-01;16,3;25
+Vico nel Lazio;2018-09-02;15,2;25,1
+Vico nel Lazio;2018-09-03;14,4;24,3
+Vico nel Lazio;2018-09-04;14,9;24,4
+Vico nel Lazio;2018-09-05;14,2;26,9
+Vico nel Lazio;2018-09-06;15,8;28,6
+Vico nel Lazio;2018-09-07;14,7;27,5
+Vico nel Lazio;2018-09-08;14,9;28,5
+Vico nel Lazio;2018-09-09;16,9;28
+Vico nel Lazio;2018-09-10;17,9;28,5
+Vico nel Lazio;2018-09-11;17,8;29,5
+Vico nel Lazio;2018-09-12;18,8;29,2
+Vico nel Lazio;2018-09-13;18,3;24,5
+Vico nel Lazio;2018-09-14;17,4;27,5
+Vico nel Lazio;2018-09-15;17,5;28,3
+Vico nel Lazio;2018-09-16;17,5;28,7
+Vico nel Lazio;2018-09-17;17,7;28,9
+Vico nel Lazio;2018-09-18;18,2;27,5
+Vico nel Lazio;2018-09-19;17,6;24,7
+Vico nel Lazio;2018-09-20;17;26,2
+Vico nel Lazio;2018-09-21;16,8;26,5
+Vico nel Lazio;2018-09-22;17,6;27,8
+Vico nel Lazio;2018-09-23;17,9;26,9
+Vico nel Lazio;2018-09-24;16,7;27,6
+Vico nel Lazio;2018-09-25;11;22,9
+Vico nel Lazio;2018-09-26;9,2;20,2
+Vico nel Lazio;2018-09-27;8,7;24,3
+Vico nel Lazio;2018-09-28;12,2;24
+Vico nel Lazio;2018-09-29;14,2;25,1
+Vico nel Lazio;2018-09-30;13,4;22,9
+Viterbo;2018-09-01;18,6;26,7
+Viterbo;2018-09-02;16,9;26,3
+Viterbo;2018-09-03;16,1;27,8
+Viterbo;2018-09-04;18;28,9
+Viterbo;2018-09-05;16;31
+Viterbo;2018-09-06;16,5;30,8
+Viterbo;2018-09-07;18,2;31,3
+Viterbo;2018-09-08;17,5;31,1
+Viterbo;2018-09-09;18,9;32,3
+Viterbo;2018-09-10;19,6;33,1
+Viterbo;2018-09-11;19,6;33,9
+Viterbo;2018-09-12;18,3;34,6
+Viterbo;2018-09-13;19,6;25,6
+Viterbo;2018-09-14;18,9;31,8
+Viterbo;2018-09-15;17,2;30,3
+Viterbo;2018-09-16;18,4;29,6
+Viterbo;2018-09-17;17,8;30,5
+Viterbo;2018-09-18;18,6;30,2
+Viterbo;2018-09-19;18,7;28,5
+Viterbo;2018-09-20;18,9;26,3
+Viterbo;2018-09-21;18,4;28,6
+Viterbo;2018-09-22;16,8;29,1
+Viterbo;2018-09-23;16,5;29,3
+Viterbo;2018-09-24;16,9;31,8
+Viterbo;2018-09-25;12,2;21,5
+Viterbo;2018-09-26;10,9;20,3
+Viterbo;2018-09-27;9,6;25,4
+Viterbo;2018-09-28;13,4;29,1
+Viterbo;2018-09-29;13,9;28,9
+Viterbo;2018-09-30;14,4;27,7
+Vivaro Romano;2018-09-01;14,3;21,2
+Vivaro Romano;2018-09-02;12,4;23,1
+Vivaro Romano;2018-09-03;12,1;23,2
+Vivaro Romano;2018-09-04;12,5;22,5
+Vivaro Romano;2018-09-05;13,3;25,9
+Vivaro Romano;2018-09-06;14,2;26,7
+Vivaro Romano;2018-09-07;14,7;25,2
+Vivaro Romano;2018-09-08;13,8;25,3
+Vivaro Romano;2018-09-09;14,9;26,4
+Vivaro Romano;2018-09-10;16;26,9
+Vivaro Romano;2018-09-11;15,6;29,2
+Vivaro Romano;2018-09-12;16,2;29
+Vivaro Romano;2018-09-13;16,2;22,3
+Vivaro Romano;2018-09-14;15,1;26,6
+Vivaro Romano;2018-09-15;15,8;26,7
+Vivaro Romano;2018-09-16;15,5;26,9
+Vivaro Romano;2018-09-17;16;26,9
+Vivaro Romano;2018-09-18;15,9;26,1
+Vivaro Romano;2018-09-19;15,5;24,1
+Vivaro Romano;2018-09-20;16,3;24,3
+Vivaro Romano;2018-09-21;15,7;24,9
+Vivaro Romano;2018-09-22;14,9;27
+Vivaro Romano;2018-09-23;15;26,1
+Vivaro Romano;2018-09-24;14;27,2
+Vivaro Romano;2018-09-25;9,2;20,1
+Vivaro Romano;2018-09-26;7,3;18,5
+Vivaro Romano;2018-09-27;7,8;23,6
+Vivaro Romano;2018-09-28;11;26
+Vivaro Romano;2018-09-29;11,1;26
+Vivaro Romano;2018-09-30;11,1;22,2
